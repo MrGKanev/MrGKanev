@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I am Gabriel (Gabo)
+# 👋 Hi, I am Gabo (Gabriel)
 
 ## About Me
 I'm a Full-Stack developer who is loves to optimize as much as possible. Who doesn't love a fast website/application.
 
-🤔 I’m looking for help with building a startup.
 
 ### 🔭 I’m currently working on
 - All my open source stuff (Hopefully more comming soon)
+- I’m looking for help with building a startup. 🤔 
 - AntiProxies (An easier way to protect your website) 🚀 *coming soon* 🚀
 
 ### 🌱 I’m currently learning
