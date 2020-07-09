@@ -30,5 +30,5 @@ I'm a Full-Stack developer who is loves to optimize as much as possible. Who dos
 - [Twitter](https://twitter.com/mrgkanev) 🐤
 - [Instagram](https://instagram.com/mrgkanev) 📷
 - [LinkedIn](https://linkedin.com/in/mrgkanev) 💼👨‍💻
-- [Website] (https://mrgkanev.eu)
+- [Website](https://mrgkanev.eu)
 
