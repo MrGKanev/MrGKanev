@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 # 👋 Hi, I am Gabo (Gabriel)
 
 ## About Me
-I'm a Full-Stack developer who is loves to optimize as much as possible. Who doesn't love a fast website/application.
+I'm a Full-Stack developer who is loves to optimize as much as possible. Who doesn't love a fast website/application. Ask me about anything by creating a new issue at [this repo](https://github.com/MrGKanev/MrGKanev/issues/new?assignees=&labels=question&template=custom.md&title=Question%3A+%5BYour-Title%5D).
+
 
 
 ### 🔭 I’m currently working on
