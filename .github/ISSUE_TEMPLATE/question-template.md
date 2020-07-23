@@ -7,4 +7,7 @@ assignees: MrGKanev
 
 ---
 
-1. Do you drink rakia?
+<!--
+Do you drink rakia?
+-->
+
