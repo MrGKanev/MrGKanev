@@ -25,6 +25,7 @@ repository.
 - All my open source stuff (Hopefully more comming soon)
 - I’m looking for help with building a startup. 🤔 
 - AntiProxies (An easier way to protect your website) 🚀 *coming soon* 🚀
+- Bimbala (Helping companies upgrade their support team.) 🚀 *coming soon* 🚀
 
 ### 🌱 I’m currently learning
 - [Alibaba Cloud Certification Course - Security](https://edu.alibabacloud.com/course/126)
