@@ -25,11 +25,15 @@ repository.
 - All my open source stuff (Hopefully more comming soon)
 - I’m looking for help with building a startup. 🤔 
 - AntiProxies (An easier way to protect your website) 🚀 *coming soon* 🚀
-- Bimbala (Helping companies upgrade their support team.) 🚀 *coming soon* 🚀
+- Bimbala (Helping companies upgrade their support team.) 🚀 *real soon* 🚀
 
 ### 🌱 I’m currently learning
 - [Alibaba Cloud Certification Course - Security](https://edu.alibabacloud.com/course/126)
 - Business and finance
+
+### 📖 Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### 📫 How to reach me
 [![E-Mail](https://img.shields.io/badge/--email?label=E-mail&logo=gmail&style=social)](mailto:contact@mrgkanev.eu) [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/mrgkanev) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/mrgkanev) 
