@@ -34,6 +34,11 @@ repository.
 
 ### 📖 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New year … yea yea](https://mrgkanev.eu/blog/new-year-yea-yea/)
+- [New Year, Old me 2.0](https://mrgkanev.eu/blog/new-year-old-me-2-0/)
+- [New Year, Old me](https://mrgkanev.eu/blog/new-year-old-me/)
+- [Online Education](https://mrgkanev.eu/blog/online-education/)
+- [Fresh Start](https://mrgkanev.eu/blog/fresh-start/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📫 How to reach me
