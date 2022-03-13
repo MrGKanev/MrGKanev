@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 # 👋 Hi, I am Gabo (Gabriel)
 
 ## About Me
-I'm a entrepreneurial type of person working in IT. ~~Full-Stack developer who is loves to optimize as much as possible. Who doesn't love a fast website/application.~~ Asking a question is as easy as
-[creating a new issue](https://github.com/MrGKanev/MrGKanev/issues/new?assignees=&labels=question&template=custom.md&title=Question%3A+%5BYour-Title%5D) on this
-repository.
+I'm a entrepreneurial type of person working in IT. ~~Full-Stack developer who is loves to optimize as much as possible. Who doesn't love a fast website/application.~~
 
 ### 🔭 I’m currently working on
 - AntiProxies (An easier way to protect your website) 🚀 *coming soon* 🚀
