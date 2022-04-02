@@ -18,12 +18,11 @@ Here are some ideas to get you started:
 # 👋 Hi, I am Gabo (Gabriel)
 
 ## About Me
-I'm a entrepreneurial type of person working in IT. ~~Full-Stack developer who is loves to optimize as much as possible. Who doesn't love a fast website/application.~~
 
 ### 🔭 I’m currently working on
 - AntiProxies (An easier way to protect your website) 🚀 *coming soon* 🚀
 - [Bimbala](https://bimbala.com/) -> *Alfa in progress* 🚀
-- All my open source stuff (Hopefully more comming soon)
+- All my open source stuff - Hopefully more comming soon
 - I’m looking for help with building a startup. 🤔 
 
 ### 🌱 I’m currently learning
