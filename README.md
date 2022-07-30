@@ -37,12 +37,11 @@ Here are some ideas to get you started:
 - [Online Education](https://mrgkanev.eu/blog/online-education/)
 <!-- BLOG-POST-LIST:END -->
 
-#### RECENT ACTIVITY
+#### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-#### RECENT BLOG POSTS
 
 ### 📫 How to reach me
 [Twitter](https://twitter.com/mrgkanev) | [LinkedIn](https://www.linkedin.com/in/mrgkanev) | [Instagram](https://instagram.com/mrgkanev)  | [E-Mail](mailto:contact@mrgkanev.eu) | [Website](https://mrgkanev.eu)
