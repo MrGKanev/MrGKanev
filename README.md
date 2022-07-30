@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on
 - AntiProxies (An easier way to protect your website) 🚀 *coming soon* 🚀
-- [Bimbala](https://bimbala.com/) -> *Alfa in progress* 🚀
-- All my open source stuff - Hopefully more comming soon
+- [Bimbala](https://bimbala.com/) -> *Beta in progress* 🚀
 - I’m looking for help with building a startup. 🤔 
 
 ### 🌱 I’m currently learning
@@ -37,6 +36,13 @@ Here are some ideas to get you started:
 - [New Year, Old me](https://mrgkanev.eu/blog/new-year-old-me/)
 - [Online Education](https://mrgkanev.eu/blog/online-education/)
 <!-- BLOG-POST-LIST:END -->
+
+#### RECENT ACTIVITY
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+#### RECENT BLOG POSTS
 
 ### 📫 How to reach me
 [Twitter](https://twitter.com/mrgkanev) | [LinkedIn](https://www.linkedin.com/in/mrgkanev) | [Instagram](https://instagram.com/mrgkanev)  | [E-Mail](mailto:contact@mrgkanev.eu) | [Website](https://mrgkanev.eu)
