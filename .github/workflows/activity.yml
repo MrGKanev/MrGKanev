@@ -2,7 +2,7 @@ name: Update GitHub Activity
 
 on:
   schedule:
-  # Once every Sunday
+  # At 04:00 on Tuesday, Thursday, and Saturday.
     - cron: '0 4 * * 2,4,6'
   workflow_dispatch:
 
