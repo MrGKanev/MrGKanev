@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 #### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/lukecav/awesome-wp-speed-up/issues/13) in [lukecav/awesome-wp-speed-up](https://github.com/lukecav/awesome-wp-speed-up)
-2. 🗣 Commented on [#2](https://github.com/Bimbalacom/Mobile/issues/2) in [Bimbalacom/Mobile](https://github.com/Bimbalacom/Mobile)
-3. ❗️ Opened issue [#6](https://github.com/Bimbalacom/Mobile/issues/6) in [Bimbalacom/Mobile](https://github.com/Bimbalacom/Mobile)
-4. 🎉 Merged PR [#4](https://github.com/Bimbalacom/Mobile/pull/4) in [Bimbalacom/Mobile](https://github.com/Bimbalacom/Mobile)
-5. 🗣 Commented on [#3](https://github.com/Bimbalacom/Mobile/issues/3) in [Bimbalacom/Mobile](https://github.com/Bimbalacom/Mobile)
+1. 💪 Opened PR [#14](https://github.com/lukecav/awesome-wp-speed-up/pull/14) in [lukecav/awesome-wp-speed-up](https://github.com/lukecav/awesome-wp-speed-up)
+2. ❗️ Opened issue [#13](https://github.com/lukecav/awesome-wp-speed-up/issues/13) in [lukecav/awesome-wp-speed-up](https://github.com/lukecav/awesome-wp-speed-up)
+3. 🗣 Commented on [#2](https://github.com/Bimbalacom/Mobile/issues/2) in [Bimbalacom/Mobile](https://github.com/Bimbalacom/Mobile)
+4. ❗️ Opened issue [#6](https://github.com/Bimbalacom/Mobile/issues/6) in [Bimbalacom/Mobile](https://github.com/Bimbalacom/Mobile)
+5. 🎉 Merged PR [#4](https://github.com/Bimbalacom/Mobile/pull/4) in [Bimbalacom/Mobile](https://github.com/Bimbalacom/Mobile)
 <!--END_SECTION:activity-->
 
 
