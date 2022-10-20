@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 #### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#99](https://github.com/janisdd/vscode-edit-csv/issues/99) in [janisdd/vscode-edit-csv](https://github.com/janisdd/vscode-edit-csv)
-2. ❗️ Opened issue [#392](https://github.com/nuttyartist/notes/issues/392) in [nuttyartist/notes](https://github.com/nuttyartist/notes)
-3. 🗣 Commented on [#8](https://github.com/alyssaxuu/later/issues/8) in [alyssaxuu/later](https://github.com/alyssaxuu/later)
-4. 🎉 Merged PR [#88](https://github.com/Bimbalacom/bimbalacom/pull/88) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-5. 💪 Opened PR [#88](https://github.com/Bimbalacom/bimbalacom/pull/88) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+1. ❗️ Closed issue [#99](https://github.com/janisdd/vscode-edit-csv/issues/99) in [janisdd/vscode-edit-csv](https://github.com/janisdd/vscode-edit-csv)
+2. ❗️ Opened issue [#99](https://github.com/janisdd/vscode-edit-csv/issues/99) in [janisdd/vscode-edit-csv](https://github.com/janisdd/vscode-edit-csv)
+3. ❗️ Opened issue [#392](https://github.com/nuttyartist/notes/issues/392) in [nuttyartist/notes](https://github.com/nuttyartist/notes)
+4. 🗣 Commented on [#8](https://github.com/alyssaxuu/later/issues/8) in [alyssaxuu/later](https://github.com/alyssaxuu/later)
+5. 🎉 Merged PR [#88](https://github.com/Bimbalacom/bimbalacom/pull/88) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
 <!--END_SECTION:activity-->
 
 
