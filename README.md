@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 #### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/mgknetcom/fan-courier/pull/1) in [mgknetcom/fan-courier](https://github.com/mgknetcom/fan-courier)
-2. ❗️ Closed issue [#99](https://github.com/janisdd/vscode-edit-csv/issues/99) in [janisdd/vscode-edit-csv](https://github.com/janisdd/vscode-edit-csv)
-3. ❗️ Opened issue [#99](https://github.com/janisdd/vscode-edit-csv/issues/99) in [janisdd/vscode-edit-csv](https://github.com/janisdd/vscode-edit-csv)
-4. ❗️ Opened issue [#392](https://github.com/nuttyartist/notes/issues/392) in [nuttyartist/notes](https://github.com/nuttyartist/notes)
-5. 🗣 Commented on [#8](https://github.com/alyssaxuu/later/issues/8) in [alyssaxuu/later](https://github.com/alyssaxuu/later)
+1. 🎉 Merged PR [#87](https://github.com/Bimbalacom/bimbalacom/pull/87) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+2. 🎉 Merged PR [#89](https://github.com/Bimbalacom/bimbalacom/pull/89) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+3. 💪 Opened PR [#89](https://github.com/Bimbalacom/bimbalacom/pull/89) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+4. 🎉 Merged PR [#1](https://github.com/mgknetcom/fan-courier/pull/1) in [mgknetcom/fan-courier](https://github.com/mgknetcom/fan-courier)
+5. ❗️ Closed issue [#99](https://github.com/janisdd/vscode-edit-csv/issues/99) in [janisdd/vscode-edit-csv](https://github.com/janisdd/vscode-edit-csv)
 <!--END_SECTION:activity-->
 
 
