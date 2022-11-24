@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 #### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#91](https://github.com/Bimbalacom/bimbalacom/pull/91) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-2. 🎉 Merged PR [#87](https://github.com/Bimbalacom/bimbalacom/pull/87) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-3. 🎉 Merged PR [#89](https://github.com/Bimbalacom/bimbalacom/pull/89) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-4. 💪 Opened PR [#89](https://github.com/Bimbalacom/bimbalacom/pull/89) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-5. 🎉 Merged PR [#1](https://github.com/mgknetcom/fan-courier/pull/1) in [mgknetcom/fan-courier](https://github.com/mgknetcom/fan-courier)
+1. 🎉 Merged PR [#11](https://github.com/ArikAmor/Karting/pull/11) in [ArikAmor/Karting](https://github.com/ArikAmor/Karting)
+2. 💪 Opened PR [#91](https://github.com/Bimbalacom/bimbalacom/pull/91) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+3. 🎉 Merged PR [#87](https://github.com/Bimbalacom/bimbalacom/pull/87) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+4. 🎉 Merged PR [#89](https://github.com/Bimbalacom/bimbalacom/pull/89) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+5. 💪 Opened PR [#89](https://github.com/Bimbalacom/bimbalacom/pull/89) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
 <!--END_SECTION:activity-->
 
 
