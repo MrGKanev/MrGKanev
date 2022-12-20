@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 #### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Bimbalacom/Mobile/pull/7) in [Bimbalacom/Mobile](https://github.com/Bimbalacom/Mobile)
-2. 🗣 Commented on [#7](https://github.com/Bimbalacom/Mobile/issues/7) in [Bimbalacom/Mobile](https://github.com/Bimbalacom/Mobile)
-3. 🎉 Merged PR [#11](https://github.com/ArikAmor/Karting/pull/11) in [ArikAmor/Karting](https://github.com/ArikAmor/Karting)
-4. 💪 Opened PR [#91](https://github.com/Bimbalacom/bimbalacom/pull/91) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-5. 🎉 Merged PR [#87](https://github.com/Bimbalacom/bimbalacom/pull/87) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+1. 💪 Opened PR [#92](https://github.com/Bimbalacom/bimbalacom/pull/92) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+2. 🎉 Merged PR [#7](https://github.com/Bimbalacom/Mobile/pull/7) in [Bimbalacom/Mobile](https://github.com/Bimbalacom/Mobile)
+3. 🗣 Commented on [#7](https://github.com/Bimbalacom/Mobile/issues/7) in [Bimbalacom/Mobile](https://github.com/Bimbalacom/Mobile)
+4. 🎉 Merged PR [#11](https://github.com/ArikAmor/Karting/pull/11) in [ArikAmor/Karting](https://github.com/ArikAmor/Karting)
+5. 💪 Opened PR [#91](https://github.com/Bimbalacom/bimbalacom/pull/91) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
 <!--END_SECTION:activity-->
 
 
