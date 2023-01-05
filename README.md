@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 #### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1489](https://github.com/wesbos/awesome-uses/pull/1489) in [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
-2. 💪 Opened PR [#92](https://github.com/Bimbalacom/bimbalacom/pull/92) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-3. 🎉 Merged PR [#7](https://github.com/Bimbalacom/Mobile/pull/7) in [Bimbalacom/Mobile](https://github.com/Bimbalacom/Mobile)
-4. 🗣 Commented on [#7](https://github.com/Bimbalacom/Mobile/issues/7) in [Bimbalacom/Mobile](https://github.com/Bimbalacom/Mobile)
-5. 🎉 Merged PR [#11](https://github.com/ArikAmor/Karting/pull/11) in [ArikAmor/Karting](https://github.com/ArikAmor/Karting)
+1. 🗣 Commented on [#1489](https://github.com/wesbos/awesome-uses/issues/1489) in [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
+2. 💪 Opened PR [#1489](https://github.com/wesbos/awesome-uses/pull/1489) in [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
+3. 💪 Opened PR [#92](https://github.com/Bimbalacom/bimbalacom/pull/92) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+4. 🎉 Merged PR [#7](https://github.com/Bimbalacom/Mobile/pull/7) in [Bimbalacom/Mobile](https://github.com/Bimbalacom/Mobile)
+5. 🗣 Commented on [#7](https://github.com/Bimbalacom/Mobile/issues/7) in [Bimbalacom/Mobile](https://github.com/Bimbalacom/Mobile)
 <!--END_SECTION:activity-->
 
 
