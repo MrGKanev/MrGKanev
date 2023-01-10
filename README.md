@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 #### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1489](https://github.com/wesbos/awesome-uses/issues/1489) in [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
+1. 🎉 Merged PR [#94](https://github.com/Bimbalacom/bimbalacom/pull/94) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
 2. 🗣 Commented on [#1489](https://github.com/wesbos/awesome-uses/issues/1489) in [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
-3. 💪 Opened PR [#1489](https://github.com/wesbos/awesome-uses/pull/1489) in [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
-4. 💪 Opened PR [#92](https://github.com/Bimbalacom/bimbalacom/pull/92) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-5. 🎉 Merged PR [#7](https://github.com/Bimbalacom/Mobile/pull/7) in [Bimbalacom/Mobile](https://github.com/Bimbalacom/Mobile)
+3. 🗣 Commented on [#1489](https://github.com/wesbos/awesome-uses/issues/1489) in [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
+4. 💪 Opened PR [#1489](https://github.com/wesbos/awesome-uses/pull/1489) in [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
+5. 💪 Opened PR [#92](https://github.com/Bimbalacom/bimbalacom/pull/92) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
 <!--END_SECTION:activity-->
 
 
