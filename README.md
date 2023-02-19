@@ -48,5 +48,4 @@ Here are some ideas to get you started:
 <!--END_SECTION:activity-->
 
 
-### 📫 How to reach me
-[Twitter](https://twitter.com/mrgkanev) or [LinkedIn](https://www.linkedin.com/in/mrgkanev) 
+### 📫 How to reach me - [Twitter](https://twitter.com/mrgkanev) or [LinkedIn](https://www.linkedin.com/in/mrgkanev) 
