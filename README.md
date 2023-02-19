@@ -49,5 +49,4 @@ Here are some ideas to get you started:
 
 
 ### 📫 How to reach me
-[Twitter](https://twitter.com/mrgkanev) | [LinkedIn](https://www.linkedin.com/in/mrgkanev) | [Instagram](https://instagram.com/mrgkanev)  | [E-Mail](mailto:contact@mrgkanev.eu) | [Website](https://mrgkanev.eu)
-
+[Twitter](https://twitter.com/mrgkanev) or [LinkedIn](https://www.linkedin.com/in/mrgkanev) 
