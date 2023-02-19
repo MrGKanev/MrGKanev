@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I am Gabo (Gabriel)
+# 👋 Hi, I am Gabriel (Gabo)
 
 ## About Me
 
 ### 🔭 I’m currently working on
-- AntiProxies (An easier way to protect your website) 🚀 *coming soon* 🚀
 - [Bimbala](https://bimbala.com/) -> *Beta in progress* 🚀
-- I’m looking for help with building a startup. 🤔 
+- [AntiProxies](https://antiproxies.com/) (An easier way to protect your website and e-commerce solution) 🚀 *coming soon* 🚀
+- Starting my PhD degree 🤔 
 
 ### 🌱 I’m currently learning
 - [Alibaba Cloud Certification Course - Security](https://edu.alibabacloud.com/course/126)
