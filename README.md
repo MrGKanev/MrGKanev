@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 #### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/pull/1) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
-2. 🎉 Merged PR [#4](https://github.com/Bimbalacom/Desktop/pull/4) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
-3. 🎉 Merged PR [#97](https://github.com/Bimbalacom/bimbalacom/pull/97) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-4. 🎉 Merged PR [#8](https://github.com/Bimbalacom/Mobile/pull/8) in [Bimbalacom/Mobile](https://github.com/Bimbalacom/Mobile)
-5. 🎉 Merged PR [#12](https://github.com/ArikAmor/Karting/pull/12) in [ArikAmor/Karting](https://github.com/ArikAmor/Karting)
+1. ❗️ Opened issue [#2](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/issues/2) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
+2. 💪 Opened PR [#1](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/pull/1) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
+3. 🎉 Merged PR [#4](https://github.com/Bimbalacom/Desktop/pull/4) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
+4. 🎉 Merged PR [#97](https://github.com/Bimbalacom/bimbalacom/pull/97) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+5. 🎉 Merged PR [#8](https://github.com/Bimbalacom/Mobile/pull/8) in [Bimbalacom/Mobile](https://github.com/Bimbalacom/Mobile)
 <!--END_SECTION:activity-->
 
 
