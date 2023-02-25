@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 #### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/issues/3) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
-2. ❗️ Opened issue [#2](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/issues/2) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
-3. 💪 Opened PR [#1](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/pull/1) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
-4. 🎉 Merged PR [#4](https://github.com/Bimbalacom/Desktop/pull/4) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
-5. 🎉 Merged PR [#97](https://github.com/Bimbalacom/bimbalacom/pull/97) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+1. 💪 Opened PR [#98](https://github.com/Bimbalacom/bimbalacom/pull/98) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+2. ❗️ Opened issue [#3](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/issues/3) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
+3. ❗️ Opened issue [#2](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/issues/2) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
+4. 💪 Opened PR [#1](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/pull/1) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
+5. 🎉 Merged PR [#4](https://github.com/Bimbalacom/Desktop/pull/4) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
 <!--END_SECTION:activity-->
 
 
