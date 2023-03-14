@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 #### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/mgknetcom/website/pull/1) in [mgknetcom/website](https://github.com/mgknetcom/website)
-2. ❗️ Opened issue [#4](https://github.com/kulgg/worktime/issues/4) in [kulgg/worktime](https://github.com/kulgg/worktime)
-3. 🎉 Merged PR [#98](https://github.com/Bimbalacom/bimbalacom/pull/98) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-4. 💪 Opened PR [#98](https://github.com/Bimbalacom/bimbalacom/pull/98) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-5. ❗️ Opened issue [#3](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/issues/3) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
+1. 🎉 Merged PR [#1](https://github.com/mgknetcom/website/pull/1) in [mgknetcom/website](https://github.com/mgknetcom/website)
+2. 💪 Opened PR [#1](https://github.com/mgknetcom/website/pull/1) in [mgknetcom/website](https://github.com/mgknetcom/website)
+3. ❗️ Opened issue [#4](https://github.com/kulgg/worktime/issues/4) in [kulgg/worktime](https://github.com/kulgg/worktime)
+4. 🎉 Merged PR [#98](https://github.com/Bimbalacom/bimbalacom/pull/98) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+5. 💪 Opened PR [#98](https://github.com/Bimbalacom/bimbalacom/pull/98) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
 <!--END_SECTION:activity-->
 
 
