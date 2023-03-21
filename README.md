@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 #### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/mgknetcom/website/pull/1) in [mgknetcom/website](https://github.com/mgknetcom/website)
-2. 💪 Opened PR [#1](https://github.com/mgknetcom/website/pull/1) in [mgknetcom/website](https://github.com/mgknetcom/website)
-3. ❗️ Opened issue [#4](https://github.com/kulgg/worktime/issues/4) in [kulgg/worktime](https://github.com/kulgg/worktime)
-4. 🎉 Merged PR [#98](https://github.com/Bimbalacom/bimbalacom/pull/98) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-5. 💪 Opened PR [#98](https://github.com/Bimbalacom/bimbalacom/pull/98) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+1. 💪 Opened PR [#26](https://github.com/MrGKanev/mrgkanev.eu/pull/26) in [MrGKanev/mrgkanev.eu](https://github.com/MrGKanev/mrgkanev.eu)
+2. ❌ Closed PR [#25](https://github.com/MrGKanev/mrgkanev.eu/pull/25) in [MrGKanev/mrgkanev.eu](https://github.com/MrGKanev/mrgkanev.eu)
+3. ❌ Closed PR [#24](https://github.com/MrGKanev/mrgkanev.eu/pull/24) in [MrGKanev/mrgkanev.eu](https://github.com/MrGKanev/mrgkanev.eu)
+4. ❌ Closed PR [#20](https://github.com/MrGKanev/mrgkanev.eu/pull/20) in [MrGKanev/mrgkanev.eu](https://github.com/MrGKanev/mrgkanev.eu)
+5. ❌ Closed PR [#22](https://github.com/MrGKanev/mrgkanev.eu/pull/22) in [MrGKanev/mrgkanev.eu](https://github.com/MrGKanev/mrgkanev.eu)
 <!--END_SECTION:activity-->
 
 
