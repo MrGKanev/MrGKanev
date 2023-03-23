@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 #### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#26](https://github.com/MrGKanev/mrgkanev.eu/pull/26) in [MrGKanev/mrgkanev.eu](https://github.com/MrGKanev/mrgkanev.eu)
-2. ❌ Closed PR [#25](https://github.com/MrGKanev/mrgkanev.eu/pull/25) in [MrGKanev/mrgkanev.eu](https://github.com/MrGKanev/mrgkanev.eu)
-3. ❌ Closed PR [#24](https://github.com/MrGKanev/mrgkanev.eu/pull/24) in [MrGKanev/mrgkanev.eu](https://github.com/MrGKanev/mrgkanev.eu)
-4. ❌ Closed PR [#20](https://github.com/MrGKanev/mrgkanev.eu/pull/20) in [MrGKanev/mrgkanev.eu](https://github.com/MrGKanev/mrgkanev.eu)
-5. ❌ Closed PR [#22](https://github.com/MrGKanev/mrgkanev.eu/pull/22) in [MrGKanev/mrgkanev.eu](https://github.com/MrGKanev/mrgkanev.eu)
+1. 🎉 Merged PR [#26](https://github.com/MrGKanev/mrgkanev.eu/pull/26) in [MrGKanev/mrgkanev.eu](https://github.com/MrGKanev/mrgkanev.eu)
+2. 💪 Opened PR [#26](https://github.com/MrGKanev/mrgkanev.eu/pull/26) in [MrGKanev/mrgkanev.eu](https://github.com/MrGKanev/mrgkanev.eu)
+3. ❌ Closed PR [#25](https://github.com/MrGKanev/mrgkanev.eu/pull/25) in [MrGKanev/mrgkanev.eu](https://github.com/MrGKanev/mrgkanev.eu)
+4. ❌ Closed PR [#24](https://github.com/MrGKanev/mrgkanev.eu/pull/24) in [MrGKanev/mrgkanev.eu](https://github.com/MrGKanev/mrgkanev.eu)
+5. ❌ Closed PR [#20](https://github.com/MrGKanev/mrgkanev.eu/pull/20) in [MrGKanev/mrgkanev.eu](https://github.com/MrGKanev/mrgkanev.eu)
 <!--END_SECTION:activity-->
 
 
