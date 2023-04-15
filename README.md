@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 #### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/issues/4) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
-2. ❗️ Opened issue [#4](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/issues/4) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
-3. 🎉 Merged PR [#13](https://github.com/ArikAmor/Karting/pull/13) in [ArikAmor/Karting](https://github.com/ArikAmor/Karting)
-4. 🎉 Merged PR [#26](https://github.com/MrGKanev/mrgkanev.eu/pull/26) in [MrGKanev/mrgkanev.eu](https://github.com/MrGKanev/mrgkanev.eu)
-5. 💪 Opened PR [#26](https://github.com/MrGKanev/mrgkanev.eu/pull/26) in [MrGKanev/mrgkanev.eu](https://github.com/MrGKanev/mrgkanev.eu)
+1. 🗣 Commented on [#15](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/issues/15) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
+2. 💪 Opened PR [#99](https://github.com/Bimbalacom/bimbalacom/pull/99) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+3. ❗️ Opened issue [#15](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/issues/15) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
+4. 🗣 Commented on [#4](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/issues/4) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
+5. ❗️ Opened issue [#4](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/issues/4) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
 <!--END_SECTION:activity-->
 
 
