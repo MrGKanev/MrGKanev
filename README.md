@@ -30,8 +30,9 @@ Here are some ideas to get you started:
 
 ### 📖 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [No code apps and everything good &quot;about&quot; them](https://mrgkanev.eu/posts/no-code-apps-and-everything-good-about-them/)
 - [My marketing predictions for 2023](https://mrgkanev.eu/posts/my-marketing-predictions-for-2023/)
-- [Online education](https://mrgkanev.eu/posts/fresh-start/)
+- [Online education](https://mrgkanev.eu/posts/online-education/)
 - [Fresh Start](https://mrgkanev.eu/posts/fresh-start/)
 <!-- BLOG-POST-LIST:END -->
 
