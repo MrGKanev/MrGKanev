@@ -21,11 +21,12 @@ Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on
 - [Bimbala](https://bimbala.com/) -> *Beta in progress* 🚀
-- [AntiProxies](https://antiproxies.com/) (An easier way to protect your website and e-commerce solution) 🚀 *coming soon* 🚀
-- Starting my PhD degree 🤔 
+- [AntiProxies](https://antiproxies.com/) - An easier way to protect your website and e-commerce solution -> 🚀 *coming soon* 🚀
+- [IEEE Student Branch of Uni Ruse](https://github.com/IEEE-Student-Branch-of-Uni-Ruse) -> breakin science and IT at the same time ... on purpose ...
+- Finishing my PhD degree 🤔 -> will open source everything I write here as well (if possible)
 
 ### 🌱 I’m currently learning
-- [Alibaba Cloud Certification Course - Security](https://edu.alibabacloud.com/course/126)
+- [PMA.bg - Project Management Academy](https://pma.bg/)
 - Business and finance
 
 ### 📖 Blog posts
