@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 #### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/issues/15) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
-2. 💪 Opened PR [#99](https://github.com/Bimbalacom/bimbalacom/pull/99) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-3. ❗️ Opened issue [#15](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/issues/15) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
-4. 🗣 Commented on [#4](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/issues/4) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
-5. ❗️ Opened issue [#4](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/issues/4) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
+1. 🗣 Commented on [#17](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/issues/17) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
+2. ❌ Closed PR [#17](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/pull/17) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
+3. ❌ Closed PR [#16](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/pull/16) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
+4. ❌ Closed PR [#13](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/pull/13) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
+5. ❌ Closed PR [#11](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/pull/11) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
 <!--END_SECTION:activity-->
 
 
