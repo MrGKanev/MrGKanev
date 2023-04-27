@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 #### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/issues/17) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
-2. ❌ Closed PR [#17](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/pull/17) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
-3. ❌ Closed PR [#16](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/pull/16) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
-4. ❌ Closed PR [#13](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/pull/13) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
-5. ❌ Closed PR [#11](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/pull/11) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
+1. ❗️ Opened issue [#18](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/issues/18) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
+2. 🗣 Commented on [#15](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/issues/15) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
+3. 🗣 Commented on [#17](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/issues/17) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
+4. ❌ Closed PR [#17](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/pull/17) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
+5. ❌ Closed PR [#16](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/pull/16) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
 <!--END_SECTION:activity-->
 
 
