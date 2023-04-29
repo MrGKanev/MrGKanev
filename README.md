@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 #### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#18](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/issues/18) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
-2. 🗣 Commented on [#15](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/issues/15) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
-3. 🗣 Commented on [#17](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/issues/17) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
-4. ❌ Closed PR [#17](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/pull/17) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
-5. ❌ Closed PR [#16](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/pull/16) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
+1. 🎉 Merged PR [#91](https://github.com/Bimbalacom/bimbalacom/pull/91) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+2. ❌ Closed PR [#86](https://github.com/Bimbalacom/bimbalacom/pull/86) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+3. ❗️ Opened issue [#100](https://github.com/Bimbalacom/bimbalacom/issues/100) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+4. ❌ Closed PR [#77](https://github.com/Bimbalacom/bimbalacom/pull/77) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+5. ❗️ Opened issue [#9](https://github.com/Bimbalacom/Mobile/issues/9) in [Bimbalacom/Mobile](https://github.com/Bimbalacom/Mobile)
 <!--END_SECTION:activity-->
 
 
