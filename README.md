@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 #### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#101](https://github.com/Bimbalacom/bimbalacom/pull/101) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-2. 🗣 Commented on [#70](https://github.com/satnaing/astro-paper/issues/70) in [satnaing/astro-paper](https://github.com/satnaing/astro-paper)
-3. 💪 Opened PR [#164](https://github.com/onwidget/astrowind/pull/164) in [onwidget/astrowind](https://github.com/onwidget/astrowind)
-4. 💪 Opened PR [#69](https://github.com/satnaing/astro-paper/pull/69) in [satnaing/astro-paper](https://github.com/satnaing/astro-paper)
-5. ❗️ Opened issue [#27](https://github.com/MrGKanev/mrgkanev.eu/issues/27) in [MrGKanev/mrgkanev.eu](https://github.com/MrGKanev/mrgkanev.eu)
+1. ❗️ Opened issue [#20](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/issues/20) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
+2. 🎉 Merged PR [#19](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/pull/19) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
+3. 💪 Opened PR [#101](https://github.com/Bimbalacom/bimbalacom/pull/101) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+4. 🗣 Commented on [#70](https://github.com/satnaing/astro-paper/issues/70) in [satnaing/astro-paper](https://github.com/satnaing/astro-paper)
+5. 💪 Opened PR [#164](https://github.com/onwidget/astrowind/pull/164) in [onwidget/astrowind](https://github.com/onwidget/astrowind)
 <!--END_SECTION:activity-->
 
 
