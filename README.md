@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 #### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#20](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/issues/20) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
-2. 🎉 Merged PR [#19](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/pull/19) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
-3. 💪 Opened PR [#101](https://github.com/Bimbalacom/bimbalacom/pull/101) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-4. 🗣 Commented on [#70](https://github.com/satnaing/astro-paper/issues/70) in [satnaing/astro-paper](https://github.com/satnaing/astro-paper)
-5. 💪 Opened PR [#164](https://github.com/onwidget/astrowind/pull/164) in [onwidget/astrowind](https://github.com/onwidget/astrowind)
+1. 🗣 Commented on [#20](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/issues/20) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
+2. 🎉 Merged PR [#21](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/pull/21) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
+3. 💪 Opened PR [#21](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/pull/21) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
+4. ❗️ Opened issue [#20](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/issues/20) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
+5. 🎉 Merged PR [#19](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/pull/19) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
 <!--END_SECTION:activity-->
 
 
