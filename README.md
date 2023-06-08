@@ -21,11 +21,11 @@
 #### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#101](https://github.com/Bimbalacom/bimbalacom/pull/101) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-2. 🎉 Merged PR [#102](https://github.com/Bimbalacom/bimbalacom/pull/102) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-3. 🔒 Closed issue [#68](https://github.com/Bimbalacom/bimbalacom/issues/68) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-4. 💪 Opened PR [#102](https://github.com/Bimbalacom/bimbalacom/pull/102) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-5. 🎉 Merged PR [#22](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/pull/22) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
+1. 🎉 Merged PR [#29](https://github.com/MrGKanev/mrgkanev.eu/pull/29) in [MrGKanev/mrgkanev.eu](https://github.com/MrGKanev/mrgkanev.eu)
+2. 💪 Opened PR [#29](https://github.com/MrGKanev/mrgkanev.eu/pull/29) in [MrGKanev/mrgkanev.eu](https://github.com/MrGKanev/mrgkanev.eu)
+3. 🎉 Merged PR [#101](https://github.com/Bimbalacom/bimbalacom/pull/101) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+4. 🎉 Merged PR [#102](https://github.com/Bimbalacom/bimbalacom/pull/102) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+5. 🔒 Closed issue [#68](https://github.com/Bimbalacom/bimbalacom/issues/68) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
 <!--END_SECTION:activity-->
 
 
