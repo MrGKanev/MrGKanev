@@ -22,11 +22,11 @@
 #### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#104](https://github.com/Bimbalacom/bimbalacom/pull/104) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-2. 🎉 Merged PR [#103](https://github.com/Bimbalacom/bimbalacom/pull/103) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-3. 🎉 Merged PR [#29](https://github.com/MrGKanev/mrgkanev.eu/pull/29) in [MrGKanev/mrgkanev.eu](https://github.com/MrGKanev/mrgkanev.eu)
-4. 💪 Opened PR [#29](https://github.com/MrGKanev/mrgkanev.eu/pull/29) in [MrGKanev/mrgkanev.eu](https://github.com/MrGKanev/mrgkanev.eu)
-5. 🎉 Merged PR [#101](https://github.com/Bimbalacom/bimbalacom/pull/101) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+1. 🗣 Commented on [#105](https://github.com/Bimbalacom/bimbalacom/issues/105) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+2. 🎉 Merged PR [#104](https://github.com/Bimbalacom/bimbalacom/pull/104) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+3. 🎉 Merged PR [#103](https://github.com/Bimbalacom/bimbalacom/pull/103) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+4. 🎉 Merged PR [#29](https://github.com/MrGKanev/mrgkanev.eu/pull/29) in [MrGKanev/mrgkanev.eu](https://github.com/MrGKanev/mrgkanev.eu)
+5. 💪 Opened PR [#29](https://github.com/MrGKanev/mrgkanev.eu/pull/29) in [MrGKanev/mrgkanev.eu](https://github.com/MrGKanev/mrgkanev.eu)
 <!--END_SECTION:activity-->
 
 
