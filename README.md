@@ -22,11 +22,11 @@
 #### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#75](https://github.com/satnaing/astro-paper/issues/75) in [satnaing/astro-paper](https://github.com/satnaing/astro-paper)
-2. 🎉 Merged PR [#30](https://github.com/MrGKanev/mrgkanev.eu/pull/30) in [MrGKanev/mrgkanev.eu](https://github.com/MrGKanev/mrgkanev.eu)
-3. 🎉 Merged PR [#28](https://github.com/MrGKanev/mrgkanev.eu/pull/28) in [MrGKanev/mrgkanev.eu](https://github.com/MrGKanev/mrgkanev.eu)
-4. 🗣 Commented on [#105](https://github.com/Bimbalacom/bimbalacom/issues/105) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-5. 🎉 Merged PR [#104](https://github.com/Bimbalacom/bimbalacom/pull/104) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+1. 💪 Opened PR [#108](https://github.com/Bimbalacom/bimbalacom/pull/108) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+2. 💪 Opened PR [#107](https://github.com/Bimbalacom/bimbalacom/pull/107) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+3. 🗣 Commented on [#75](https://github.com/satnaing/astro-paper/issues/75) in [satnaing/astro-paper](https://github.com/satnaing/astro-paper)
+4. 🎉 Merged PR [#30](https://github.com/MrGKanev/mrgkanev.eu/pull/30) in [MrGKanev/mrgkanev.eu](https://github.com/MrGKanev/mrgkanev.eu)
+5. 🎉 Merged PR [#28](https://github.com/MrGKanev/mrgkanev.eu/pull/28) in [MrGKanev/mrgkanev.eu](https://github.com/MrGKanev/mrgkanev.eu)
 <!--END_SECTION:activity-->
 
 
