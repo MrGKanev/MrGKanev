@@ -22,11 +22,11 @@
 #### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#108](https://github.com/Bimbalacom/bimbalacom/pull/108) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-2. 💪 Opened PR [#108](https://github.com/Bimbalacom/bimbalacom/pull/108) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-3. 💪 Opened PR [#107](https://github.com/Bimbalacom/bimbalacom/pull/107) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-4. 🗣 Commented on [#75](https://github.com/satnaing/astro-paper/issues/75) in [satnaing/astro-paper](https://github.com/satnaing/astro-paper)
-5. 🎉 Merged PR [#30](https://github.com/MrGKanev/mrgkanev.eu/pull/30) in [MrGKanev/mrgkanev.eu](https://github.com/MrGKanev/mrgkanev.eu)
+1. 🗣 Commented on [#110](https://github.com/Bimbalacom/bimbalacom/issues/110) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+2. 💪 Opened PR [#110](https://github.com/Bimbalacom/bimbalacom/pull/110) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+3. 🎉 Merged PR [#108](https://github.com/Bimbalacom/bimbalacom/pull/108) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+4. 💪 Opened PR [#108](https://github.com/Bimbalacom/bimbalacom/pull/108) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+5. 💪 Opened PR [#107](https://github.com/Bimbalacom/bimbalacom/pull/107) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
 <!--END_SECTION:activity-->
 
 
