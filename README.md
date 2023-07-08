@@ -22,11 +22,11 @@
 #### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#82](https://github.com/Bimbalacom/bimbalacom/pull/82) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-2. 💪 Opened PR [#114](https://github.com/Bimbalacom/bimbalacom/pull/114) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-3. 💪 Opened PR [#113](https://github.com/Bimbalacom/bimbalacom/pull/113) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-4. 🗣 Commented on [#2](https://github.com/YafaRay/libYafaRay/issues/2) in [YafaRay/libYafaRay](https://github.com/YafaRay/libYafaRay)
-5. 🎉 Merged PR [#112](https://github.com/Bimbalacom/bimbalacom/pull/112) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+1. 💪 Opened PR [#115](https://github.com/Bimbalacom/bimbalacom/pull/115) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+2. ❌ Closed PR [#82](https://github.com/Bimbalacom/bimbalacom/pull/82) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+3. 💪 Opened PR [#114](https://github.com/Bimbalacom/bimbalacom/pull/114) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+4. 💪 Opened PR [#113](https://github.com/Bimbalacom/bimbalacom/pull/113) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+5. 🗣 Commented on [#2](https://github.com/YafaRay/libYafaRay/issues/2) in [YafaRay/libYafaRay](https://github.com/YafaRay/libYafaRay)
 <!--END_SECTION:activity-->
 
 
