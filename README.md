@@ -22,11 +22,11 @@
 #### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#126](https://github.com/Bimbalacom/bimbalacom/pull/126) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-2. 🎉 Merged PR [#121](https://github.com/Bimbalacom/bimbalacom/pull/121) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-3. 🎉 Merged PR [#123](https://github.com/Bimbalacom/bimbalacom/pull/123) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-4. 🎉 Merged PR [#120](https://github.com/Bimbalacom/bimbalacom/pull/120) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-5. 🗣 Commented on [#123](https://github.com/Bimbalacom/bimbalacom/pull/123#issuecomment-1643890318) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+1. ❗ Opened issue [#26](https://github.com/WPManageNinja/fluent-auth/issues/26) in [WPManageNinja/fluent-auth](https://github.com/WPManageNinja/fluent-auth)
+2. 🎉 Merged PR [#126](https://github.com/Bimbalacom/bimbalacom/pull/126) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+3. 🎉 Merged PR [#121](https://github.com/Bimbalacom/bimbalacom/pull/121) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+4. 🎉 Merged PR [#123](https://github.com/Bimbalacom/bimbalacom/pull/123) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+5. 🎉 Merged PR [#120](https://github.com/Bimbalacom/bimbalacom/pull/120) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
 <!--END_SECTION:activity-->
 
 
