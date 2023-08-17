@@ -22,11 +22,11 @@
 #### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/Bimbalacom/Desktop/pull/5) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
-2. ❗ Opened issue [#26](https://github.com/WPManageNinja/fluent-auth/issues/26) in [WPManageNinja/fluent-auth](https://github.com/WPManageNinja/fluent-auth)
-3. 🎉 Merged PR [#126](https://github.com/Bimbalacom/bimbalacom/pull/126) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-4. 🎉 Merged PR [#121](https://github.com/Bimbalacom/bimbalacom/pull/121) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-5. 🎉 Merged PR [#123](https://github.com/Bimbalacom/bimbalacom/pull/123) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+1. 💪 Opened PR [#6](https://github.com/Bimbalacom/Desktop/pull/6) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
+2. 🎉 Merged PR [#5](https://github.com/Bimbalacom/Desktop/pull/5) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
+3. 💪 Opened PR [#5](https://github.com/Bimbalacom/Desktop/pull/5) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
+4. ❗ Opened issue [#26](https://github.com/WPManageNinja/fluent-auth/issues/26) in [WPManageNinja/fluent-auth](https://github.com/WPManageNinja/fluent-auth)
+5. 🎉 Merged PR [#126](https://github.com/Bimbalacom/bimbalacom/pull/126) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
 <!--END_SECTION:activity-->
 
 
