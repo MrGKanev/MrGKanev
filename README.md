@@ -12,11 +12,11 @@
 
 ### 📖 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Resizing an Amazon EC2 Instance](https://mrgkanev.eu/posts/resizing-an-amazon-ec2-instance/)
 - [Made by Google](https://mrgkanev.eu/posts/made-by-google/)
 - [Why I stopped my phone notifications and why it is a bad thing](https://mrgkanev.eu/posts/why-i-stopped-my-phone-notifications/)
 - [No code apps and everything &quot;good&quot; about them.](https://mrgkanev.eu/posts/no-code-apps-and-everything-good-about-them/)
 - [My marketing predictions for 2023](https://mrgkanev.eu/posts/my-marketing-predictions-for-2023/)
-- [Online education](https://mrgkanev.eu/posts/online-education/)
 <!-- BLOG-POST-LIST:END -->
 
 #### 🧑‍💻 Recent Github Activity
