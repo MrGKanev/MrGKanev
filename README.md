@@ -22,11 +22,11 @@
 #### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/pull/23) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
-2. ❗ Opened issue [#238](https://github.com/onwidget/astrowind/issues/238) in [onwidget/astrowind](https://github.com/onwidget/astrowind)
-3. 🎉 Merged PR [#128](https://github.com/Bimbalacom/bimbalacom/pull/128) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-4. 🎉 Merged PR [#127](https://github.com/Bimbalacom/bimbalacom/pull/127) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-5. 🗣 Commented on [#127](https://github.com/Bimbalacom/bimbalacom/pull/127#issuecomment-1691571052) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+1. 🗣 Commented on [#129](https://github.com/Bimbalacom/bimbalacom/pull/129#issuecomment-1713631320) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+2. 💪 Opened PR [#23](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/pull/23) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
+3. ❗ Opened issue [#238](https://github.com/onwidget/astrowind/issues/238) in [onwidget/astrowind](https://github.com/onwidget/astrowind)
+4. 🎉 Merged PR [#128](https://github.com/Bimbalacom/bimbalacom/pull/128) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+5. 🎉 Merged PR [#127](https://github.com/Bimbalacom/bimbalacom/pull/127) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
 <!--END_SECTION:activity-->
 
 
