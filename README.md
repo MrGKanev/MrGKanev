@@ -22,11 +22,11 @@
 #### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#160](https://github.com/satnaing/astro-paper/pull/160#issuecomment-1778976604) in [satnaing/astro-paper](https://github.com/satnaing/astro-paper)
-2. 🎉 Merged PR [#23](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/pull/23) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
-3. ❌ Closed PR [#131](https://github.com/Bimbalacom/bimbalacom/pull/131) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-4. 🎉 Merged PR [#34](https://github.com/MrGKanev/mrgkanev.eu/pull/34) in [MrGKanev/mrgkanev.eu](https://github.com/MrGKanev/mrgkanev.eu)
-5. 🎉 Merged PR [#11](https://github.com/Bimbalacom/Desktop/pull/11) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
+1. 🎉 Merged PR [#24](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/pull/24) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
+2. 🗣 Commented on [#160](https://github.com/satnaing/astro-paper/pull/160#issuecomment-1778976604) in [satnaing/astro-paper](https://github.com/satnaing/astro-paper)
+3. 🎉 Merged PR [#23](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/pull/23) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
+4. ❌ Closed PR [#131](https://github.com/Bimbalacom/bimbalacom/pull/131) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+5. 🎉 Merged PR [#34](https://github.com/MrGKanev/mrgkanev.eu/pull/34) in [MrGKanev/mrgkanev.eu](https://github.com/MrGKanev/mrgkanev.eu)
 <!--END_SECTION:activity-->
 
 
