@@ -22,11 +22,11 @@
 #### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#132](https://github.com/Bimbalacom/bimbalacom/pull/132) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-2. 💪 Opened PR [#2](https://github.com/mgknetcom/website/pull/2) in [mgknetcom/website](https://github.com/mgknetcom/website)
-3. 🎉 Merged PR [#24](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/pull/24) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
-4. 🗣 Commented on [#160](https://github.com/satnaing/astro-paper/pull/160#issuecomment-1778976604) in [satnaing/astro-paper](https://github.com/satnaing/astro-paper)
-5. 🎉 Merged PR [#23](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/pull/23) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
+1. 🗣 Commented on [#305](https://github.com/onwidget/astrowind/pull/305#issuecomment-1837389537) in [onwidget/astrowind](https://github.com/onwidget/astrowind)
+2. 💪 Opened PR [#132](https://github.com/Bimbalacom/bimbalacom/pull/132) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+3. 💪 Opened PR [#2](https://github.com/mgknetcom/website/pull/2) in [mgknetcom/website](https://github.com/mgknetcom/website)
+4. 🎉 Merged PR [#24](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/pull/24) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
+5. 🗣 Commented on [#160](https://github.com/satnaing/astro-paper/pull/160#issuecomment-1778976604) in [satnaing/astro-paper](https://github.com/satnaing/astro-paper)
 <!--END_SECTION:activity-->
 
 
