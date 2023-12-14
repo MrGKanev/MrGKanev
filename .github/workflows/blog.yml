@@ -3,8 +3,8 @@ name: Blog in Readme
 on:
   workflow_dispatch:
   schedule:
-    # Once every Sunday
-    - cron: 0 0 * * 0
+    # Every day at “At 00:00.”
+    - cron: 0 0 * * *
 
 jobs:
   update:
