@@ -1,14 +1,10 @@
-## 👋 Hi, I am Gabriel (Gabo)
+## 👋 Hi
 
 ### 🔭 I’m currently working on
 - [Bimbala](https://bimbala.com/) -> *Beta in progress* 🚀
 - [AntiProxies](https://antiproxies.com/) - An easier way to protect your website and e-commerce solution -> 🚀 *coming soon* 🚀
 - [IEEE Student Branch of Uni Ruse](https://github.com/IEEE-Student-Branch-of-Uni-Ruse) -> breaking science and IT at the same time ... on purpose ...
 - Finishing my Ph.D. degree 🤔 -> will open source everything I write here as well (if possible)
-
-### 🌱 I’m currently learning
-- [PMA.bg - Project Management Academy](https://pma.bg/)
-- Business and Finance
 
 ### 📖 Blog posts
 <!-- BLOG-POST-LIST:START -->
