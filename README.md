@@ -18,11 +18,11 @@
 #### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#305](https://github.com/onwidget/astrowind/pull/305#issuecomment-1837389537) in [onwidget/astrowind](https://github.com/onwidget/astrowind)
-2. 💪 Opened PR [#132](https://github.com/Bimbalacom/bimbalacom/pull/132) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-3. 💪 Opened PR [#2](https://github.com/mgknetcom/website/pull/2) in [mgknetcom/website](https://github.com/mgknetcom/website)
-4. 🎉 Merged PR [#24](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/pull/24) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
-5. 🗣 Commented on [#160](https://github.com/satnaing/astro-paper/pull/160#issuecomment-1778976604) in [satnaing/astro-paper](https://github.com/satnaing/astro-paper)
+1. 🎉 Merged PR [#1](https://github.com/MrGKanev/awesome-geek-podcasts/pull/1) in [MrGKanev/awesome-geek-podcasts](https://github.com/MrGKanev/awesome-geek-podcasts)
+2. 💪 Opened PR [#1](https://github.com/MrGKanev/awesome-geek-podcasts/pull/1) in [MrGKanev/awesome-geek-podcasts](https://github.com/MrGKanev/awesome-geek-podcasts)
+3. 🗣 Commented on [#305](https://github.com/onwidget/astrowind/pull/305#issuecomment-1837389537) in [onwidget/astrowind](https://github.com/onwidget/astrowind)
+4. 💪 Opened PR [#132](https://github.com/Bimbalacom/bimbalacom/pull/132) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+5. 💪 Opened PR [#2](https://github.com/mgknetcom/website/pull/2) in [mgknetcom/website](https://github.com/mgknetcom/website)
 <!--END_SECTION:activity-->
 
 
