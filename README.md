@@ -18,11 +18,11 @@
 #### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/MrGKanev/awesome-geek-podcasts/pull/1) in [MrGKanev/awesome-geek-podcasts](https://github.com/MrGKanev/awesome-geek-podcasts)
-2. 💪 Opened PR [#1](https://github.com/MrGKanev/awesome-geek-podcasts/pull/1) in [MrGKanev/awesome-geek-podcasts](https://github.com/MrGKanev/awesome-geek-podcasts)
-3. 🗣 Commented on [#305](https://github.com/onwidget/astrowind/pull/305#issuecomment-1837389537) in [onwidget/astrowind](https://github.com/onwidget/astrowind)
-4. 💪 Opened PR [#132](https://github.com/Bimbalacom/bimbalacom/pull/132) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-5. 💪 Opened PR [#2](https://github.com/mgknetcom/website/pull/2) in [mgknetcom/website](https://github.com/mgknetcom/website)
+1. 💪 Opened PR [#1](https://github.com/MrGKanev/awesome-wordpress-functions/pull/1) in [MrGKanev/awesome-wordpress-functions](https://github.com/MrGKanev/awesome-wordpress-functions)
+2. 🎉 Merged PR [#1](https://github.com/MrGKanev/awesome-geek-podcasts/pull/1) in [MrGKanev/awesome-geek-podcasts](https://github.com/MrGKanev/awesome-geek-podcasts)
+3. 💪 Opened PR [#1](https://github.com/MrGKanev/awesome-geek-podcasts/pull/1) in [MrGKanev/awesome-geek-podcasts](https://github.com/MrGKanev/awesome-geek-podcasts)
+4. 🗣 Commented on [#305](https://github.com/onwidget/astrowind/pull/305#issuecomment-1837389537) in [onwidget/astrowind](https://github.com/onwidget/astrowind)
+5. 💪 Opened PR [#132](https://github.com/Bimbalacom/bimbalacom/pull/132) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
 <!--END_SECTION:activity-->
 
 
