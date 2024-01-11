@@ -18,11 +18,11 @@
 #### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/Bimbalacom/Desktop/pull/12) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
-2. 💪 Opened PR [#1](https://github.com/Bimbalacom/keep-a-log/pull/1) in [Bimbalacom/keep-a-log](https://github.com/Bimbalacom/keep-a-log)
-3. 🎉 Merged PR [#1](https://github.com/MrGKanev/awesome-wordpress-functions/pull/1) in [MrGKanev/awesome-wordpress-functions](https://github.com/MrGKanev/awesome-wordpress-functions)
-4. 💪 Opened PR [#1](https://github.com/MrGKanev/weight-loss-dashboard/pull/1) in [MrGKanev/weight-loss-dashboard](https://github.com/MrGKanev/weight-loss-dashboard)
-5. 💪 Opened PR [#1](https://github.com/MrGKanev/awesome-wordpress-functions/pull/1) in [MrGKanev/awesome-wordpress-functions](https://github.com/MrGKanev/awesome-wordpress-functions)
+1. 🔒 Closed issue [#60](https://github.com/Bimbalacom/bimbalacom/issues/60) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+2. 🔒 Closed issue [#69](https://github.com/Bimbalacom/bimbalacom/issues/69) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+3. 🎉 Merged PR [#35](https://github.com/MrGKanev/mrgkanev.eu/pull/35) in [MrGKanev/mrgkanev.eu](https://github.com/MrGKanev/mrgkanev.eu)
+4. 🎉 Merged PR [#137](https://github.com/Bimbalacom/bimbalacom/pull/137) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+5. 💪 Opened PR [#137](https://github.com/Bimbalacom/bimbalacom/pull/137) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
 <!--END_SECTION:activity-->
 
 
