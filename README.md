@@ -18,11 +18,11 @@
 #### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#60](https://github.com/Bimbalacom/bimbalacom/issues/60) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-2. 🔒 Closed issue [#69](https://github.com/Bimbalacom/bimbalacom/issues/69) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-3. 🎉 Merged PR [#35](https://github.com/MrGKanev/mrgkanev.eu/pull/35) in [MrGKanev/mrgkanev.eu](https://github.com/MrGKanev/mrgkanev.eu)
-4. 🎉 Merged PR [#137](https://github.com/Bimbalacom/bimbalacom/pull/137) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-5. 💪 Opened PR [#137](https://github.com/Bimbalacom/bimbalacom/pull/137) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+1. 🗣 Commented on [#8](https://github.com/WPManageNinja/easy-code-manager/issues/8#issuecomment-1887005677) in [WPManageNinja/easy-code-manager](https://github.com/WPManageNinja/easy-code-manager)
+2. 🔒 Closed issue [#60](https://github.com/Bimbalacom/bimbalacom/issues/60) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+3. 🔒 Closed issue [#69](https://github.com/Bimbalacom/bimbalacom/issues/69) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+4. 🎉 Merged PR [#35](https://github.com/MrGKanev/mrgkanev.eu/pull/35) in [MrGKanev/mrgkanev.eu](https://github.com/MrGKanev/mrgkanev.eu)
+5. 🎉 Merged PR [#137](https://github.com/Bimbalacom/bimbalacom/pull/137) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
 <!--END_SECTION:activity-->
 
 
