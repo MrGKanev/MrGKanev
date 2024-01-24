@@ -1,9 +1,9 @@
 ## 👋 Hi
 
 ### 🔭 I’m currently working on
-- [Bimbala](https://bimbala.com/) -> *Beta in progress* 🚀
-- [AntiProxies](https://antiproxies.com/) - An easier way to protect your website and e-commerce solution -> *Beta in progress* 🚀
-- [IEEE Student Branch of Uni Ruse](https://github.com/IEEE-Student-Branch-of-Uni-Ruse) -> breaking science and IT at the same time ... on purpose ...
+- [Bimbala](https://bimbala.com/) - *Beta in progress* 🚀 - The feedback board your customers need
+- [AntiProxies](https://antiproxies.com/) - *Beta in progress* 🚀 -  An easier way to protect your website and e-commerce solution
+- [IEEE Student Branch of Uni Ruse](https://github.com/IEEE-Student-Branch-of-Uni-Ruse) - breaking science and IT at the same time ... on purpose ...
 - Finishing my Ph.D. degree 🤔 -> will open source everything I write here as well (if possible)
 
 ### 📖 Blog posts
