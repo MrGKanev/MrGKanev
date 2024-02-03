@@ -18,11 +18,11 @@
 #### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#147](https://github.com/Bimbalacom/bimbalacom/pull/147#issuecomment-1912235413) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-2. 🗣 Commented on [#142](https://github.com/Bimbalacom/bimbalacom/pull/142#issuecomment-1912232338) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-3. 🔒 Closed issue [#145](https://github.com/Bimbalacom/bimbalacom/issues/145) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-4. 🎉 Merged PR [#148](https://github.com/Bimbalacom/bimbalacom/pull/148) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-5. 🗣 Commented on [#142](https://github.com/Bimbalacom/bimbalacom/pull/142#issuecomment-1912131134) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+1. 🎉 Merged PR [#142](https://github.com/Bimbalacom/bimbalacom/pull/142) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+2. 🎉 Merged PR [#147](https://github.com/Bimbalacom/bimbalacom/pull/147) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+3. 🗣 Commented on [#147](https://github.com/Bimbalacom/bimbalacom/pull/147#issuecomment-1912235413) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+4. 🗣 Commented on [#142](https://github.com/Bimbalacom/bimbalacom/pull/142#issuecomment-1912232338) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+5. 🔒 Closed issue [#145](https://github.com/Bimbalacom/bimbalacom/issues/145) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
 <!--END_SECTION:activity-->
 
 
