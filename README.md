@@ -18,11 +18,11 @@
 #### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#149](https://github.com/Bimbalacom/bimbalacom/pull/149) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-2. 💪 Opened PR [#151](https://github.com/Bimbalacom/bimbalacom/pull/151) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-3. 💪 Opened PR [#150](https://github.com/Bimbalacom/bimbalacom/pull/150) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-4. 💪 Opened PR [#149](https://github.com/Bimbalacom/bimbalacom/pull/149) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-5. 🎉 Merged PR [#142](https://github.com/Bimbalacom/bimbalacom/pull/142) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+1. 🔒 Closed issue [#2](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/issues/2) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
+2. 🔒 Closed issue [#4](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/issues/4) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
+3. ❗ Opened issue [#25](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/issues/25) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
+4. 🎉 Merged PR [#149](https://github.com/Bimbalacom/bimbalacom/pull/149) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+5. 💪 Opened PR [#151](https://github.com/Bimbalacom/bimbalacom/pull/151) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
 <!--END_SECTION:activity-->
 
 
