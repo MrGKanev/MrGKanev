@@ -8,11 +8,11 @@
 
 ### 📖 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [“PlanetScale forever” – my 2 cents](https://mrgkanev.eu/posts/planetscale-forever-my-2-cents/)
 - [Trying out the monochrome on my smartphone](https://mrgkanev.eu/posts/trying-out-the-monochrome-on-my-smartphone/)
 - [Resizing an Amazon EC2 Instance](https://mrgkanev.eu/posts/resizing-an-amazon-ec2-instance/)
 - [Made by Google](https://mrgkanev.eu/posts/made-by-google/)
 - [Why I stopped my phone notifications and why it is a bad thing](https://mrgkanev.eu/posts/why-i-stopped-my-phone-notifications-and-why-it-is-a-bad-thing/)
-- [No code apps and everything “good” about them.](https://mrgkanev.eu/posts/no-code-apps-and-everything-good-about-them/)
 <!-- BLOG-POST-LIST:END -->
 
 #### 🧑‍💻 Recent Github Activity
