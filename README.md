@@ -18,11 +18,11 @@
 #### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#152](https://github.com/Bimbalacom/bimbalacom/pull/152) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-2. 💪 Opened PR [#152](https://github.com/Bimbalacom/bimbalacom/pull/152) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-3. 🗣 Commented on [#38](https://github.com/thedevdojo/wave/pull/38#issuecomment-1965943932) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
-4. 🎉 Merged PR [#12](https://github.com/Bimbalacom/Desktop/pull/12) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
-5. 🔒 Closed issue [#2](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website/issues/2) in [IEEE-Student-Branch-of-Uni-Ruse/website](https://github.com/IEEE-Student-Branch-of-Uni-Ruse/website)
+1. 🎉 Merged PR [#153](https://github.com/Bimbalacom/bimbalacom/pull/153) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+2. 🎉 Merged PR [#152](https://github.com/Bimbalacom/bimbalacom/pull/152) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+3. 💪 Opened PR [#152](https://github.com/Bimbalacom/bimbalacom/pull/152) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+4. 🗣 Commented on [#38](https://github.com/thedevdojo/wave/pull/38#issuecomment-1965943932) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
+5. 🎉 Merged PR [#12](https://github.com/Bimbalacom/Desktop/pull/12) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
 <!--END_SECTION:activity-->
 
 
