@@ -1,7 +1,7 @@
-## 👋 Hi
+### 👋 Hi, I'm Gabo - [Website](https://mrgkanev.eu) | [Twitter/X](https://twitter.com/mrgkanev) | [LinkedIn](https://www.linkedin.com/in/mrgkanev)
 
-### 🔭 I’m currently working on
-- [Bimbala](https://bimbala.com/) - *Beta in progress* 🚀 - The feedback board your customers need
+#### 🔭 I’m currently working on
+- [Bimbala](https://bimbala.com/)  - The feedback board your customers need
 - [AntiProxies](https://antiproxies.com/) - *Beta in progress* 🚀 -  An easier way to protect your website and e-commerce solution
 - [IEEE Student Branch of Uni Ruse](https://github.com/IEEE-Student-Branch-of-Uni-Ruse) - breaking science and IT at the same time ... on purpose ...
 - Finishing my Ph.D. degree 🤔 -> will open source everything I write here as well (if possible)
@@ -15,7 +15,7 @@
 - [Why I stopped my phone notifications and why it is a bad thing](https://mrgkanev.eu/posts/why-i-stopped-my-phone-notifications-and-why-it-is-a-bad-thing/)
 <!-- BLOG-POST-LIST:END -->
 
-#### 🧑‍💻 Recent Github Activity
+##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#12](https://github.com/Emilia-Capital/aaa-option-optimizer/issues/12#issuecomment-2081519579) in [Emilia-Capital/aaa-option-optimizer](https://github.com/Emilia-Capital/aaa-option-optimizer)
@@ -24,6 +24,3 @@
 4. 🗣 Commented on [#38](https://github.com/thedevdojo/wave/pull/38#issuecomment-2019866134) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
 5. 🎉 Merged PR [#153](https://github.com/Bimbalacom/bimbalacom/pull/153) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
 <!--END_SECTION:activity-->
-
-
-### 📫 How to reach me - [Twitter](https://twitter.com/mrgkanev) or [LinkedIn](https://www.linkedin.com/in/mrgkanev) 
