@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Gabo - [Website](https://mrgkanev.eu) | [Twitter/X](https://twitter.com/mrgkanev) | [LinkedIn](https://www.linkedin.com/in/mrgkanev)
+### 👋 Hi, I'm Gabo - [Website](https://gkanev.com) | [Twitter/X](https://twitter.com/mrgkanev) | [LinkedIn](https://www.linkedin.com/in/mrgkanev)
 
 #### 🔭 I’m currently working on
 - [Bimbala](https://bimbala.com/)  - The feedback board your customers need
