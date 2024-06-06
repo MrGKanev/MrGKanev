@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/Bimbalacom/Desktop/pull/17) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
-2. 🎉 Merged PR [#16](https://github.com/Bimbalacom/Desktop/pull/16) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
-3. 🎉 Merged PR [#14](https://github.com/Bimbalacom/Desktop/pull/14) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
-4. 🎉 Merged PR [#15](https://github.com/Bimbalacom/Desktop/pull/15) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
-5. 🎉 Merged PR [#13](https://github.com/Bimbalacom/Desktop/pull/13) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
+1. 🎉 Merged PR [#18](https://github.com/Bimbalacom/Desktop/pull/18) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
+2. 🎉 Merged PR [#17](https://github.com/Bimbalacom/Desktop/pull/17) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
+3. 🎉 Merged PR [#16](https://github.com/Bimbalacom/Desktop/pull/16) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
+4. 🎉 Merged PR [#14](https://github.com/Bimbalacom/Desktop/pull/14) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
+5. 🎉 Merged PR [#15](https://github.com/Bimbalacom/Desktop/pull/15) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
 <!--END_SECTION:activity-->
