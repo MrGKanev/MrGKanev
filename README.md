@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/Bimbalacom/Desktop/pull/24) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
-2. 🎉 Merged PR [#23](https://github.com/Bimbalacom/Desktop/pull/23) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
-3. 🎉 Merged PR [#22](https://github.com/Bimbalacom/Desktop/pull/22) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
-4. 🎉 Merged PR [#21](https://github.com/Bimbalacom/Desktop/pull/21) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
-5. 🎉 Merged PR [#19](https://github.com/Bimbalacom/Desktop/pull/19) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
+1. 💪 Opened PR [#2](https://github.com/MrGKanev/Bulk-Order-Editor/pull/2) in [MrGKanev/Bulk-Order-Editor](https://github.com/MrGKanev/Bulk-Order-Editor)
+2. 🎉 Merged PR [#1](https://github.com/MrGKanev/Bulk-Order-Editor/pull/1) in [MrGKanev/Bulk-Order-Editor](https://github.com/MrGKanev/Bulk-Order-Editor)
+3. 💪 Opened PR [#1](https://github.com/MrGKanev/Bulk-Order-Editor/pull/1) in [MrGKanev/Bulk-Order-Editor](https://github.com/MrGKanev/Bulk-Order-Editor)
+4. 💪 Opened PR [#1](https://github.com/MrGKanev/Bulk-Order-Editor/pull/1) in [MrGKanev/Bulk-Order-Editor](https://github.com/MrGKanev/Bulk-Order-Editor)
+5. 💪 Opened PR [#1](https://github.com/MrGKanev/Bulk-Order-Editor/pull/1) in [MrGKanev/Bulk-Order-Editor](https://github.com/MrGKanev/Bulk-Order-Editor)
 <!--END_SECTION:activity-->
