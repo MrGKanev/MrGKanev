@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/MrGKanev/Last-User-Orders-by-Roles/pull/1) in [MrGKanev/Last-User-Orders-by-Roles](https://github.com/MrGKanev/Last-User-Orders-by-Roles)
-2. 🎉 Merged PR [#3](https://github.com/MrGKanev/Bulk-Order-Editor/pull/3) in [MrGKanev/Bulk-Order-Editor](https://github.com/MrGKanev/Bulk-Order-Editor)
-3. 💪 Opened PR [#3](https://github.com/MrGKanev/Bulk-Order-Editor/pull/3) in [MrGKanev/Bulk-Order-Editor](https://github.com/MrGKanev/Bulk-Order-Editor)
-4. 💪 Opened PR [#2](https://github.com/MrGKanev/Bulk-Order-Editor/pull/2) in [MrGKanev/Bulk-Order-Editor](https://github.com/MrGKanev/Bulk-Order-Editor)
-5. 🎉 Merged PR [#1](https://github.com/MrGKanev/Bulk-Order-Editor/pull/1) in [MrGKanev/Bulk-Order-Editor](https://github.com/MrGKanev/Bulk-Order-Editor)
+1. 🎉 Merged PR [#2](https://github.com/MrGKanev/Last-User-Orders-by-Roles/pull/2) in [MrGKanev/Last-User-Orders-by-Roles](https://github.com/MrGKanev/Last-User-Orders-by-Roles)
+2. 💪 Opened PR [#2](https://github.com/MrGKanev/Last-User-Orders-by-Roles/pull/2) in [MrGKanev/Last-User-Orders-by-Roles](https://github.com/MrGKanev/Last-User-Orders-by-Roles)
+3. 🎉 Merged PR [#1](https://github.com/MrGKanev/Last-User-Orders-by-Roles/pull/1) in [MrGKanev/Last-User-Orders-by-Roles](https://github.com/MrGKanev/Last-User-Orders-by-Roles)
+4. 💪 Opened PR [#1](https://github.com/MrGKanev/Last-User-Orders-by-Roles/pull/1) in [MrGKanev/Last-User-Orders-by-Roles](https://github.com/MrGKanev/Last-User-Orders-by-Roles)
+5. 🎉 Merged PR [#3](https://github.com/MrGKanev/Bulk-Order-Editor/pull/3) in [MrGKanev/Bulk-Order-Editor](https://github.com/MrGKanev/Bulk-Order-Editor)
 <!--END_SECTION:activity-->
