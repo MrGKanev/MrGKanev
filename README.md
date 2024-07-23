@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/MrGKanev/Bulk-Order-Editor/pull/2) in [MrGKanev/Bulk-Order-Editor](https://github.com/MrGKanev/Bulk-Order-Editor)
-2. 🎉 Merged PR [#26](https://github.com/Bimbalacom/Desktop/pull/26) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
-3. 🎉 Merged PR [#2](https://github.com/MrGKanev/Last-User-Orders-by-Roles/pull/2) in [MrGKanev/Last-User-Orders-by-Roles](https://github.com/MrGKanev/Last-User-Orders-by-Roles)
-4. 💪 Opened PR [#2](https://github.com/MrGKanev/Last-User-Orders-by-Roles/pull/2) in [MrGKanev/Last-User-Orders-by-Roles](https://github.com/MrGKanev/Last-User-Orders-by-Roles)
-5. 🎉 Merged PR [#1](https://github.com/MrGKanev/Last-User-Orders-by-Roles/pull/1) in [MrGKanev/Last-User-Orders-by-Roles](https://github.com/MrGKanev/Last-User-Orders-by-Roles)
+1. 🎉 Merged PR [#5](https://github.com/MrGKanev/Watchy/pull/5) in [MrGKanev/Watchy](https://github.com/MrGKanev/Watchy)
+2. 💪 Opened PR [#5](https://github.com/MrGKanev/Watchy/pull/5) in [MrGKanev/Watchy](https://github.com/MrGKanev/Watchy)
+3. 🗣 Commented on [#3](https://github.com/MrGKanev/Watchy/issues/3#issuecomment-2242775933) in [MrGKanev/Watchy](https://github.com/MrGKanev/Watchy)
+4. 🔒 Closed issue [#3](https://github.com/MrGKanev/Watchy/issues/3) in [MrGKanev/Watchy](https://github.com/MrGKanev/Watchy)
+5. 🗣 Commented on [#1](https://github.com/MrGKanev/Watchy/issues/1#issuecomment-2242775441) in [MrGKanev/Watchy](https://github.com/MrGKanev/Watchy)
 <!--END_SECTION:activity-->
