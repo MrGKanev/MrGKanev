@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/MrGKanev/WC-Pre-order/pull/1) in [MrGKanev/WC-Pre-order](https://github.com/MrGKanev/WC-Pre-order)
-2. 💪 Opened PR [#1](https://github.com/MrGKanev/WC-Pre-order/pull/1) in [MrGKanev/WC-Pre-order](https://github.com/MrGKanev/WC-Pre-order)
-3. 🎉 Merged PR [#27](https://github.com/Bimbalacom/Desktop/pull/27) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
-4. 🎉 Merged PR [#5](https://github.com/MrGKanev/Watchy/pull/5) in [MrGKanev/Watchy](https://github.com/MrGKanev/Watchy)
-5. 💪 Opened PR [#5](https://github.com/MrGKanev/Watchy/pull/5) in [MrGKanev/Watchy](https://github.com/MrGKanev/Watchy)
+1. 🎉 Merged PR [#3](https://github.com/MrGKanev/wo-rank-math-automation/pull/3) in [MrGKanev/wo-rank-math-automation](https://github.com/MrGKanev/wo-rank-math-automation)
+2. 🎉 Merged PR [#2](https://github.com/MrGKanev/wo-rank-math-automation/pull/2) in [MrGKanev/wo-rank-math-automation](https://github.com/MrGKanev/wo-rank-math-automation)
+3. 🎉 Merged PR [#1](https://github.com/MrGKanev/wo-rank-math-automation/pull/1) in [MrGKanev/wo-rank-math-automation](https://github.com/MrGKanev/wo-rank-math-automation)
+4. 💪 Opened PR [#3](https://github.com/MrGKanev/wo-rank-math-automation/pull/3) in [MrGKanev/wo-rank-math-automation](https://github.com/MrGKanev/wo-rank-math-automation)
+5. 💪 Opened PR [#2](https://github.com/MrGKanev/wo-rank-math-automation/pull/2) in [MrGKanev/wo-rank-math-automation](https://github.com/MrGKanev/wo-rank-math-automation)
 <!--END_SECTION:activity-->
