@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/MrGKanev/wo-rank-math-automation/pull/3) in [MrGKanev/wo-rank-math-automation](https://github.com/MrGKanev/wo-rank-math-automation)
-2. 🎉 Merged PR [#2](https://github.com/MrGKanev/wo-rank-math-automation/pull/2) in [MrGKanev/wo-rank-math-automation](https://github.com/MrGKanev/wo-rank-math-automation)
-3. 🎉 Merged PR [#1](https://github.com/MrGKanev/wo-rank-math-automation/pull/1) in [MrGKanev/wo-rank-math-automation](https://github.com/MrGKanev/wo-rank-math-automation)
-4. 💪 Opened PR [#3](https://github.com/MrGKanev/wo-rank-math-automation/pull/3) in [MrGKanev/wo-rank-math-automation](https://github.com/MrGKanev/wo-rank-math-automation)
-5. 💪 Opened PR [#2](https://github.com/MrGKanev/wo-rank-math-automation/pull/2) in [MrGKanev/wo-rank-math-automation](https://github.com/MrGKanev/wo-rank-math-automation)
+1. ❗ Opened issue [#7](https://github.com/MrGKanev/wo-rank-math-automation/issues/7) in [MrGKanev/wo-rank-math-automation](https://github.com/MrGKanev/wo-rank-math-automation)
+2. ❗ Opened issue [#6](https://github.com/MrGKanev/wo-rank-math-automation/issues/6) in [MrGKanev/wo-rank-math-automation](https://github.com/MrGKanev/wo-rank-math-automation)
+3. ❗ Opened issue [#5](https://github.com/MrGKanev/wo-rank-math-automation/issues/5) in [MrGKanev/wo-rank-math-automation](https://github.com/MrGKanev/wo-rank-math-automation)
+4. ❗ Opened issue [#4](https://github.com/MrGKanev/wo-rank-math-automation/issues/4) in [MrGKanev/wo-rank-math-automation](https://github.com/MrGKanev/wo-rank-math-automation)
+5. 🎉 Merged PR [#15](https://github.com/ArikAmor/Karting/pull/15) in [ArikAmor/Karting](https://github.com/ArikAmor/Karting)
 <!--END_SECTION:activity-->
