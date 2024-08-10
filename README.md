@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/MrGKanev/Bulk-Order-Editor/pull/4) in [MrGKanev/Bulk-Order-Editor](https://github.com/MrGKanev/Bulk-Order-Editor)
-2. 💪 Opened PR [#1](https://github.com/MrGKanev/WP-Clean/pull/1) in [MrGKanev/WP-Clean](https://github.com/MrGKanev/WP-Clean)
-3. 🎉 Merged PR [#2](https://github.com/MrGKanev/WC-Pre-order/pull/2) in [MrGKanev/WC-Pre-order](https://github.com/MrGKanev/WC-Pre-order)
-4. 💪 Opened PR [#3](https://github.com/MrGKanev/WC-Pre-order/pull/3) in [MrGKanev/WC-Pre-order](https://github.com/MrGKanev/WC-Pre-order)
-5. 💪 Opened PR [#2](https://github.com/MrGKanev/WC-Pre-order/pull/2) in [MrGKanev/WC-Pre-order](https://github.com/MrGKanev/WC-Pre-order)
+1. 🎉 Merged PR [#1](https://github.com/MrGKanev/WP-Clean/pull/1) in [MrGKanev/WP-Clean](https://github.com/MrGKanev/WP-Clean)
+2. ❌ Closed PR [#3](https://github.com/MrGKanev/WC-Pre-order/pull/3) in [MrGKanev/WC-Pre-order](https://github.com/MrGKanev/WC-Pre-order)
+3. 🔒 Closed issue [#7](https://github.com/MrGKanev/wo-rank-math-automation/issues/7) in [MrGKanev/wo-rank-math-automation](https://github.com/MrGKanev/wo-rank-math-automation)
+4. 🔒 Closed issue [#6](https://github.com/MrGKanev/wo-rank-math-automation/issues/6) in [MrGKanev/wo-rank-math-automation](https://github.com/MrGKanev/wo-rank-math-automation)
+5. 🎉 Merged PR [#8](https://github.com/MrGKanev/wo-rank-math-automation/pull/8) in [MrGKanev/wo-rank-math-automation](https://github.com/MrGKanev/wo-rank-math-automation)
 <!--END_SECTION:activity-->
