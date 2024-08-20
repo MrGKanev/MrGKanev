@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/MrGKanev/StageGuard/pull/2) in [MrGKanev/StageGuard](https://github.com/MrGKanev/StageGuard)
-2. 💪 Opened PR [#1](https://github.com/MrGKanev/StageGuard/pull/1) in [MrGKanev/StageGuard](https://github.com/MrGKanev/StageGuard)
-3. 🎉 Merged PR [#31](https://github.com/Bimbalacom/Desktop/pull/31) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
-4. 🎉 Merged PR [#1](https://github.com/MrGKanev/WP-Clean/pull/1) in [MrGKanev/WP-Clean](https://github.com/MrGKanev/WP-Clean)
-5. ❌ Closed PR [#3](https://github.com/MrGKanev/WC-Pre-order/pull/3) in [MrGKanev/WC-Pre-order](https://github.com/MrGKanev/WC-Pre-order)
+1. 💪 Opened PR [#1](https://github.com/Open-WP-Club/wp-feature-remover/pull/1) in [Open-WP-Club/wp-feature-remover](https://github.com/Open-WP-Club/wp-feature-remover)
+2. ❌ Closed PR [#2](https://github.com/MrGKanev/StageGuard/pull/2) in [MrGKanev/StageGuard](https://github.com/MrGKanev/StageGuard)
+3. 🎉 Merged PR [#1](https://github.com/MrGKanev/StageGuard/pull/1) in [MrGKanev/StageGuard](https://github.com/MrGKanev/StageGuard)
+4. 💪 Opened PR [#2](https://github.com/MrGKanev/StageGuard/pull/2) in [MrGKanev/StageGuard](https://github.com/MrGKanev/StageGuard)
+5. 💪 Opened PR [#1](https://github.com/MrGKanev/StageGuard/pull/1) in [MrGKanev/StageGuard](https://github.com/MrGKanev/StageGuard)
 <!--END_SECTION:activity-->
