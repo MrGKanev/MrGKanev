@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Open-WP-Club/wp-feature-remover/pull/1) in [Open-WP-Club/wp-feature-remover](https://github.com/Open-WP-Club/wp-feature-remover)
-2. ❌ Closed PR [#2](https://github.com/MrGKanev/StageGuard/pull/2) in [MrGKanev/StageGuard](https://github.com/MrGKanev/StageGuard)
-3. 🎉 Merged PR [#1](https://github.com/MrGKanev/StageGuard/pull/1) in [MrGKanev/StageGuard](https://github.com/MrGKanev/StageGuard)
-4. 💪 Opened PR [#2](https://github.com/MrGKanev/StageGuard/pull/2) in [MrGKanev/StageGuard](https://github.com/MrGKanev/StageGuard)
-5. 💪 Opened PR [#1](https://github.com/MrGKanev/StageGuard/pull/1) in [MrGKanev/StageGuard](https://github.com/MrGKanev/StageGuard)
+1. 🎉 Merged PR [#1](https://github.com/Open-WP-Club/wp-feature-remover/pull/1) in [Open-WP-Club/wp-feature-remover](https://github.com/Open-WP-Club/wp-feature-remover)
+2. ❌ Closed PR [#4](https://github.com/MrGKanev/Bulk-Order-Editor/pull/4) in [MrGKanev/Bulk-Order-Editor](https://github.com/MrGKanev/Bulk-Order-Editor)
+3. ❌ Closed PR [#6](https://github.com/MrGKanev/Bulk-Order-Editor/pull/6) in [MrGKanev/Bulk-Order-Editor](https://github.com/MrGKanev/Bulk-Order-Editor)
+4. 🎉 Merged PR [#5](https://github.com/MrGKanev/Bulk-Order-Editor/pull/5) in [MrGKanev/Bulk-Order-Editor](https://github.com/MrGKanev/Bulk-Order-Editor)
+5. 💪 Opened PR [#6](https://github.com/MrGKanev/Bulk-Order-Editor/pull/6) in [MrGKanev/Bulk-Order-Editor](https://github.com/MrGKanev/Bulk-Order-Editor)
 <!--END_SECTION:activity-->
