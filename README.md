@@ -8,11 +8,11 @@
 
 ### 📖 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mp4, Safari, and Cloudflare – a love-hate relationship](https://gkanev.com/posts/mp4-safari-and-cloudflare-a-love-hate-relationship/)
 - [Nothings philosophy – OnePlus problems but with a cooler design](https://gkanev.com/posts/nothings-philosophy-oneplus-problems-but-with-a-cooler-design/)
 - [“PlanetScale forever” – my 2 cents](https://gkanev.com/posts/planetscale-forever-my-2-cents/)
 - [Trying out the monochrome on my smartphone](https://gkanev.com/posts/trying-out-the-monochrome-on-my-smartphone/)
 - [Resizing an Amazon EC2 Instance](https://gkanev.com/posts/resizing-an-amazon-ec2-instance/)
-- [Made by Google](https://gkanev.com/posts/made-by-google/)
 <!-- BLOG-POST-LIST:END -->
 
 ##### 🧑‍💻 Recent Github Activity
