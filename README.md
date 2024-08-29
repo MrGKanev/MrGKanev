@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Open-WP-Club/wp-internal-linking/pull/1) in [Open-WP-Club/wp-internal-linking](https://github.com/Open-WP-Club/wp-internal-linking)
-2. 💪 Opened PR [#1](https://github.com/Open-WP-Club/wp-internal-linking/pull/1) in [Open-WP-Club/wp-internal-linking](https://github.com/Open-WP-Club/wp-internal-linking)
-3. 🎉 Merged PR [#1](https://github.com/Open-WP-Club/wp-feature-remover/pull/1) in [Open-WP-Club/wp-feature-remover](https://github.com/Open-WP-Club/wp-feature-remover)
-4. ❌ Closed PR [#4](https://github.com/MrGKanev/Bulk-Order-Editor/pull/4) in [MrGKanev/Bulk-Order-Editor](https://github.com/MrGKanev/Bulk-Order-Editor)
-5. ❌ Closed PR [#6](https://github.com/MrGKanev/Bulk-Order-Editor/pull/6) in [MrGKanev/Bulk-Order-Editor](https://github.com/MrGKanev/Bulk-Order-Editor)
+1. 💪 Opened PR [#1](https://github.com/Open-WP-Club/resume-page/pull/1) in [Open-WP-Club/resume-page](https://github.com/Open-WP-Club/resume-page)
+2. 💪 Opened PR [#1](https://github.com/Open-WP-Club/ideaverse/pull/1) in [Open-WP-Club/ideaverse](https://github.com/Open-WP-Club/ideaverse)
+3. 🎉 Merged PR [#34](https://github.com/Bimbalacom/Desktop/pull/34) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
+4. 🎉 Merged PR [#1](https://github.com/Open-WP-Club/wp-internal-linking/pull/1) in [Open-WP-Club/wp-internal-linking](https://github.com/Open-WP-Club/wp-internal-linking)
+5. 💪 Opened PR [#1](https://github.com/Open-WP-Club/wp-internal-linking/pull/1) in [Open-WP-Club/wp-internal-linking](https://github.com/Open-WP-Club/wp-internal-linking)
 <!--END_SECTION:activity-->
