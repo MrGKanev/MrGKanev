@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Open-WP-Club/security-checker/pull/1) in [Open-WP-Club/security-checker](https://github.com/Open-WP-Club/security-checker)
-2. 💪 Opened PR [#9](https://github.com/MrGKanev/wp-rank-math-automation/pull/9) in [MrGKanev/wp-rank-math-automation](https://github.com/MrGKanev/wp-rank-math-automation)
-3. 💪 Opened PR [#1](https://github.com/Open-WP-Club/resume-page/pull/1) in [Open-WP-Club/resume-page](https://github.com/Open-WP-Club/resume-page)
-4. 💪 Opened PR [#1](https://github.com/Open-WP-Club/ideaverse/pull/1) in [Open-WP-Club/ideaverse](https://github.com/Open-WP-Club/ideaverse)
-5. 🎉 Merged PR [#34](https://github.com/Bimbalacom/Desktop/pull/34) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
+1. 🎉 Merged PR [#1](https://github.com/Open-WP-Club/security-checker/pull/1) in [Open-WP-Club/security-checker](https://github.com/Open-WP-Club/security-checker)
+2. 💪 Opened PR [#1](https://github.com/Open-WP-Club/security-checker/pull/1) in [Open-WP-Club/security-checker](https://github.com/Open-WP-Club/security-checker)
+3. 💪 Opened PR [#9](https://github.com/MrGKanev/wp-rank-math-automation/pull/9) in [MrGKanev/wp-rank-math-automation](https://github.com/MrGKanev/wp-rank-math-automation)
+4. 💪 Opened PR [#1](https://github.com/Open-WP-Club/resume-page/pull/1) in [Open-WP-Club/resume-page](https://github.com/Open-WP-Club/resume-page)
+5. 💪 Opened PR [#1](https://github.com/Open-WP-Club/ideaverse/pull/1) in [Open-WP-Club/ideaverse](https://github.com/Open-WP-Club/ideaverse)
 <!--END_SECTION:activity-->
