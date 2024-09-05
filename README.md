@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Open-WP-Club/security-checker/pull/1) in [Open-WP-Club/security-checker](https://github.com/Open-WP-Club/security-checker)
-2. 💪 Opened PR [#1](https://github.com/Open-WP-Club/security-checker/pull/1) in [Open-WP-Club/security-checker](https://github.com/Open-WP-Club/security-checker)
-3. 💪 Opened PR [#9](https://github.com/MrGKanev/wp-rank-math-automation/pull/9) in [MrGKanev/wp-rank-math-automation](https://github.com/MrGKanev/wp-rank-math-automation)
-4. 💪 Opened PR [#1](https://github.com/Open-WP-Club/resume-page/pull/1) in [Open-WP-Club/resume-page](https://github.com/Open-WP-Club/resume-page)
-5. 💪 Opened PR [#1](https://github.com/Open-WP-Club/ideaverse/pull/1) in [Open-WP-Club/ideaverse](https://github.com/Open-WP-Club/ideaverse)
+1. 🎉 Merged PR [#2](https://github.com/Open-WP-Club/wp-internal-linking/pull/2) in [Open-WP-Club/wp-internal-linking](https://github.com/Open-WP-Club/wp-internal-linking)
+2. 💪 Opened PR [#2](https://github.com/Open-WP-Club/wp-internal-linking/pull/2) in [Open-WP-Club/wp-internal-linking](https://github.com/Open-WP-Club/wp-internal-linking)
+3. 🎉 Merged PR [#3](https://github.com/MrGKanev/StageGuard/pull/3) in [MrGKanev/StageGuard](https://github.com/MrGKanev/StageGuard)
+4. 💪 Opened PR [#3](https://github.com/MrGKanev/StageGuard/pull/3) in [MrGKanev/StageGuard](https://github.com/MrGKanev/StageGuard)
+5. 🎉 Merged PR [#1](https://github.com/Open-WP-Club/resume-builder/pull/1) in [Open-WP-Club/resume-builder](https://github.com/Open-WP-Club/resume-builder)
 <!--END_SECTION:activity-->
