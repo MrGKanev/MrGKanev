@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Open-WP-Club/plugin-hub/pull/1) in [Open-WP-Club/plugin-hub](https://github.com/Open-WP-Club/plugin-hub)
-2. 🎉 Merged PR [#1](https://github.com/Open-WP-Club/wp-sanitize/pull/1) in [Open-WP-Club/wp-sanitize](https://github.com/Open-WP-Club/wp-sanitize)
-3. 💪 Opened PR [#1](https://github.com/Open-WP-Club/wp-sanitize/pull/1) in [Open-WP-Club/wp-sanitize](https://github.com/Open-WP-Club/wp-sanitize)
-4. 🎉 Merged PR [#35](https://github.com/Bimbalacom/Desktop/pull/35) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
-5. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/wp-internal-linking/releases/tag/1.0.0) in [Open-WP-Club/wp-internal-linking](https://github.com/Open-WP-Club/wp-internal-linking)
+1. 🎉 Merged PR [#1](https://github.com/Open-WP-Club/wp-email-settings/pull/1) in [Open-WP-Club/wp-email-settings](https://github.com/Open-WP-Club/wp-email-settings)
+2. 💪 Opened PR [#1](https://github.com/Open-WP-Club/wp-email-settings/pull/1) in [Open-WP-Club/wp-email-settings](https://github.com/Open-WP-Club/wp-email-settings)
+3. 🎉 Merged PR [#1](https://github.com/Open-WP-Club/plugin-hub/pull/1) in [Open-WP-Club/plugin-hub](https://github.com/Open-WP-Club/plugin-hub)
+4. 🎉 Merged PR [#1](https://github.com/Open-WP-Club/wp-sanitize/pull/1) in [Open-WP-Club/wp-sanitize](https://github.com/Open-WP-Club/wp-sanitize)
+5. 💪 Opened PR [#1](https://github.com/Open-WP-Club/wp-sanitize/pull/1) in [Open-WP-Club/wp-sanitize](https://github.com/Open-WP-Club/wp-sanitize)
 <!--END_SECTION:activity-->
