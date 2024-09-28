@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/Bimbalacom/Desktop/pull/36) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
-2. 🎉 Merged PR [#37](https://github.com/Bimbalacom/Desktop/pull/37) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
-3. 🎉 Merged PR [#38](https://github.com/Bimbalacom/Desktop/pull/38) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
-4. 🎉 Merged PR [#39](https://github.com/Bimbalacom/Desktop/pull/39) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
-5. 🎉 Merged PR [#40](https://github.com/Bimbalacom/Desktop/pull/40) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
+1. 🚀 Published release [v1.0.0](https://github.com/Open-WP-Club/wp-disabling-comments/releases/tag/v1.0.0) in [Open-WP-Club/wp-disabling-comments](https://github.com/Open-WP-Club/wp-disabling-comments)
+2. 🎉 Merged PR [#36](https://github.com/Bimbalacom/Desktop/pull/36) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
+3. 🎉 Merged PR [#37](https://github.com/Bimbalacom/Desktop/pull/37) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
+4. 🎉 Merged PR [#38](https://github.com/Bimbalacom/Desktop/pull/38) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
+5. 🎉 Merged PR [#39](https://github.com/Bimbalacom/Desktop/pull/39) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
 <!--END_SECTION:activity-->
