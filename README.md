@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/resume-builder/releases/tag/1.0.0) in [Open-WP-Club/resume-builder](https://github.com/Open-WP-Club/resume-builder)
-2. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/wp-sanitize/releases/tag/1.0.0) in [Open-WP-Club/wp-sanitize](https://github.com/Open-WP-Club/wp-sanitize)
-3. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/wp-email-settings/releases/tag/1.0.0) in [Open-WP-Club/wp-email-settings](https://github.com/Open-WP-Club/wp-email-settings)
-4. 🚀 Published release [v1.0.0](https://github.com/Open-WP-Club/wp-disabling-comments/releases/tag/v1.0.0) in [Open-WP-Club/wp-disabling-comments](https://github.com/Open-WP-Club/wp-disabling-comments)
-5. 🎉 Merged PR [#36](https://github.com/Bimbalacom/Desktop/pull/36) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
+1. 🚀 Published release [1.0.5](https://github.com/Open-WP-Club/wp-sanitize/releases/tag/1.0.5) in [Open-WP-Club/wp-sanitize](https://github.com/Open-WP-Club/wp-sanitize)
+2. 🎉 Merged PR [#41](https://github.com/Bimbalacom/Desktop/pull/41) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
+3. 🎉 Merged PR [#42](https://github.com/Bimbalacom/Desktop/pull/42) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
+4. 🎉 Merged PR [#43](https://github.com/Bimbalacom/Desktop/pull/43) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
+5. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/resume-builder/releases/tag/1.0.0) in [Open-WP-Club/resume-builder](https://github.com/Open-WP-Club/resume-builder)
 <!--END_SECTION:activity-->
