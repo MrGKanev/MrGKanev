@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.5](https://github.com/Open-WP-Club/wp-sanitize/releases/tag/1.0.5) in [Open-WP-Club/wp-sanitize](https://github.com/Open-WP-Club/wp-sanitize)
-2. 🎉 Merged PR [#41](https://github.com/Bimbalacom/Desktop/pull/41) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
-3. 🎉 Merged PR [#42](https://github.com/Bimbalacom/Desktop/pull/42) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
-4. 🎉 Merged PR [#43](https://github.com/Bimbalacom/Desktop/pull/43) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
-5. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/resume-builder/releases/tag/1.0.0) in [Open-WP-Club/resume-builder](https://github.com/Open-WP-Club/resume-builder)
+1. 🚀 Published release [1.1.1](https://github.com/Open-WP-Club/wp-sanitize/releases/tag/1.1.1) in [Open-WP-Club/wp-sanitize](https://github.com/Open-WP-Club/wp-sanitize)
+2. 💪 Opened PR [#10](https://github.com/Open-WP-Club/wp-rank-math-automation/pull/10) in [Open-WP-Club/wp-rank-math-automation](https://github.com/Open-WP-Club/wp-rank-math-automation)
+3. 🚀 Published release [1.0.5](https://github.com/Open-WP-Club/wp-sanitize/releases/tag/1.0.5) in [Open-WP-Club/wp-sanitize](https://github.com/Open-WP-Club/wp-sanitize)
+4. 🎉 Merged PR [#41](https://github.com/Bimbalacom/Desktop/pull/41) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
+5. 🎉 Merged PR [#42](https://github.com/Bimbalacom/Desktop/pull/42) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
 <!--END_SECTION:activity-->
