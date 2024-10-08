@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.1.1](https://github.com/Open-WP-Club/wp-sanitize/releases/tag/1.1.1) in [Open-WP-Club/wp-sanitize](https://github.com/Open-WP-Club/wp-sanitize)
-2. 💪 Opened PR [#10](https://github.com/Open-WP-Club/wp-rank-math-automation/pull/10) in [Open-WP-Club/wp-rank-math-automation](https://github.com/Open-WP-Club/wp-rank-math-automation)
-3. 🚀 Published release [1.0.5](https://github.com/Open-WP-Club/wp-sanitize/releases/tag/1.0.5) in [Open-WP-Club/wp-sanitize](https://github.com/Open-WP-Club/wp-sanitize)
-4. 🎉 Merged PR [#41](https://github.com/Bimbalacom/Desktop/pull/41) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
-5. 🎉 Merged PR [#42](https://github.com/Bimbalacom/Desktop/pull/42) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
+1. 🎉 Merged PR [#1](https://github.com/Open-WP-Club/WP-eu-vat/pull/1) in [Open-WP-Club/WP-eu-vat](https://github.com/Open-WP-Club/WP-eu-vat)
+2. 💪 Opened PR [#1](https://github.com/Open-WP-Club/WP-eu-vat/pull/1) in [Open-WP-Club/WP-eu-vat](https://github.com/Open-WP-Club/WP-eu-vat)
+3. 💪 Opened PR [#2](https://github.com/Open-WP-Club/WP-Clean/pull/2) in [Open-WP-Club/WP-Clean](https://github.com/Open-WP-Club/WP-Clean)
+4. 🚀 Published release [1.1.1](https://github.com/Open-WP-Club/WooCommerce-Phone-Number-Validator/releases/tag/1.1.1) in [Open-WP-Club/WooCommerce-Phone-Number-Validator](https://github.com/Open-WP-Club/WooCommerce-Phone-Number-Validator)
+5. 🎉 Merged PR [#1](https://github.com/Open-WP-Club/WooCommerce-Phone-Number-Validator/pull/1) in [Open-WP-Club/WooCommerce-Phone-Number-Validator](https://github.com/Open-WP-Club/WooCommerce-Phone-Number-Validator)
 <!--END_SECTION:activity-->
