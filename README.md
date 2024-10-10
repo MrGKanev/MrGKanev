@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Open-WP-Club/WP-eu-vat/pull/1) in [Open-WP-Club/WP-eu-vat](https://github.com/Open-WP-Club/WP-eu-vat)
-2. 💪 Opened PR [#1](https://github.com/Open-WP-Club/WP-eu-vat/pull/1) in [Open-WP-Club/WP-eu-vat](https://github.com/Open-WP-Club/WP-eu-vat)
-3. 💪 Opened PR [#2](https://github.com/Open-WP-Club/WP-Clean/pull/2) in [Open-WP-Club/WP-Clean](https://github.com/Open-WP-Club/WP-Clean)
-4. 🚀 Published release [1.1.1](https://github.com/Open-WP-Club/WooCommerce-Phone-Number-Validator/releases/tag/1.1.1) in [Open-WP-Club/WooCommerce-Phone-Number-Validator](https://github.com/Open-WP-Club/WooCommerce-Phone-Number-Validator)
-5. 🎉 Merged PR [#1](https://github.com/Open-WP-Club/WooCommerce-Phone-Number-Validator/pull/1) in [Open-WP-Club/WooCommerce-Phone-Number-Validator](https://github.com/Open-WP-Club/WooCommerce-Phone-Number-Validator)
+1. 💪 Opened PR [#1](https://github.com/Open-WP-Club/WP-Hide-Admin/pull/1) in [Open-WP-Club/WP-Hide-Admin](https://github.com/Open-WP-Club/WP-Hide-Admin)
+2. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/WP-User-Blocking/releases/tag/1.0.0) in [Open-WP-Club/WP-User-Blocking](https://github.com/Open-WP-Club/WP-User-Blocking)
+3. 🎉 Merged PR [#1](https://github.com/Open-WP-Club/WP-User-Blocking/pull/1) in [Open-WP-Club/WP-User-Blocking](https://github.com/Open-WP-Club/WP-User-Blocking)
+4. 💪 Opened PR [#1](https://github.com/Open-WP-Club/WP-User-Blocking/pull/1) in [Open-WP-Club/WP-User-Blocking](https://github.com/Open-WP-Club/WP-User-Blocking)
+5. 🚀 Published release [1.1.0](https://github.com/Open-WP-Club/Speculation-Rules-for-WP/releases/tag/1.1.0) in [Open-WP-Club/Speculation-Rules-for-WP](https://github.com/Open-WP-Club/Speculation-Rules-for-WP)
 <!--END_SECTION:activity-->
