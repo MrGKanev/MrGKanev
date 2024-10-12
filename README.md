@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Open-WP-Club/WP-Hide-Admin/pull/1) in [Open-WP-Club/WP-Hide-Admin](https://github.com/Open-WP-Club/WP-Hide-Admin)
-2. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/WP-User-Blocking/releases/tag/1.0.0) in [Open-WP-Club/WP-User-Blocking](https://github.com/Open-WP-Club/WP-User-Blocking)
-3. 🎉 Merged PR [#1](https://github.com/Open-WP-Club/WP-User-Blocking/pull/1) in [Open-WP-Club/WP-User-Blocking](https://github.com/Open-WP-Club/WP-User-Blocking)
-4. 💪 Opened PR [#1](https://github.com/Open-WP-Club/WP-User-Blocking/pull/1) in [Open-WP-Club/WP-User-Blocking](https://github.com/Open-WP-Club/WP-User-Blocking)
-5. 🚀 Published release [1.1.0](https://github.com/Open-WP-Club/Speculation-Rules-for-WP/releases/tag/1.1.0) in [Open-WP-Club/Speculation-Rules-for-WP](https://github.com/Open-WP-Club/Speculation-Rules-for-WP)
+1. 💪 Opened PR [#1](https://github.com/Open-WP-Club/Woo-phone-order/pull/1) in [Open-WP-Club/Woo-phone-order](https://github.com/Open-WP-Club/Woo-phone-order)
+2. 💪 Opened PR [#1](https://github.com/Open-WP-Club/WP-Hide-Admin/pull/1) in [Open-WP-Club/WP-Hide-Admin](https://github.com/Open-WP-Club/WP-Hide-Admin)
+3. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/WP-User-Blocking/releases/tag/1.0.0) in [Open-WP-Club/WP-User-Blocking](https://github.com/Open-WP-Club/WP-User-Blocking)
+4. 🎉 Merged PR [#1](https://github.com/Open-WP-Club/WP-User-Blocking/pull/1) in [Open-WP-Club/WP-User-Blocking](https://github.com/Open-WP-Club/WP-User-Blocking)
+5. 💪 Opened PR [#1](https://github.com/Open-WP-Club/WP-User-Blocking/pull/1) in [Open-WP-Club/WP-User-Blocking](https://github.com/Open-WP-Club/WP-User-Blocking)
 <!--END_SECTION:activity-->
