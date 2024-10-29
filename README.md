@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Open-WP-Club/WP-Historical-Preservation-Mode/pull/1) in [Open-WP-Club/WP-Historical-Preservation-Mode](https://github.com/Open-WP-Club/WP-Historical-Preservation-Mode)
-2. 🚀 Published release [v1.0.0](https://github.com/Open-WP-Club/wp-Team-Members-Manager/releases/tag/v1.0.0) in [Open-WP-Club/wp-Team-Members-Manager](https://github.com/Open-WP-Club/wp-Team-Members-Manager)
-3. 🎉 Merged PR [#1](https://github.com/Open-WP-Club/wp-Team-Members-Manager/pull/1) in [Open-WP-Club/wp-Team-Members-Manager](https://github.com/Open-WP-Club/wp-Team-Members-Manager)
-4. 💪 Opened PR [#1](https://github.com/Open-WP-Club/wp-Team-Members-Manager/pull/1) in [Open-WP-Club/wp-Team-Members-Manager](https://github.com/Open-WP-Club/wp-Team-Members-Manager)
-5. 🎉 Merged PR [#17](https://github.com/ArikAmor/Karting/pull/17) in [ArikAmor/Karting](https://github.com/ArikAmor/Karting)
+1. 💪 Opened PR [#3](https://github.com/MrGKanev/Woo-to-SP/pull/3) in [MrGKanev/Woo-to-SP](https://github.com/MrGKanev/Woo-to-SP)
+2. 🎉 Merged PR [#2](https://github.com/MrGKanev/Woo-to-SP/pull/2) in [MrGKanev/Woo-to-SP](https://github.com/MrGKanev/Woo-to-SP)
+3. 💪 Opened PR [#2](https://github.com/MrGKanev/Woo-to-SP/pull/2) in [MrGKanev/Woo-to-SP](https://github.com/MrGKanev/Woo-to-SP)
+4. ❌ Closed PR [#1](https://github.com/MrGKanev/Woo-to-SP/pull/1) in [MrGKanev/Woo-to-SP](https://github.com/MrGKanev/Woo-to-SP)
+5. 🎉 Merged PR [#1](https://github.com/Open-WP-Club/WP-Historical-Preservation-Mode/pull/1) in [Open-WP-Club/WP-Historical-Preservation-Mode](https://github.com/Open-WP-Club/WP-Historical-Preservation-Mode)
 <!--END_SECTION:activity-->
