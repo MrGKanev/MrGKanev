@@ -1,8 +1,8 @@
 ### 👋 Hi, I'm Gabo - [Website](https://gkanev.com) | [Twitter/X](https://twitter.com/mrgkanev) | [LinkedIn](https://www.linkedin.com/in/mrgkanev)
 
 #### 🔭 I’m currently working on
-- [Bimbala](https://bimbala.com/)  - The feedback board your customers need
 - [AntiProxies](https://antiproxies.com/) - *Beta in progress* 🚀 -  An easier way to protect your website and e-commerce solution
+- [OpenWPClub](https://openwpclub.com/) - *Alpha in progress* 🚀 - 
 - [IEEE Student Branch of Uni Ruse](https://github.com/IEEE-Student-Branch-of-Uni-Ruse) - breaking science and IT at the same time ... on purpose ...
 - [Finishing my Ph.D. degree 🤔](https://scholar.google.com/citations?user=En7GPEsAAAAJ&hl=en) -> will open source everything I write here as well (if possible)
 
