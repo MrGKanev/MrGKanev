@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.1](https://github.com/Open-WP-Club/plugin-hub/releases/tag/1.0.1) in [Open-WP-Club/plugin-hub](https://github.com/Open-WP-Club/plugin-hub)
-2. 🎉 Merged PR [#2](https://github.com/Open-WP-Club/plugin-hub/pull/2) in [Open-WP-Club/plugin-hub](https://github.com/Open-WP-Club/plugin-hub)
-3. 🎉 Merged PR [#1](https://github.com/MrGKanev/wp-order-product-adder/pull/1) in [MrGKanev/wp-order-product-adder](https://github.com/MrGKanev/wp-order-product-adder)
-4. 💪 Opened PR [#1](https://github.com/MrGKanev/wp-order-product-adder/pull/1) in [MrGKanev/wp-order-product-adder](https://github.com/MrGKanev/wp-order-product-adder)
-5. 🎉 Merged PR [#47](https://github.com/Bimbalacom/Desktop/pull/47) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
+1. 🎉 Merged PR [#48](https://github.com/Bimbalacom/Desktop/pull/48) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
+2. 🚀 Published release [1.0.1](https://github.com/Open-WP-Club/plugin-hub/releases/tag/1.0.1) in [Open-WP-Club/plugin-hub](https://github.com/Open-WP-Club/plugin-hub)
+3. 🎉 Merged PR [#2](https://github.com/Open-WP-Club/plugin-hub/pull/2) in [Open-WP-Club/plugin-hub](https://github.com/Open-WP-Club/plugin-hub)
+4. 🎉 Merged PR [#1](https://github.com/MrGKanev/wp-order-product-adder/pull/1) in [MrGKanev/wp-order-product-adder](https://github.com/MrGKanev/wp-order-product-adder)
+5. 💪 Opened PR [#1](https://github.com/MrGKanev/wp-order-product-adder/pull/1) in [MrGKanev/wp-order-product-adder](https://github.com/MrGKanev/wp-order-product-adder)
 <!--END_SECTION:activity-->
