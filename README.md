@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Open-WP-Club/admin-notice-remover/pull/1) in [Open-WP-Club/admin-notice-remover](https://github.com/Open-WP-Club/admin-notice-remover)
-2. 💪 Opened PR [#1](https://github.com/Open-WP-Club/admin-notice-remover/pull/1) in [Open-WP-Club/admin-notice-remover](https://github.com/Open-WP-Club/admin-notice-remover)
-3. 💪 Opened PR [#1](https://github.com/Open-WP-Club/WP-File-Visibility-Manager/pull/1) in [Open-WP-Club/WP-File-Visibility-Manager](https://github.com/Open-WP-Club/WP-File-Visibility-Manager)
-4. 🎉 Merged PR [#49](https://github.com/Bimbalacom/Desktop/pull/49) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
-5. 🎉 Merged PR [#1](https://github.com/mgknetcom/mgknet.com/pull/1) in [mgknetcom/mgknet.com](https://github.com/mgknetcom/mgknet.com)
+1. 🎉 Merged PR [#50](https://github.com/Bimbalacom/Desktop/pull/50) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
+2. 🎉 Merged PR [#51](https://github.com/Bimbalacom/Desktop/pull/51) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
+3. 🎉 Merged PR [#52](https://github.com/Bimbalacom/Desktop/pull/52) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
+4. 🎉 Merged PR [#53](https://github.com/Bimbalacom/Desktop/pull/53) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
+5. 🎉 Merged PR [#54](https://github.com/Bimbalacom/Desktop/pull/54) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
 <!--END_SECTION:activity-->
