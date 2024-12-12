@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Open-WP-Club/WP-File-Visibility-Manager/pull/1) in [Open-WP-Club/WP-File-Visibility-Manager](https://github.com/Open-WP-Club/WP-File-Visibility-Manager)
-2. ❌ Closed PR [#2](https://github.com/mgknetcom/mgknet.com/pull/2) in [mgknetcom/mgknet.com](https://github.com/mgknetcom/mgknet.com)
-3. 💪 Opened PR [#2](https://github.com/mgknetcom/mgknet.com/pull/2) in [mgknetcom/mgknet.com](https://github.com/mgknetcom/mgknet.com)
-4. 🎉 Merged PR [#50](https://github.com/Bimbalacom/Desktop/pull/50) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
-5. 🎉 Merged PR [#51](https://github.com/Bimbalacom/Desktop/pull/51) in [Bimbalacom/Desktop](https://github.com/Bimbalacom/Desktop)
+1. 🚀 Published release [1.1.1](https://github.com/Open-WP-Club/wp-google-scholar/releases/tag/1.1.1) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
+2. 🚀 Published release [1.1.0](https://github.com/Open-WP-Club/wp-google-scholar/releases/tag/1.1.0) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
+3. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/wp-google-scholar/releases/tag/1.0.0) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
+4. 🎉 Merged PR [#1](https://github.com/Open-WP-Club/wp-google-scholar/pull/1) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
+5. 💪 Opened PR [#1](https://github.com/Open-WP-Club/wp-google-scholar/pull/1) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
 <!--END_SECTION:activity-->
