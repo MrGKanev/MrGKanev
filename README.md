@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.1.1](https://github.com/Open-WP-Club/wp-google-scholar/releases/tag/1.1.1) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
-2. 🚀 Published release [1.1.0](https://github.com/Open-WP-Club/wp-google-scholar/releases/tag/1.1.0) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
-3. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/wp-google-scholar/releases/tag/1.0.0) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
-4. 🎉 Merged PR [#1](https://github.com/Open-WP-Club/wp-google-scholar/pull/1) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
-5. 💪 Opened PR [#1](https://github.com/Open-WP-Club/wp-google-scholar/pull/1) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
+1. 🚀 Published release [1.2.0](https://github.com/Open-WP-Club/wp-google-scholar/releases/tag/1.2.0) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
+2. 🎉 Merged PR [#2](https://github.com/Open-WP-Club/wp-google-scholar/pull/2) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
+3. 💪 Opened PR [#2](https://github.com/Open-WP-Club/wp-google-scholar/pull/2) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
+4. 🚀 Published release [1.1.1](https://github.com/Open-WP-Club/wp-google-scholar/releases/tag/1.1.1) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
+5. 🚀 Published release [1.1.0](https://github.com/Open-WP-Club/wp-google-scholar/releases/tag/1.1.0) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
 <!--END_SECTION:activity-->
