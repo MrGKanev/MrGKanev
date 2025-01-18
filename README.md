@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/wp-simple-order-history/releases/tag/1.0.0) in [Open-WP-Club/wp-simple-order-history](https://github.com/Open-WP-Club/wp-simple-order-history)
-2. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/wp-logo-link/releases/tag/1.0.0) in [Open-WP-Club/wp-logo-link](https://github.com/Open-WP-Club/wp-logo-link)
-3. 🎉 Merged PR [#1](https://github.com/MrGKanev/browser-text-anonymizer/pull/1) in [MrGKanev/browser-text-anonymizer](https://github.com/MrGKanev/browser-text-anonymizer)
-4. 💪 Opened PR [#1](https://github.com/MrGKanev/browser-text-anonymizer/pull/1) in [MrGKanev/browser-text-anonymizer](https://github.com/MrGKanev/browser-text-anonymizer)
-5. 🎉 Merged PR [#1](https://github.com/MrGKanev/shopify-admin-cleaner/pull/1) in [MrGKanev/shopify-admin-cleaner](https://github.com/MrGKanev/shopify-admin-cleaner)
+1. 💪 Opened PR [#1](https://github.com/trystudentos/Install/pull/1) in [trystudentos/Install](https://github.com/trystudentos/Install)
+2. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/wp-simple-order-history/releases/tag/1.0.0) in [Open-WP-Club/wp-simple-order-history](https://github.com/Open-WP-Club/wp-simple-order-history)
+3. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/wp-logo-link/releases/tag/1.0.0) in [Open-WP-Club/wp-logo-link](https://github.com/Open-WP-Club/wp-logo-link)
+4. 🎉 Merged PR [#1](https://github.com/MrGKanev/browser-text-anonymizer/pull/1) in [MrGKanev/browser-text-anonymizer](https://github.com/MrGKanev/browser-text-anonymizer)
+5. 💪 Opened PR [#1](https://github.com/MrGKanev/browser-text-anonymizer/pull/1) in [MrGKanev/browser-text-anonymizer](https://github.com/MrGKanev/browser-text-anonymizer)
 <!--END_SECTION:activity-->
