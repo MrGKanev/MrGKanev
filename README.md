@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/MrGKanev/shopify-segment-filter/pull/1) in [MrGKanev/shopify-segment-filter](https://github.com/MrGKanev/shopify-segment-filter)
-2. 💪 Opened PR [#1](https://github.com/trystudentos/Install/pull/1) in [trystudentos/Install](https://github.com/trystudentos/Install)
-3. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/wp-simple-order-history/releases/tag/1.0.0) in [Open-WP-Club/wp-simple-order-history](https://github.com/Open-WP-Club/wp-simple-order-history)
-4. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/wp-logo-link/releases/tag/1.0.0) in [Open-WP-Club/wp-logo-link](https://github.com/Open-WP-Club/wp-logo-link)
-5. 🎉 Merged PR [#1](https://github.com/MrGKanev/browser-text-anonymizer/pull/1) in [MrGKanev/browser-text-anonymizer](https://github.com/MrGKanev/browser-text-anonymizer)
+1. ❌ Closed PR [#1](https://github.com/MrGKanev/awesome-uses/pull/1) in [MrGKanev/awesome-uses](https://github.com/MrGKanev/awesome-uses)
+2. 💪 Opened PR [#1913](https://github.com/wesbos/awesome-uses/pull/1913) in [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
+3. 💪 Opened PR [#1](https://github.com/MrGKanev/shopify-segment-filter/pull/1) in [MrGKanev/shopify-segment-filter](https://github.com/MrGKanev/shopify-segment-filter)
+4. 💪 Opened PR [#1](https://github.com/trystudentos/Install/pull/1) in [trystudentos/Install](https://github.com/trystudentos/Install)
+5. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/wp-simple-order-history/releases/tag/1.0.0) in [Open-WP-Club/wp-simple-order-history](https://github.com/Open-WP-Club/wp-simple-order-history)
 <!--END_SECTION:activity-->
