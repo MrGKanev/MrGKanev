@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/MrGKanev/awesome-uses/pull/1) in [MrGKanev/awesome-uses](https://github.com/MrGKanev/awesome-uses)
-2. 💪 Opened PR [#1913](https://github.com/wesbos/awesome-uses/pull/1913) in [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
-3. 💪 Opened PR [#1](https://github.com/MrGKanev/shopify-segment-filter/pull/1) in [MrGKanev/shopify-segment-filter](https://github.com/MrGKanev/shopify-segment-filter)
-4. 💪 Opened PR [#1](https://github.com/trystudentos/Install/pull/1) in [trystudentos/Install](https://github.com/trystudentos/Install)
-5. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/wp-simple-order-history/releases/tag/1.0.0) in [Open-WP-Club/wp-simple-order-history](https://github.com/Open-WP-Club/wp-simple-order-history)
+1. 🎉 Merged PR [#2](https://github.com/trystudentos/Install/pull/2) in [trystudentos/Install](https://github.com/trystudentos/Install)
+2. 💪 Opened PR [#2](https://github.com/trystudentos/Install/pull/2) in [trystudentos/Install](https://github.com/trystudentos/Install)
+3. 🎉 Merged PR [#1](https://github.com/trystudentos/Install/pull/1) in [trystudentos/Install](https://github.com/trystudentos/Install)
+4. 🎉 Merged PR [#1](https://github.com/trystudentos/website/pull/1) in [trystudentos/website](https://github.com/trystudentos/website)
+5. ❌ Closed PR [#1](https://github.com/MrGKanev/awesome-uses/pull/1) in [MrGKanev/awesome-uses](https://github.com/MrGKanev/awesome-uses)
 <!--END_SECTION:activity-->
