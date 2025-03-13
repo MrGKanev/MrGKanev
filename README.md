@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/MrGKanev/browser-text-anonymizer/pull/2) in [MrGKanev/browser-text-anonymizer](https://github.com/MrGKanev/browser-text-anonymizer)
-2. 💪 Opened PR [#2](https://github.com/MrGKanev/browser-text-anonymizer/pull/2) in [MrGKanev/browser-text-anonymizer](https://github.com/MrGKanev/browser-text-anonymizer)
-3. 🎉 Merged PR [#2](https://github.com/MrGKanev/php-fpm-process-calculator/pull/2) in [MrGKanev/php-fpm-process-calculator](https://github.com/MrGKanev/php-fpm-process-calculator)
-4. 💪 Opened PR [#2](https://github.com/MrGKanev/php-fpm-process-calculator/pull/2) in [MrGKanev/php-fpm-process-calculator](https://github.com/MrGKanev/php-fpm-process-calculator)
-5. 🎉 Merged PR [#1](https://github.com/MrGKanev/php-fpm-process-calculator/pull/1) in [MrGKanev/php-fpm-process-calculator](https://github.com/MrGKanev/php-fpm-process-calculator)
+1. 🎉 Merged PR [#1](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator/pull/1) in [MrGKanev/MySQL-MariaDB-Settings-Calculator](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator)
+2. 💪 Opened PR [#1](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator/pull/1) in [MrGKanev/MySQL-MariaDB-Settings-Calculator](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator)
+3. 🎉 Merged PR [#1](https://github.com/MrGKanev/webserver/pull/1) in [MrGKanev/webserver](https://github.com/MrGKanev/webserver)
+4. 💪 Opened PR [#1](https://github.com/MrGKanev/webserver/pull/1) in [MrGKanev/webserver](https://github.com/MrGKanev/webserver)
+5. 🎉 Merged PR [#2](https://github.com/MrGKanev/shopify-admin-cleaner/pull/2) in [MrGKanev/shopify-admin-cleaner](https://github.com/MrGKanev/shopify-admin-cleaner)
 <!--END_SECTION:activity-->
