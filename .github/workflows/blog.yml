@@ -1,11 +1,9 @@
 name: Blog in Readme
-
 on:
   workflow_dispatch:
   schedule:
-    # Every day at “At 00:00.”
-    - cron: 0 0 * * *
-
+    # At 04:00 on Tuesday, Thursday, and Saturday
+    - cron: '0 4 * * 2,4,6'
 jobs:
   update:
     runs-on: ubuntu-latest
