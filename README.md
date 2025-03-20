@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator/pull/3) in [MrGKanev/MySQL-MariaDB-Settings-Calculator](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator)
-2. 💪 Opened PR [#3](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator/pull/3) in [MrGKanev/MySQL-MariaDB-Settings-Calculator](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator)
-3. 🎉 Merged PR [#2](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator/pull/2) in [MrGKanev/MySQL-MariaDB-Settings-Calculator](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator)
-4. 💪 Opened PR [#2](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator/pull/2) in [MrGKanev/MySQL-MariaDB-Settings-Calculator](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator)
-5. 🎉 Merged PR [#1](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator/pull/1) in [MrGKanev/MySQL-MariaDB-Settings-Calculator](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator)
+1. 💪 Opened PR [#3](https://github.com/tskaneva/5-min-redirects/pull/3) in [tskaneva/5-min-redirects](https://github.com/tskaneva/5-min-redirects)
+2. 💪 Opened PR [#2](https://github.com/tskaneva/5-min-redirects/pull/2) in [tskaneva/5-min-redirects](https://github.com/tskaneva/5-min-redirects)
+3. 💪 Opened PR [#1](https://github.com/tskaneva/5-min-redirects/pull/1) in [tskaneva/5-min-redirects](https://github.com/tskaneva/5-min-redirects)
+4. 🎉 Merged PR [#3](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator/pull/3) in [MrGKanev/MySQL-MariaDB-Settings-Calculator](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator)
+5. 💪 Opened PR [#3](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator/pull/3) in [MrGKanev/MySQL-MariaDB-Settings-Calculator](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator)
 <!--END_SECTION:activity-->
