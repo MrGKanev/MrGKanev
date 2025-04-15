@@ -8,11 +8,11 @@
 
 ### 📖 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Windows Chaos After  Update: What Happened and How We Survived](https://gkanev.com/posts/windows-chaos-after-update-what-happened-and-how-we-survived/)
 - [TensorFlow, Docker and GPUs: My Windows 11 Nightmare Solved](https://gkanev.com/posts/tensorflow-docker-and-gpus-my-windows-11-nightmare-solved/)
 - [Macos Sequoia Spotlight Bug](https://gkanev.com/posts/macos-sequoia-spotlight-bug/)
 - [Been building products for 10 years, here’s what I’ve really learned](https://gkanev.com/posts/been-building-products-for-10-years-heres-what-ive-really-learned/)
 - [Mp4, Safari, and Cloudflare – a love-hate relationship](https://gkanev.com/posts/mp4-safari-and-cloudflare-a-love-hate-relationship/)
-- [Nothings philosophy – OnePlus problems but with a cooler design](https://gkanev.com/posts/nothings-philosophy-oneplus-problems-but-with-a-cooler-design/)
 <!-- BLOG-POST-LIST:END -->
 
 ##### 🧑‍💻 Recent Github Activity
