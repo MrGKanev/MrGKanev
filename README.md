@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup/pull/2) in [MrGKanev/TensorFlow-GPU-Docker-Setup](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup)
-2. 🎉 Merged PR [#4](https://github.com/MrGKanev/Shopify-email-customizer/pull/4) in [MrGKanev/Shopify-email-customizer](https://github.com/MrGKanev/Shopify-email-customizer)
-3. ❌ Closed PR [#3](https://github.com/MrGKanev/Shopify-email-customizer/pull/3) in [MrGKanev/Shopify-email-customizer](https://github.com/MrGKanev/Shopify-email-customizer)
-4. 💪 Opened PR [#4](https://github.com/MrGKanev/Shopify-email-customizer/pull/4) in [MrGKanev/Shopify-email-customizer](https://github.com/MrGKanev/Shopify-email-customizer)
-5. 🎉 Merged PR [#2](https://github.com/MrGKanev/Shopify-email-customizer/pull/2) in [MrGKanev/Shopify-email-customizer](https://github.com/MrGKanev/Shopify-email-customizer)
+1. 💪 Opened PR [#1](https://github.com/MrGKanev/made-in-bulgaria/pull/1) in [MrGKanev/made-in-bulgaria](https://github.com/MrGKanev/made-in-bulgaria)
+2. 💪 Opened PR [#2](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup/pull/2) in [MrGKanev/TensorFlow-GPU-Docker-Setup](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup)
+3. 🎉 Merged PR [#4](https://github.com/MrGKanev/Shopify-email-customizer/pull/4) in [MrGKanev/Shopify-email-customizer](https://github.com/MrGKanev/Shopify-email-customizer)
+4. ❌ Closed PR [#3](https://github.com/MrGKanev/Shopify-email-customizer/pull/3) in [MrGKanev/Shopify-email-customizer](https://github.com/MrGKanev/Shopify-email-customizer)
+5. 💪 Opened PR [#4](https://github.com/MrGKanev/Shopify-email-customizer/pull/4) in [MrGKanev/Shopify-email-customizer](https://github.com/MrGKanev/Shopify-email-customizer)
 <!--END_SECTION:activity-->
