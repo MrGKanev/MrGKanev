@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup/pull/3) in [MrGKanev/TensorFlow-GPU-Docker-Setup](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup)
-2. 💪 Opened PR [#3](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup/pull/3) in [MrGKanev/TensorFlow-GPU-Docker-Setup](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup)
-3. ❌ Closed PR [#2](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup/pull/2) in [MrGKanev/TensorFlow-GPU-Docker-Setup](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup)
-4. 🎉 Merged PR [#1](https://github.com/MrGKanev/made-in-bulgaria/pull/1) in [MrGKanev/made-in-bulgaria](https://github.com/MrGKanev/made-in-bulgaria)
-5. 💪 Opened PR [#1](https://github.com/MrGKanev/made-in-bulgaria/pull/1) in [MrGKanev/made-in-bulgaria](https://github.com/MrGKanev/made-in-bulgaria)
+1. 🚀 Published release [1.0.0](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap/releases/tag/1.0.0) in [MrGKanev/Shopify-to-WordPress-sitemap](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap)
+2. 🎉 Merged PR [#1](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap/pull/1) in [MrGKanev/Shopify-to-WordPress-sitemap](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap)
+3. 💪 Opened PR [#1](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap/pull/1) in [MrGKanev/Shopify-to-WordPress-sitemap](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap)
+4. 🎉 Merged PR [#3](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup/pull/3) in [MrGKanev/TensorFlow-GPU-Docker-Setup](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup)
+5. 💪 Opened PR [#3](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup/pull/3) in [MrGKanev/TensorFlow-GPU-Docker-Setup](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup)
 <!--END_SECTION:activity-->
