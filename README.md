@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.0](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap/releases/tag/1.0.0) in [MrGKanev/Shopify-to-WordPress-sitemap](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap)
-2. 🎉 Merged PR [#1](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap/pull/1) in [MrGKanev/Shopify-to-WordPress-sitemap](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap)
-3. 💪 Opened PR [#1](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap/pull/1) in [MrGKanev/Shopify-to-WordPress-sitemap](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap)
-4. 🎉 Merged PR [#3](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup/pull/3) in [MrGKanev/TensorFlow-GPU-Docker-Setup](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup)
-5. 💪 Opened PR [#3](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup/pull/3) in [MrGKanev/TensorFlow-GPU-Docker-Setup](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup)
+1. 🚀 Published release [1.1.0](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap/releases/tag/1.1.0) in [MrGKanev/Shopify-to-WordPress-sitemap](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap)
+2. 🚀 Published release [1.0.1](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap/releases/tag/1.0.1) in [MrGKanev/Shopify-to-WordPress-sitemap](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap)
+3. 💪 Opened PR [#4](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup/pull/4) in [MrGKanev/TensorFlow-GPU-Docker-Setup](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup)
+4. 🚀 Published release [1.0.0](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap/releases/tag/1.0.0) in [MrGKanev/Shopify-to-WordPress-sitemap](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap)
+5. 🎉 Merged PR [#1](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap/pull/1) in [MrGKanev/Shopify-to-WordPress-sitemap](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap)
 <!--END_SECTION:activity-->
