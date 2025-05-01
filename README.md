@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.1.0](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap/releases/tag/1.1.0) in [MrGKanev/Shopify-to-WordPress-sitemap](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap)
-2. 🚀 Published release [1.0.1](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap/releases/tag/1.0.1) in [MrGKanev/Shopify-to-WordPress-sitemap](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap)
-3. 💪 Opened PR [#4](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup/pull/4) in [MrGKanev/TensorFlow-GPU-Docker-Setup](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup)
-4. 🚀 Published release [1.0.0](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap/releases/tag/1.0.0) in [MrGKanev/Shopify-to-WordPress-sitemap](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap)
-5. 🎉 Merged PR [#1](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap/pull/1) in [MrGKanev/Shopify-to-WordPress-sitemap](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap)
+1. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/WP-Historical-Preservation-Mode/releases/tag/1.0.0) in [Open-WP-Club/WP-Historical-Preservation-Mode](https://github.com/Open-WP-Club/WP-Historical-Preservation-Mode)
+2. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/better-user-search/releases/tag/1.0.0) in [Open-WP-Club/better-user-search](https://github.com/Open-WP-Club/better-user-search)
+3. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/WP-File-Visibility-Manager/releases/tag/1.0.0) in [Open-WP-Club/WP-File-Visibility-Manager](https://github.com/Open-WP-Club/WP-File-Visibility-Manager)
+4. 🚀 Published release [1.1.0](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap/releases/tag/1.1.0) in [MrGKanev/Shopify-to-WordPress-sitemap](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap)
+5. 🚀 Published release [1.0.1](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap/releases/tag/1.0.1) in [MrGKanev/Shopify-to-WordPress-sitemap](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap)
 <!--END_SECTION:activity-->
