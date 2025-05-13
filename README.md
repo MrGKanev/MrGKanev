@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup/pull/1) in [MrGKanev/TensorFlow-GPU-Docker-Setup](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup)
-2. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/WP-Historical-Preservation-Mode/releases/tag/1.0.0) in [Open-WP-Club/WP-Historical-Preservation-Mode](https://github.com/Open-WP-Club/WP-Historical-Preservation-Mode)
-3. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/better-user-search/releases/tag/1.0.0) in [Open-WP-Club/better-user-search](https://github.com/Open-WP-Club/better-user-search)
-4. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/WP-File-Visibility-Manager/releases/tag/1.0.0) in [Open-WP-Club/WP-File-Visibility-Manager](https://github.com/Open-WP-Club/WP-File-Visibility-Manager)
-5. 🚀 Published release [1.1.0](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap/releases/tag/1.1.0) in [MrGKanev/Shopify-to-WordPress-sitemap](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap)
+1. 💪 Opened PR [#5](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup/pull/5) in [MrGKanev/TensorFlow-GPU-Docker-Setup](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup)
+2. 🎉 Merged PR [#4](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup/pull/4) in [MrGKanev/TensorFlow-GPU-Docker-Setup](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup)
+3. ❌ Closed PR [#1](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup/pull/1) in [MrGKanev/TensorFlow-GPU-Docker-Setup](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup)
+4. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/WP-Historical-Preservation-Mode/releases/tag/1.0.0) in [Open-WP-Club/WP-Historical-Preservation-Mode](https://github.com/Open-WP-Club/WP-Historical-Preservation-Mode)
+5. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/better-user-search/releases/tag/1.0.0) in [Open-WP-Club/better-user-search](https://github.com/Open-WP-Club/better-user-search)
 <!--END_SECTION:activity-->
