@@ -1,0 +1,30 @@
+name: Update README
+on:
+  workflow_dispatch:
+  schedule:
+    # At 04:00 on Tuesday, Thursday, and Saturday
+    - cron: '0 4 * * 2,4,6'
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Update with latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: https://gkanev.com/feed/
+          committer_email: 41898282+github-actions[bot]@users.noreply.github.com
+          committer_username: GitHub Actions[Bot]
+      
+      # Pull latest changes to ensure the second action sees updates from the first
+      - name: Pull latest changes
+        run: git pull
+      
+      - name: Update with GitHub activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: 'Update README with GitHub activity'
