@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/Last-User-Orders-by-Roles/releases/tag/1.0.0) in [Open-WP-Club/Last-User-Orders-by-Roles](https://github.com/Open-WP-Club/Last-User-Orders-by-Roles)
-2. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/Bulk-Order-Editor/releases/tag/1.0.0) in [Open-WP-Club/Bulk-Order-Editor](https://github.com/Open-WP-Club/Bulk-Order-Editor)
-3. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/WC-Pre-order/releases/tag/1.0.0) in [Open-WP-Club/WC-Pre-order](https://github.com/Open-WP-Club/WC-Pre-order)
-4. 💪 Opened PR [#5](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup/pull/5) in [MrGKanev/TensorFlow-GPU-Docker-Setup](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup)
-5. 🎉 Merged PR [#4](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup/pull/4) in [MrGKanev/TensorFlow-GPU-Docker-Setup](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup)
+1. 💪 Opened PR [#1](https://github.com/Open-WP-Club/www/pull/1) in [Open-WP-Club/www](https://github.com/Open-WP-Club/www)
+2. 🚀 Published release [1.0.1](https://github.com/Open-WP-Club/Gravity-Forms-Shopify-Integration/releases/tag/1.0.1) in [Open-WP-Club/Gravity-Forms-Shopify-Integration](https://github.com/Open-WP-Club/Gravity-Forms-Shopify-Integration)
+3. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/Gravity-Forms-Shopify-Integration/releases/tag/1.0.0) in [Open-WP-Club/Gravity-Forms-Shopify-Integration](https://github.com/Open-WP-Club/Gravity-Forms-Shopify-Integration)
+4. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/Last-User-Orders-by-Roles/releases/tag/1.0.0) in [Open-WP-Club/Last-User-Orders-by-Roles](https://github.com/Open-WP-Club/Last-User-Orders-by-Roles)
+5. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/Bulk-Order-Editor/releases/tag/1.0.0) in [Open-WP-Club/Bulk-Order-Editor](https://github.com/Open-WP-Club/Bulk-Order-Editor)
 <!--END_SECTION:activity-->
