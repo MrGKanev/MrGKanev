@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Open-WP-Club/www/pull/1) in [Open-WP-Club/www](https://github.com/Open-WP-Club/www)
-2. 🚀 Published release [1.0.1](https://github.com/Open-WP-Club/Gravity-Forms-Shopify-Integration/releases/tag/1.0.1) in [Open-WP-Club/Gravity-Forms-Shopify-Integration](https://github.com/Open-WP-Club/Gravity-Forms-Shopify-Integration)
-3. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/Gravity-Forms-Shopify-Integration/releases/tag/1.0.0) in [Open-WP-Club/Gravity-Forms-Shopify-Integration](https://github.com/Open-WP-Club/Gravity-Forms-Shopify-Integration)
-4. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/Last-User-Orders-by-Roles/releases/tag/1.0.0) in [Open-WP-Club/Last-User-Orders-by-Roles](https://github.com/Open-WP-Club/Last-User-Orders-by-Roles)
-5. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/Bulk-Order-Editor/releases/tag/1.0.0) in [Open-WP-Club/Bulk-Order-Editor](https://github.com/Open-WP-Club/Bulk-Order-Editor)
+1. 💪 Opened PR [#1](https://github.com/Open-WP-Club/User-Self-Delete/pull/1) in [Open-WP-Club/User-Self-Delete](https://github.com/Open-WP-Club/User-Self-Delete)
+2. 🎉 Merged PR [#1](https://github.com/Open-WP-Club/www/pull/1) in [Open-WP-Club/www](https://github.com/Open-WP-Club/www)
+3. 💪 Opened PR [#1](https://github.com/Open-WP-Club/www/pull/1) in [Open-WP-Club/www](https://github.com/Open-WP-Club/www)
+4. 🚀 Published release [1.0.1](https://github.com/Open-WP-Club/Gravity-Forms-Shopify-Integration/releases/tag/1.0.1) in [Open-WP-Club/Gravity-Forms-Shopify-Integration](https://github.com/Open-WP-Club/Gravity-Forms-Shopify-Integration)
+5. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/Gravity-Forms-Shopify-Integration/releases/tag/1.0.0) in [Open-WP-Club/Gravity-Forms-Shopify-Integration](https://github.com/Open-WP-Club/Gravity-Forms-Shopify-Integration)
 <!--END_SECTION:activity-->
