@@ -8,11 +8,11 @@
 
 ### 📖 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic just dropped one of the best technical posts on multi-agent AI systems](https://gkanev.com/posts/anthropic-just-dropped-one-of-the-best-technical-posts-on-multi-agent-ai-systems/)
 - [My guide on AI model providers in 2025 &lpar;April/May&rpar;: My hands-on experience](https://gkanev.com/posts/my-guide-on-ai-model-providers-in-2025-april-may-my-hands-on-experience/)
 - [Open Source forking: Now what?](https://gkanev.com/posts/open-source-forking-now-what/)
 - [Windows Chaos Before and After Update: What Happened and How We Survived](https://gkanev.com/posts/windows-chaos-after-update-what-happened-and-how-we-survived/)
 - [TensorFlow, Docker and GPUs: My Windows 11 Nightmare Solved](https://gkanev.com/posts/tensorflow-docker-and-gpus-my-windows-11-nightmare-solved/)
-- [Macos Sequoia Spotlight Bug](https://gkanev.com/posts/macos-sequoia-spotlight-bug/)
 <!-- BLOG-POST-LIST:END -->
 
 ##### 🧑‍💻 Recent Github Activity
