@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Open-WP-Club/User-Self-Delete/pull/1) in [Open-WP-Club/User-Self-Delete](https://github.com/Open-WP-Club/User-Self-Delete)
-2. 🎉 Merged PR [#1](https://github.com/Open-WP-Club/www/pull/1) in [Open-WP-Club/www](https://github.com/Open-WP-Club/www)
-3. 💪 Opened PR [#1](https://github.com/Open-WP-Club/www/pull/1) in [Open-WP-Club/www](https://github.com/Open-WP-Club/www)
+1. 🎉 Merged PR [#6](https://github.com/Open-WP-Club/wp-google-scholar/pull/6) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
+2. 💪 Opened PR [#6](https://github.com/Open-WP-Club/wp-google-scholar/pull/6) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
+3. 🗣 Commented on [#3](https://github.com/Open-WP-Club/wp-google-scholar/issues/3#issuecomment-3070410034) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
 4. 🚀 Published release [1.0.1](https://github.com/Open-WP-Club/Gravity-Forms-Shopify-Integration/releases/tag/1.0.1) in [Open-WP-Club/Gravity-Forms-Shopify-Integration](https://github.com/Open-WP-Club/Gravity-Forms-Shopify-Integration)
 5. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/Gravity-Forms-Shopify-Integration/releases/tag/1.0.0) in [Open-WP-Club/Gravity-Forms-Shopify-Integration](https://github.com/Open-WP-Club/Gravity-Forms-Shopify-Integration)
 <!--END_SECTION:activity-->
