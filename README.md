@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/Open-WP-Club/wp-google-scholar/pull/6) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
-2. 💪 Opened PR [#6](https://github.com/Open-WP-Club/wp-google-scholar/pull/6) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
-3. 🗣 Commented on [#3](https://github.com/Open-WP-Club/wp-google-scholar/issues/3#issuecomment-3070410034) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
-4. 🚀 Published release [1.0.1](https://github.com/Open-WP-Club/Gravity-Forms-Shopify-Integration/releases/tag/1.0.1) in [Open-WP-Club/Gravity-Forms-Shopify-Integration](https://github.com/Open-WP-Club/Gravity-Forms-Shopify-Integration)
-5. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/Gravity-Forms-Shopify-Integration/releases/tag/1.0.0) in [Open-WP-Club/Gravity-Forms-Shopify-Integration](https://github.com/Open-WP-Club/Gravity-Forms-Shopify-Integration)
+1. 🗣 Commented on [#4](https://github.com/Open-WP-Club/wp-google-scholar/issues/4#issuecomment-3087690897) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
+2. 🔒 Closed issue [#4](https://github.com/Open-WP-Club/wp-google-scholar/issues/4) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
+3. 🗣 Commented on [#5](https://github.com/Open-WP-Club/wp-google-scholar/issues/5#issuecomment-3087689190) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
+4. 🔒 Closed issue [#5](https://github.com/Open-WP-Club/wp-google-scholar/issues/5) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
+5. 🔒 Closed issue [#3](https://github.com/Open-WP-Club/wp-google-scholar/issues/3) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
 <!--END_SECTION:activity-->
