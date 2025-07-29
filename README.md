@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Open-WP-Club/OpenGraph-SVG-Generator/pull/1) in [Open-WP-Club/OpenGraph-SVG-Generator](https://github.com/Open-WP-Club/OpenGraph-SVG-Generator)
-2. 💪 Opened PR [#1](https://github.com/Open-WP-Club/OpenGraph-SVG-Generator/pull/1) in [Open-WP-Club/OpenGraph-SVG-Generator](https://github.com/Open-WP-Club/OpenGraph-SVG-Generator)
-3. 🗣 Commented on [#7](https://github.com/Open-WP-Club/wp-google-scholar/issues/7#issuecomment-3094734029) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
-4. 🗣 Commented on [#4](https://github.com/Open-WP-Club/wp-google-scholar/issues/4#issuecomment-3087690897) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
-5. 🔒 Closed issue [#4](https://github.com/Open-WP-Club/wp-google-scholar/issues/4) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
+1. 🚀 Published release [2.0.0](https://github.com/Open-WP-Club/woocommerce-sku-auto/releases/tag/2.0.0) in [Open-WP-Club/woocommerce-sku-auto](https://github.com/Open-WP-Club/woocommerce-sku-auto)
+2. 🎉 Merged PR [#2](https://github.com/Open-WP-Club/woocommerce-sku-auto/pull/2) in [Open-WP-Club/woocommerce-sku-auto](https://github.com/Open-WP-Club/woocommerce-sku-auto)
+3. 💪 Opened PR [#2](https://github.com/Open-WP-Club/woocommerce-sku-auto/pull/2) in [Open-WP-Club/woocommerce-sku-auto](https://github.com/Open-WP-Club/woocommerce-sku-auto)
+4. 🎉 Merged PR [#1](https://github.com/Open-WP-Club/OpenGraph-SVG-Generator/pull/1) in [Open-WP-Club/OpenGraph-SVG-Generator](https://github.com/Open-WP-Club/OpenGraph-SVG-Generator)
+5. 💪 Opened PR [#1](https://github.com/Open-WP-Club/OpenGraph-SVG-Generator/pull/1) in [Open-WP-Club/OpenGraph-SVG-Generator](https://github.com/Open-WP-Club/OpenGraph-SVG-Generator)
 <!--END_SECTION:activity-->
