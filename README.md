@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.0](https://github.com/MrGKanev/static-wiki/releases/tag/1.0.0) in [MrGKanev/static-wiki](https://github.com/MrGKanev/static-wiki)
-2. ❗ Opened issue [#3](https://github.com/Open-WP-Club/WooCommerce-Priority-Processing/issues/3) in [Open-WP-Club/WooCommerce-Priority-Processing](https://github.com/Open-WP-Club/WooCommerce-Priority-Processing)
-3. ❗ Opened issue [#2](https://github.com/Open-WP-Club/WooCommerce-Priority-Processing/issues/2) in [Open-WP-Club/WooCommerce-Priority-Processing](https://github.com/Open-WP-Club/WooCommerce-Priority-Processing)
-4. 🚀 Published release [1.0.4](https://github.com/Open-WP-Club/WooCommerce-Priority-Processing/releases/tag/1.0.4) in [Open-WP-Club/WooCommerce-Priority-Processing](https://github.com/Open-WP-Club/WooCommerce-Priority-Processing)
-5. 🎉 Merged PR [#1](https://github.com/Open-WP-Club/WooCommerce-Priority-Processing/pull/1) in [Open-WP-Club/WooCommerce-Priority-Processing](https://github.com/Open-WP-Club/WooCommerce-Priority-Processing)
+1. 🚀 Published release [1.1.0](https://github.com/Open-WP-Club/woocommerce-inventory-insights/releases/tag/1.1.0) in [Open-WP-Club/woocommerce-inventory-insights](https://github.com/Open-WP-Club/woocommerce-inventory-insights)
+2. 🚀 Published release [1.0.0](https://github.com/MrGKanev/static-wiki/releases/tag/1.0.0) in [MrGKanev/static-wiki](https://github.com/MrGKanev/static-wiki)
+3. ❗ Opened issue [#3](https://github.com/Open-WP-Club/WooCommerce-Priority-Processing/issues/3) in [Open-WP-Club/WooCommerce-Priority-Processing](https://github.com/Open-WP-Club/WooCommerce-Priority-Processing)
+4. ❗ Opened issue [#2](https://github.com/Open-WP-Club/WooCommerce-Priority-Processing/issues/2) in [Open-WP-Club/WooCommerce-Priority-Processing](https://github.com/Open-WP-Club/WooCommerce-Priority-Processing)
+5. 🚀 Published release [1.0.4](https://github.com/Open-WP-Club/WooCommerce-Priority-Processing/releases/tag/1.0.4) in [Open-WP-Club/WooCommerce-Priority-Processing](https://github.com/Open-WP-Club/WooCommerce-Priority-Processing)
 <!--END_SECTION:activity-->
