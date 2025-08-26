@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.2.0](https://github.com/Open-WP-Club/WooCommerce-Priority-Processing/releases/tag/1.2.0) in [Open-WP-Club/WooCommerce-Priority-Processing](https://github.com/Open-WP-Club/WooCommerce-Priority-Processing)
-2. 🚀 Published release [1.2.1](https://github.com/Open-WP-Club/woocommerce-inventory-insights/releases/tag/1.2.1) in [Open-WP-Club/woocommerce-inventory-insights](https://github.com/Open-WP-Club/woocommerce-inventory-insights)
-3. 🚀 Published release [1.2.0](https://github.com/Open-WP-Club/woocommerce-inventory-insights/releases/tag/1.2.0) in [Open-WP-Club/woocommerce-inventory-insights](https://github.com/Open-WP-Club/woocommerce-inventory-insights)
-4. 🚀 Published release [1.1.0](https://github.com/Open-WP-Club/woocommerce-inventory-insights/releases/tag/1.1.0) in [Open-WP-Club/woocommerce-inventory-insights](https://github.com/Open-WP-Club/woocommerce-inventory-insights)
-5. 🚀 Published release [1.0.0](https://github.com/MrGKanev/static-wiki/releases/tag/1.0.0) in [MrGKanev/static-wiki](https://github.com/MrGKanev/static-wiki)
+1. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/WooCommerce-Order-Payment-Limiter/releases/tag/1.0.0) in [Open-WP-Club/WooCommerce-Order-Payment-Limiter](https://github.com/Open-WP-Club/WooCommerce-Order-Payment-Limiter)
+2. 🚀 Published release [1.1.0](https://github.com/Open-WP-Club/Spam-User-Detective/releases/tag/1.1.0) in [Open-WP-Club/Spam-User-Detective](https://github.com/Open-WP-Club/Spam-User-Detective)
+3. 🚀 Published release [1.2.0](https://github.com/Open-WP-Club/WooCommerce-Priority-Processing/releases/tag/1.2.0) in [Open-WP-Club/WooCommerce-Priority-Processing](https://github.com/Open-WP-Club/WooCommerce-Priority-Processing)
+4. 🚀 Published release [1.2.1](https://github.com/Open-WP-Club/woocommerce-inventory-insights/releases/tag/1.2.1) in [Open-WP-Club/woocommerce-inventory-insights](https://github.com/Open-WP-Club/woocommerce-inventory-insights)
+5. 🚀 Published release [1.2.0](https://github.com/Open-WP-Club/woocommerce-inventory-insights/releases/tag/1.2.0) in [Open-WP-Club/woocommerce-inventory-insights](https://github.com/Open-WP-Club/woocommerce-inventory-insights)
 <!--END_SECTION:activity-->
