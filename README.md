@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.2.0](https://github.com/Open-WP-Club/Spam-User-Detective/releases/tag/1.2.0) in [Open-WP-Club/Spam-User-Detective](https://github.com/Open-WP-Club/Spam-User-Detective)
-2. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/WooCommerce-Order-Payment-Limiter/releases/tag/1.0.0) in [Open-WP-Club/WooCommerce-Order-Payment-Limiter](https://github.com/Open-WP-Club/WooCommerce-Order-Payment-Limiter)
-3. 🚀 Published release [1.1.0](https://github.com/Open-WP-Club/Spam-User-Detective/releases/tag/1.1.0) in [Open-WP-Club/Spam-User-Detective](https://github.com/Open-WP-Club/Spam-User-Detective)
-4. 🚀 Published release [1.2.0](https://github.com/Open-WP-Club/WooCommerce-Priority-Processing/releases/tag/1.2.0) in [Open-WP-Club/WooCommerce-Priority-Processing](https://github.com/Open-WP-Club/WooCommerce-Priority-Processing)
-5. 🚀 Published release [1.2.1](https://github.com/Open-WP-Club/woocommerce-inventory-insights/releases/tag/1.2.1) in [Open-WP-Club/woocommerce-inventory-insights](https://github.com/Open-WP-Club/woocommerce-inventory-insights)
+1. 🗣 Commented on [#9](https://github.com/Open-WP-Club/wp-google-scholar/issues/9#issuecomment-3242331339) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
+2. 🚀 Published release [1.3.2](https://github.com/Open-WP-Club/wp-google-scholar/releases/tag/1.3.2) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
+3. 🚀 Published release [1.2.0](https://github.com/Open-WP-Club/Spam-User-Detective/releases/tag/1.2.0) in [Open-WP-Club/Spam-User-Detective](https://github.com/Open-WP-Club/Spam-User-Detective)
+4. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/WooCommerce-Order-Payment-Limiter/releases/tag/1.0.0) in [Open-WP-Club/WooCommerce-Order-Payment-Limiter](https://github.com/Open-WP-Club/WooCommerce-Order-Payment-Limiter)
+5. 🚀 Published release [1.1.0](https://github.com/Open-WP-Club/Spam-User-Detective/releases/tag/1.1.0) in [Open-WP-Club/Spam-User-Detective](https://github.com/Open-WP-Club/Spam-User-Detective)
 <!--END_SECTION:activity-->
