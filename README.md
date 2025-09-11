@@ -8,11 +8,11 @@
 
 ### 📖 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [When your AI support bot becomes the attack surface](https://gkanev.com/posts/when-your-ai-support-bot-becomes-the-attack-surface/)
 - [Google Is Sinking the Pixel Lineup + Android](https://gkanev.com/posts/google-is-sinking-the-pixel-lineup-android/)
 - [Why digital preservation is failing](https://gkanev.com/posts/why-digital-preservation-is-failing/)
 - [Anthropic just dropped one of the best technical posts on multi-agent AI systems](https://gkanev.com/posts/anthropic-just-dropped-one-of-the-best-technical-posts-on-multi-agent-ai-systems/)
 - [My guide on AI model providers in 2025 &lpar;April/May&rpar;: My hands-on experience](https://gkanev.com/posts/my-guide-on-ai-model-providers-in-2025-april-may-my-hands-on-experience/)
-- [Open Source forking: Now what?](https://gkanev.com/posts/open-source-forking-now-what/)
 <!-- BLOG-POST-LIST:END -->
 
 ##### 🧑‍💻 Recent Github Activity
