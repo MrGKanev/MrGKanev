@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/Open-WP-Club/WooCommerce-Priority-Processing/pull/4) in [Open-WP-Club/WooCommerce-Priority-Processing](https://github.com/Open-WP-Club/WooCommerce-Priority-Processing)
+1. 💪 Opened PR [#4](undefined) in [Open-WP-Club/WooCommerce-Priority-Processing](https://github.com/Open-WP-Club/WooCommerce-Priority-Processing)
 2. 🚀 Published release [1.3.0](https://github.com/Open-WP-Club/WooCommerce-Priority-Processing/releases/tag/1.3.0) in [Open-WP-Club/WooCommerce-Priority-Processing](https://github.com/Open-WP-Club/WooCommerce-Priority-Processing)
-3. ❌ Closed PR [#8](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup/pull/8) in [MrGKanev/TensorFlow-GPU-Docker-Setup](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup)
-4. 💪 Opened PR [#9](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup/pull/9) in [MrGKanev/TensorFlow-GPU-Docker-Setup](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup)
+3. ❌ Closed PR [#8](undefined) in [MrGKanev/TensorFlow-GPU-Docker-Setup](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup)
+4. 💪 Opened PR [#9](undefined) in [MrGKanev/TensorFlow-GPU-Docker-Setup](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup)
 5. 🗣 Commented on [#9](https://github.com/Open-WP-Club/wp-google-scholar/issues/9#issuecomment-3242331339) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
 <!--END_SECTION:activity-->
