@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](undefined) in [MrGKanev/WooCommerce-API-Product-Sync-with-Multiple-WooCommerce-Stores](https://github.com/MrGKanev/WooCommerce-API-Product-Sync-with-Multiple-WooCommerce-Stores)
-2. 💪 Opened PR [#16](undefined) in [MrGKanev/MySQL-MariaDB-Settings-Calculator](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator)
-3. 💪 Opened PR [#15](undefined) in [MrGKanev/MySQL-MariaDB-Settings-Calculator](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator)
-4. 💪 Opened PR [#14](undefined) in [MrGKanev/MySQL-MariaDB-Settings-Calculator](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator)
-5. 💪 Opened PR [#13](undefined) in [MrGKanev/MySQL-MariaDB-Settings-Calculator](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator)
+1. ❌ Closed PR [#151](undefined) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+2. ❌ Closed PR [#107](undefined) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+3. ❌ Closed PR [#141](undefined) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+4. ❌ Closed PR [#4](undefined) in [tskaneva/5-min-redirects](https://github.com/tskaneva/5-min-redirects)
+5. ❌ Closed PR [#3](undefined) in [tskaneva/5-min-redirects](https://github.com/tskaneva/5-min-redirects)
 <!--END_SECTION:activity-->
