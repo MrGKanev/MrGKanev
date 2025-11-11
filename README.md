@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#151](undefined) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-2. ❌ Closed PR [#107](undefined) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-3. ❌ Closed PR [#141](undefined) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
-4. ❌ Closed PR [#4](undefined) in [tskaneva/5-min-redirects](https://github.com/tskaneva/5-min-redirects)
-5. ❌ Closed PR [#3](undefined) in [tskaneva/5-min-redirects](https://github.com/tskaneva/5-min-redirects)
+1. ❌ Closed PR [#2](undefined) in [MrGKanev/simple-brew-tools](https://github.com/MrGKanev/simple-brew-tools)
+2. 💪 Opened PR [#1](undefined) in [MrGKanev/simple-brew-tools](https://github.com/MrGKanev/simple-brew-tools)
+3. 💪 Opened PR [#2](undefined) in [MrGKanev/wp-order-product-adder](https://github.com/MrGKanev/wp-order-product-adder)
+4. 💪 Opened PR [#1](undefined) in [MrGKanev/exam-kiosk](https://github.com/MrGKanev/exam-kiosk)
+5. ❌ Closed PR [#151](undefined) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
 <!--END_SECTION:activity-->
