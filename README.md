@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](undefined) in [MrGKanev/simple-brew-tools](https://github.com/MrGKanev/simple-brew-tools)
-2. 💪 Opened PR [#1](undefined) in [MrGKanev/simple-brew-tools](https://github.com/MrGKanev/simple-brew-tools)
-3. 💪 Opened PR [#2](undefined) in [MrGKanev/wp-order-product-adder](https://github.com/MrGKanev/wp-order-product-adder)
-4. 💪 Opened PR [#1](undefined) in [MrGKanev/exam-kiosk](https://github.com/MrGKanev/exam-kiosk)
-5. ❌ Closed PR [#151](undefined) in [Bimbalacom/bimbalacom](https://github.com/Bimbalacom/bimbalacom)
+1. 🚀 Published release [1.2.0](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap/releases/tag/1.2.0) in [MrGKanev/Shopify-to-WordPress-sitemap](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap)
+2. 💪 Opened PR [#2](undefined) in [MrGKanev/Shopify-to-WordPress-sitemap](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap)
+3. ❌ Closed PR [#2](undefined) in [MrGKanev/simple-brew-tools](https://github.com/MrGKanev/simple-brew-tools)
+4. 💪 Opened PR [#1](undefined) in [MrGKanev/simple-brew-tools](https://github.com/MrGKanev/simple-brew-tools)
+5. 💪 Opened PR [#2](undefined) in [MrGKanev/wp-order-product-adder](https://github.com/MrGKanev/wp-order-product-adder)
 <!--END_SECTION:activity-->
