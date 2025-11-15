@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.2.0](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap/releases/tag/1.2.0) in [MrGKanev/Shopify-to-WordPress-sitemap](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap)
-2. 💪 Opened PR [#2](undefined) in [MrGKanev/Shopify-to-WordPress-sitemap](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap)
-3. ❌ Closed PR [#2](undefined) in [MrGKanev/simple-brew-tools](https://github.com/MrGKanev/simple-brew-tools)
-4. 💪 Opened PR [#1](undefined) in [MrGKanev/simple-brew-tools](https://github.com/MrGKanev/simple-brew-tools)
-5. 💪 Opened PR [#2](undefined) in [MrGKanev/wp-order-product-adder](https://github.com/MrGKanev/wp-order-product-adder)
+1. 🚀 Published release [1.4.0](https://github.com/Anvilo-Inc/wp-ashby-jobs/releases/tag/1.4.0) in [Anvilo-Inc/wp-ashby-jobs](https://github.com/Anvilo-Inc/wp-ashby-jobs)
+2. 🚀 Published release [1.2.0](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap/releases/tag/1.2.0) in [MrGKanev/Shopify-to-WordPress-sitemap](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap)
+3. 💪 Opened PR [#2](undefined) in [MrGKanev/Shopify-to-WordPress-sitemap](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap)
+4. ❌ Closed PR [#2](undefined) in [MrGKanev/simple-brew-tools](https://github.com/MrGKanev/simple-brew-tools)
+5. 💪 Opened PR [#1](undefined) in [MrGKanev/simple-brew-tools](https://github.com/MrGKanev/simple-brew-tools)
 <!--END_SECTION:activity-->
