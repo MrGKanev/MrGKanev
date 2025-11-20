@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.4.0](https://github.com/Anvilo-Inc/wp-ashby-jobs/releases/tag/1.4.0) in [Anvilo-Inc/wp-ashby-jobs](https://github.com/Anvilo-Inc/wp-ashby-jobs)
-2. 🚀 Published release [1.2.0](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap/releases/tag/1.2.0) in [MrGKanev/Shopify-to-WordPress-sitemap](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap)
-3. 💪 Opened PR [#2](undefined) in [MrGKanev/Shopify-to-WordPress-sitemap](https://github.com/MrGKanev/Shopify-to-WordPress-sitemap)
-4. ❌ Closed PR [#2](undefined) in [MrGKanev/simple-brew-tools](https://github.com/MrGKanev/simple-brew-tools)
-5. 💪 Opened PR [#1](undefined) in [MrGKanev/simple-brew-tools](https://github.com/MrGKanev/simple-brew-tools)
+1. 🗣 Commented on [#10](https://github.com/Open-WP-Club/wp-google-scholar/issues/10#issuecomment-3552784847) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
+2. 🔒 Closed issue [#10](https://github.com/Open-WP-Club/wp-google-scholar/issues/10) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
+3. 🚀 Published release [1.3.5](https://github.com/Open-WP-Club/wp-google-scholar/releases/tag/1.3.5) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
+4. 💪 Opened PR [#11](undefined) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
+5. 🚀 Published release [1.2.5](https://github.com/Open-WP-Club/woocommerce-inventory-insights/releases/tag/1.2.5) in [Open-WP-Club/woocommerce-inventory-insights](https://github.com/Open-WP-Club/woocommerce-inventory-insights)
 <!--END_SECTION:activity-->
