@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/Open-WP-Club/wp-google-scholar/issues/10#issuecomment-3552784847) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
-2. 🔒 Closed issue [#10](https://github.com/Open-WP-Club/wp-google-scholar/issues/10) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
-3. 🚀 Published release [1.3.5](https://github.com/Open-WP-Club/wp-google-scholar/releases/tag/1.3.5) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
-4. 💪 Opened PR [#11](undefined) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
-5. 🚀 Published release [1.2.5](https://github.com/Open-WP-Club/woocommerce-inventory-insights/releases/tag/1.2.5) in [Open-WP-Club/woocommerce-inventory-insights](https://github.com/Open-WP-Club/woocommerce-inventory-insights)
+1. ❌ Assigned PR [#3](undefined) in [Open-WP-Club/phone-order-woo](https://github.com/Open-WP-Club/phone-order-woo)
+2. 💪 Opened PR [#3](undefined) in [Open-WP-Club/phone-order-woo](https://github.com/Open-WP-Club/phone-order-woo)
+3. 🚀 Published release [1.1.0](https://github.com/Open-WP-Club/phone-order-woo/releases/tag/1.1.0) in [Open-WP-Club/phone-order-woo](https://github.com/Open-WP-Club/phone-order-woo)
+4. 💪 Opened PR [#2](undefined) in [Open-WP-Club/phone-order-woo](https://github.com/Open-WP-Club/phone-order-woo)
+5. 🚀 Published release [1.1.1](https://github.com/Open-WP-Club/inventory-alerts-woo/releases/tag/1.1.1) in [Open-WP-Club/inventory-alerts-woo](https://github.com/Open-WP-Club/inventory-alerts-woo)
 <!--END_SECTION:activity-->
