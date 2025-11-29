@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](undefined) in [MrGKanev/WooCommerce-API-Product-Sync-with-Multiple-WooCommerce-Stores](https://github.com/MrGKanev/WooCommerce-API-Product-Sync-with-Multiple-WooCommerce-Stores)
-2. 💪 Opened PR [#3](undefined) in [MrGKanev/WooCommerce-API-Product-Sync-with-Multiple-WooCommerce-Stores](https://github.com/MrGKanev/WooCommerce-API-Product-Sync-with-Multiple-WooCommerce-Stores)
-3. 💪 Opened PR [#2](undefined) in [MrGKanev/WooCommerce-API-Product-Sync-with-Multiple-WooCommerce-Stores](https://github.com/MrGKanev/WooCommerce-API-Product-Sync-with-Multiple-WooCommerce-Stores)
-4. 💪 Opened PR [#6](undefined) in [MrGKanev/php-fpm-process-calculator](https://github.com/MrGKanev/php-fpm-process-calculator)
-5. 💪 Opened PR [#5](undefined) in [MrGKanev/php-fpm-process-calculator](https://github.com/MrGKanev/php-fpm-process-calculator)
+1. 💪 Opened PR [#6](undefined) in [MrGKanev/php-fpm-process-calculator](https://github.com/MrGKanev/php-fpm-process-calculator)
+2. 💪 Opened PR [#5](undefined) in [MrGKanev/php-fpm-process-calculator](https://github.com/MrGKanev/php-fpm-process-calculator)
+3. 💪 Opened PR [#4](undefined) in [MrGKanev/php-fpm-process-calculator](https://github.com/MrGKanev/php-fpm-process-calculator)
+4. 💪 Opened PR [#3](undefined) in [MrGKanev/php-fpm-process-calculator](https://github.com/MrGKanev/php-fpm-process-calculator)
+5. ❌ Assigned PR [#3](undefined) in [Open-WP-Club/phone-order-woo](https://github.com/Open-WP-Club/phone-order-woo)
 <!--END_SECTION:activity-->
