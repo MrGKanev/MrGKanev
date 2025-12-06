@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#1](undefined) in [Open-WP-Club/wpfleet](https://github.com/Open-WP-Club/wpfleet)
-2. ❌ Merged PR [#3](undefined) in [MrGKanev/made-in-bulgaria](https://github.com/MrGKanev/made-in-bulgaria)
-3. 💪 Opened PR [#3](undefined) in [MrGKanev/made-in-bulgaria](https://github.com/MrGKanev/made-in-bulgaria)
-4. ❌ Merged PR [#2](undefined) in [MrGKanev/made-in-bulgaria](https://github.com/MrGKanev/made-in-bulgaria)
-5. 💪 Opened PR [#2](undefined) in [MrGKanev/made-in-bulgaria](https://github.com/MrGKanev/made-in-bulgaria)
+1. ❌ Merged PR [#1](undefined) in [Open-WP-Club/disable-gutenberg-for-wp](https://github.com/Open-WP-Club/disable-gutenberg-for-wp)
+2. 💪 Opened PR [#1](undefined) in [Open-WP-Club/disable-gutenberg-for-wp](https://github.com/Open-WP-Club/disable-gutenberg-for-wp)
+3. ❌ Merged PR [#7](undefined) in [Open-WP-Club/wpfleet](https://github.com/Open-WP-Club/wpfleet)
+4. 💪 Opened PR [#7](undefined) in [Open-WP-Club/wpfleet](https://github.com/Open-WP-Club/wpfleet)
+5. ❌ Merged PR [#6](undefined) in [Open-WP-Club/wpfleet](https://github.com/Open-WP-Club/wpfleet)
 <!--END_SECTION:activity-->
