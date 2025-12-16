@@ -8,11 +8,11 @@
 
 ### 📖 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI-Powered Cyberattack: When Bots Start Hacking Other Bots](https://gkanev.com/posts/ai-powered-cyberattack-when-bots-start-hacking-other-bots/)
 - [SOC 2: Lessons learned from my duck-ups](https://gkanev.com/posts/soc-2-lessons-learned-from-my-duck-ups/)
 - [Debunking the Myths: What SEO Professionals Need to Know About AI and LLMs](https://gkanev.com/posts/debunking-the-myths-what-seo-professionals-need-to-know-about-ai-and-llms/)
 - [When your AI support bot becomes the attack surface](https://gkanev.com/posts/when-your-ai-support-bot-becomes-the-attack-surface/)
 - [Google Is Sinking the Pixel Lineup + Android](https://gkanev.com/posts/google-is-sinking-the-pixel-lineup-android/)
-- [Why digital preservation is failing](https://gkanev.com/posts/why-digital-preservation-is-failing/)
 <!-- BLOG-POST-LIST:END -->
 
 ##### 🧑‍💻 Recent Github Activity
