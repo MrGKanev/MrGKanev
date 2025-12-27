@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.1.2](https://github.com/Open-WP-Club/inventory-alerts-woo/releases/tag/1.1.2) in [Open-WP-Club/inventory-alerts-woo](https://github.com/Open-WP-Club/inventory-alerts-woo)
-2. ❌ Merged PR [#5](undefined) in [Open-WP-Club/inventory-alerts-woo](https://github.com/Open-WP-Club/inventory-alerts-woo)
-3. 💪 Opened PR [#5](undefined) in [Open-WP-Club/inventory-alerts-woo](https://github.com/Open-WP-Club/inventory-alerts-woo)
-4. ❌ Merged PR [#1](undefined) in [Open-WP-Club/disable-gutenberg-for-wp](https://github.com/Open-WP-Club/disable-gutenberg-for-wp)
-5. 💪 Opened PR [#1](undefined) in [Open-WP-Club/disable-gutenberg-for-wp](https://github.com/Open-WP-Club/disable-gutenberg-for-wp)
+1. ❌ Merged PR [#1](undefined) in [MrGKanev/Bulgarian-Electrical-Grid-Assistant](https://github.com/MrGKanev/Bulgarian-Electrical-Grid-Assistant)
+2. 💪 Opened PR [#1](undefined) in [MrGKanev/Bulgarian-Electrical-Grid-Assistant](https://github.com/MrGKanev/Bulgarian-Electrical-Grid-Assistant)
+3. 🚀 Published release [1.1.2](https://github.com/Open-WP-Club/inventory-alerts-woo/releases/tag/1.1.2) in [Open-WP-Club/inventory-alerts-woo](https://github.com/Open-WP-Club/inventory-alerts-woo)
+4. ❌ Merged PR [#5](undefined) in [Open-WP-Club/inventory-alerts-woo](https://github.com/Open-WP-Club/inventory-alerts-woo)
+5. 💪 Opened PR [#5](undefined) in [Open-WP-Club/inventory-alerts-woo](https://github.com/Open-WP-Club/inventory-alerts-woo)
 <!--END_SECTION:activity-->
