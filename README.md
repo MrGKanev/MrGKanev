@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#1](undefined) in [MrGKanev/Bulgarian-Electrical-Grid-Assistant](https://github.com/MrGKanev/Bulgarian-Electrical-Grid-Assistant)
-2. 💪 Opened PR [#1](undefined) in [MrGKanev/Bulgarian-Electrical-Grid-Assistant](https://github.com/MrGKanev/Bulgarian-Electrical-Grid-Assistant)
-3. 🚀 Published release [1.1.2](https://github.com/Open-WP-Club/inventory-alerts-woo/releases/tag/1.1.2) in [Open-WP-Club/inventory-alerts-woo](https://github.com/Open-WP-Club/inventory-alerts-woo)
-4. ❌ Merged PR [#5](undefined) in [Open-WP-Club/inventory-alerts-woo](https://github.com/Open-WP-Club/inventory-alerts-woo)
-5. 💪 Opened PR [#5](undefined) in [Open-WP-Club/inventory-alerts-woo](https://github.com/Open-WP-Club/inventory-alerts-woo)
+1. ❌ Merged PR [#3](undefined) in [MrGKanev/wp-order-product-adder](https://github.com/MrGKanev/wp-order-product-adder)
+2. 💪 Opened PR [#3](undefined) in [MrGKanev/wp-order-product-adder](https://github.com/MrGKanev/wp-order-product-adder)
+3. ❌ Merged PR [#2](undefined) in [MrGKanev/static-wiki](https://github.com/MrGKanev/static-wiki)
+4. 💪 Opened PR [#2](undefined) in [MrGKanev/static-wiki](https://github.com/MrGKanev/static-wiki)
+5. ❌ Merged PR [#1](undefined) in [MrGKanev/static-wiki](https://github.com/MrGKanev/static-wiki)
 <!--END_SECTION:activity-->
