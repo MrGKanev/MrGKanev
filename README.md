@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#3](undefined) in [MrGKanev/wp-order-product-adder](https://github.com/MrGKanev/wp-order-product-adder)
-2. 💪 Opened PR [#3](undefined) in [MrGKanev/wp-order-product-adder](https://github.com/MrGKanev/wp-order-product-adder)
-3. ❌ Merged PR [#2](undefined) in [MrGKanev/static-wiki](https://github.com/MrGKanev/static-wiki)
-4. 💪 Opened PR [#2](undefined) in [MrGKanev/static-wiki](https://github.com/MrGKanev/static-wiki)
-5. ❌ Merged PR [#1](undefined) in [MrGKanev/static-wiki](https://github.com/MrGKanev/static-wiki)
+1. ℹ️ Assigned PR [#5](https://github.com/Open-WP-Club/WooCommerce-Priority-Processing/pull/5) in [Open-WP-Club/WooCommerce-Priority-Processing](https://github.com/Open-WP-Club/WooCommerce-Priority-Processing)
+2. 💪 Opened PR [#5](https://github.com/Open-WP-Club/WooCommerce-Priority-Processing/pull/5) in [Open-WP-Club/WooCommerce-Priority-Processing](https://github.com/Open-WP-Club/WooCommerce-Priority-Processing)
+3. 🚀 Published release [1.1.0](https://github.com/Open-WP-Club/plugin-hub/releases/tag/1.1.0) in [Open-WP-Club/plugin-hub](https://github.com/Open-WP-Club/plugin-hub)
+4. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/WP-eu-vat/releases/tag/1.0.0) in [Open-WP-Club/WP-eu-vat](https://github.com/Open-WP-Club/WP-eu-vat)
+5. 🎉 Merged PR [#3](https://github.com/MrGKanev/wp-order-product-adder/pull/3) in [MrGKanev/wp-order-product-adder](https://github.com/MrGKanev/wp-order-product-adder)
 <!--END_SECTION:activity-->
