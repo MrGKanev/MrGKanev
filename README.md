@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#5](https://github.com/Open-WP-Club/WooCommerce-Priority-Processing/pull/5) in [Open-WP-Club/WooCommerce-Priority-Processing](https://github.com/Open-WP-Club/WooCommerce-Priority-Processing)
-2. 💪 Opened PR [#5](https://github.com/Open-WP-Club/WooCommerce-Priority-Processing/pull/5) in [Open-WP-Club/WooCommerce-Priority-Processing](https://github.com/Open-WP-Club/WooCommerce-Priority-Processing)
-3. 🚀 Published release [1.1.0](https://github.com/Open-WP-Club/plugin-hub/releases/tag/1.1.0) in [Open-WP-Club/plugin-hub](https://github.com/Open-WP-Club/plugin-hub)
-4. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/WP-eu-vat/releases/tag/1.0.0) in [Open-WP-Club/WP-eu-vat](https://github.com/Open-WP-Club/WP-eu-vat)
-5. 🎉 Merged PR [#3](https://github.com/MrGKanev/wp-order-product-adder/pull/3) in [MrGKanev/wp-order-product-adder](https://github.com/MrGKanev/wp-order-product-adder)
+1. 💪 Opened PR [#2](https://github.com/Open-WP-Club/User-Self-Delete/pull/2) in [Open-WP-Club/User-Self-Delete](https://github.com/Open-WP-Club/User-Self-Delete)
+2. ℹ️ Assigned PR [#2](https://github.com/Open-WP-Club/User-Self-Delete/pull/2) in [Open-WP-Club/User-Self-Delete](https://github.com/Open-WP-Club/User-Self-Delete)
+3. 💪 Opened PR [#4](https://github.com/Open-WP-Club/phone-order-woo/pull/4) in [Open-WP-Club/phone-order-woo](https://github.com/Open-WP-Club/phone-order-woo)
+4. ℹ️ Assigned PR [#4](https://github.com/Open-WP-Club/phone-order-woo/pull/4) in [Open-WP-Club/phone-order-woo](https://github.com/Open-WP-Club/phone-order-woo)
+5. ❌ Closed PR [#3](https://github.com/Open-WP-Club/phone-order-woo/pull/3) in [Open-WP-Club/phone-order-woo](https://github.com/Open-WP-Club/phone-order-woo)
 <!--END_SECTION:activity-->
