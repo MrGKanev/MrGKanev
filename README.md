@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.0.0](https://github.com/Open-WP-Club/User-Self-Delete/releases/tag/2.0.0) in [Open-WP-Club/User-Self-Delete](https://github.com/Open-WP-Club/User-Self-Delete)
-2. 🎉 Merged PR [#2](https://github.com/Open-WP-Club/User-Self-Delete/pull/2) in [Open-WP-Club/User-Self-Delete](https://github.com/Open-WP-Club/User-Self-Delete)
-3. 🚀 Published release [1.4.0](https://github.com/Open-WP-Club/wp-google-scholar/releases/tag/1.4.0) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
-4. 🎉 Merged PR [#12](https://github.com/Open-WP-Club/wp-google-scholar/pull/12) in [Open-WP-Club/wp-google-scholar](https://github.com/Open-WP-Club/wp-google-scholar)
-5. 💪 Opened PR [#4](https://github.com/Open-WP-Club/StageGuard/pull/4) in [Open-WP-Club/StageGuard](https://github.com/Open-WP-Club/StageGuard)
+1. 🎉 Merged PR [#2](https://github.com/MrGKanev/WordPress-2-nd-brain/pull/2) in [MrGKanev/WordPress-2-nd-brain](https://github.com/MrGKanev/WordPress-2-nd-brain)
+2. 💪 Opened PR [#2](https://github.com/MrGKanev/WordPress-2-nd-brain/pull/2) in [MrGKanev/WordPress-2-nd-brain](https://github.com/MrGKanev/WordPress-2-nd-brain)
+3. 🎉 Merged PR [#1](https://github.com/MrGKanev/WordPress-2-nd-brain/pull/1) in [MrGKanev/WordPress-2-nd-brain](https://github.com/MrGKanev/WordPress-2-nd-brain)
+4. 💪 Opened PR [#1](https://github.com/MrGKanev/WordPress-2-nd-brain/pull/1) in [MrGKanev/WordPress-2-nd-brain](https://github.com/MrGKanev/WordPress-2-nd-brain)
+5. 🚀 Published release [2.0.0](https://github.com/Open-WP-Club/User-Self-Delete/releases/tag/2.0.0) in [Open-WP-Club/User-Self-Delete](https://github.com/Open-WP-Club/User-Self-Delete)
 <!--END_SECTION:activity-->
