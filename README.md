@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.0](https://github.com/MrGKanev/DataDiver/releases/tag/1.0.0) in [MrGKanev/DataDiver](https://github.com/MrGKanev/DataDiver)
-2. ❌ Closed PR [#4](https://github.com/Open-WP-Club/StageGuard/pull/4) in [Open-WP-Club/StageGuard](https://github.com/Open-WP-Club/StageGuard)
-3. 🚀 Published release [1.1.1](https://github.com/Open-WP-Club/StageGuard/releases/tag/1.1.1) in [Open-WP-Club/StageGuard](https://github.com/Open-WP-Club/StageGuard)
-4. 🎉 Merged PR [#2](https://github.com/MrGKanev/WordPress-2-nd-brain/pull/2) in [MrGKanev/WordPress-2-nd-brain](https://github.com/MrGKanev/WordPress-2-nd-brain)
-5. 💪 Opened PR [#2](https://github.com/MrGKanev/WordPress-2-nd-brain/pull/2) in [MrGKanev/WordPress-2-nd-brain](https://github.com/MrGKanev/WordPress-2-nd-brain)
+1. 🎉 Merged PR [#3](https://github.com/MrGKanev/WordPress-2-nd-brain/pull/3) in [MrGKanev/WordPress-2-nd-brain](https://github.com/MrGKanev/WordPress-2-nd-brain)
+2. 💪 Opened PR [#3](https://github.com/MrGKanev/WordPress-2-nd-brain/pull/3) in [MrGKanev/WordPress-2-nd-brain](https://github.com/MrGKanev/WordPress-2-nd-brain)
+3. 🚀 Published release [1.5.0](https://github.com/Anvilo-Inc/wp-ashby-jobs/releases/tag/1.5.0) in [Anvilo-Inc/wp-ashby-jobs](https://github.com/Anvilo-Inc/wp-ashby-jobs)
+4. 🚀 Published release [2.0.0](https://github.com/Open-WP-Club/phone-order-woo/releases/tag/2.0.0) in [Open-WP-Club/phone-order-woo](https://github.com/Open-WP-Club/phone-order-woo)
+5. 🎉 Merged PR [#4](https://github.com/Open-WP-Club/phone-order-woo/pull/4) in [Open-WP-Club/phone-order-woo](https://github.com/Open-WP-Club/phone-order-woo)
 <!--END_SECTION:activity-->
