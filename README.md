@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/MrGKanev/WordPress-2-nd-brain/pull/3) in [MrGKanev/WordPress-2-nd-brain](https://github.com/MrGKanev/WordPress-2-nd-brain)
-2. 💪 Opened PR [#3](https://github.com/MrGKanev/WordPress-2-nd-brain/pull/3) in [MrGKanev/WordPress-2-nd-brain](https://github.com/MrGKanev/WordPress-2-nd-brain)
-3. 🚀 Published release [1.5.0](https://github.com/Anvilo-Inc/wp-ashby-jobs/releases/tag/1.5.0) in [Anvilo-Inc/wp-ashby-jobs](https://github.com/Anvilo-Inc/wp-ashby-jobs)
-4. 🚀 Published release [2.0.0](https://github.com/Open-WP-Club/phone-order-woo/releases/tag/2.0.0) in [Open-WP-Club/phone-order-woo](https://github.com/Open-WP-Club/phone-order-woo)
-5. 🎉 Merged PR [#4](https://github.com/Open-WP-Club/phone-order-woo/pull/4) in [Open-WP-Club/phone-order-woo](https://github.com/Open-WP-Club/phone-order-woo)
+1. 🚀 Published release [1.5.0](https://github.com/Open-WP-Club/spam-user-detective-wp/releases/tag/1.5.0) in [Open-WP-Club/spam-user-detective-wp](https://github.com/Open-WP-Club/spam-user-detective-wp)
+2. 🚀 Published release [1.4.0](https://github.com/Open-WP-Club/spam-user-detective-wp/releases/tag/1.4.0) in [Open-WP-Club/spam-user-detective-wp](https://github.com/Open-WP-Club/spam-user-detective-wp)
+3. 🚀 Published release [1.3.0](https://github.com/Open-WP-Club/logo-link-wp/releases/tag/1.3.0) in [Open-WP-Club/logo-link-wp](https://github.com/Open-WP-Club/logo-link-wp)
+4. 🚀 Published release [2.0.1](https://github.com/Open-WP-Club/sku-auto-woocommerce/releases/tag/2.0.1) in [Open-WP-Club/sku-auto-woocommerce](https://github.com/Open-WP-Club/sku-auto-woocommerce)
+5. 🎉 Merged PR [#3](https://github.com/MrGKanev/WordPress-2-nd-brain/pull/3) in [MrGKanev/WordPress-2-nd-brain](https://github.com/MrGKanev/WordPress-2-nd-brain)
 <!--END_SECTION:activity-->
