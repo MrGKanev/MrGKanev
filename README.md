@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.5.0](https://github.com/Open-WP-Club/spam-user-detective-wp/releases/tag/1.5.0) in [Open-WP-Club/spam-user-detective-wp](https://github.com/Open-WP-Club/spam-user-detective-wp)
-2. 🚀 Published release [1.4.0](https://github.com/Open-WP-Club/spam-user-detective-wp/releases/tag/1.4.0) in [Open-WP-Club/spam-user-detective-wp](https://github.com/Open-WP-Club/spam-user-detective-wp)
-3. 🚀 Published release [1.3.0](https://github.com/Open-WP-Club/logo-link-wp/releases/tag/1.3.0) in [Open-WP-Club/logo-link-wp](https://github.com/Open-WP-Club/logo-link-wp)
-4. 🚀 Published release [2.0.1](https://github.com/Open-WP-Club/sku-auto-woocommerce/releases/tag/2.0.1) in [Open-WP-Club/sku-auto-woocommerce](https://github.com/Open-WP-Club/sku-auto-woocommerce)
-5. 🎉 Merged PR [#3](https://github.com/MrGKanev/WordPress-2-nd-brain/pull/3) in [MrGKanev/WordPress-2-nd-brain](https://github.com/MrGKanev/WordPress-2-nd-brain)
+1. 🎉 Merged PR [#1](https://github.com/Simple-Widgetscom/website/pull/1) in [Simple-Widgetscom/website](https://github.com/Simple-Widgetscom/website)
+2. 💪 Opened PR [#1](https://github.com/Simple-Widgetscom/website/pull/1) in [Simple-Widgetscom/website](https://github.com/Simple-Widgetscom/website)
+3. 🎉 Merged PR [#2](https://github.com/MrGKanev/llm-txt-for-website/pull/2) in [MrGKanev/llm-txt-for-website](https://github.com/MrGKanev/llm-txt-for-website)
+4. 💪 Opened PR [#2](https://github.com/MrGKanev/llm-txt-for-website/pull/2) in [MrGKanev/llm-txt-for-website](https://github.com/MrGKanev/llm-txt-for-website)
+5. 🎉 Merged PR [#1](https://github.com/MrGKanev/llm-txt-for-website/pull/1) in [MrGKanev/llm-txt-for-website](https://github.com/MrGKanev/llm-txt-for-website)
 <!--END_SECTION:activity-->
