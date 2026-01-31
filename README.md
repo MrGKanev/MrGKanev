@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Simple-Widgetscom/website/pull/1) in [Simple-Widgetscom/website](https://github.com/Simple-Widgetscom/website)
-2. 💪 Opened PR [#1](https://github.com/Simple-Widgetscom/website/pull/1) in [Simple-Widgetscom/website](https://github.com/Simple-Widgetscom/website)
-3. 🎉 Merged PR [#2](https://github.com/MrGKanev/llm-txt-for-website/pull/2) in [MrGKanev/llm-txt-for-website](https://github.com/MrGKanev/llm-txt-for-website)
-4. 💪 Opened PR [#2](https://github.com/MrGKanev/llm-txt-for-website/pull/2) in [MrGKanev/llm-txt-for-website](https://github.com/MrGKanev/llm-txt-for-website)
-5. 🎉 Merged PR [#1](https://github.com/MrGKanev/llm-txt-for-website/pull/1) in [MrGKanev/llm-txt-for-website](https://github.com/MrGKanev/llm-txt-for-website)
+1. 🎉 Merged PR [#2](https://github.com/MrGKanev/Ecommerce-Glossary/pull/2) in [MrGKanev/Ecommerce-Glossary](https://github.com/MrGKanev/Ecommerce-Glossary)
+2. 💪 Opened PR [#2](https://github.com/MrGKanev/Ecommerce-Glossary/pull/2) in [MrGKanev/Ecommerce-Glossary](https://github.com/MrGKanev/Ecommerce-Glossary)
+3. 🎉 Merged PR [#1](https://github.com/MrGKanev/OGTR/pull/1) in [MrGKanev/OGTR](https://github.com/MrGKanev/OGTR)
+4. 💪 Opened PR [#1](https://github.com/MrGKanev/OGTR/pull/1) in [MrGKanev/OGTR](https://github.com/MrGKanev/OGTR)
+5. 🎉 Merged PR [#2](https://github.com/MrGKanev/llm-txt-for-website/pull/2) in [MrGKanev/llm-txt-for-website](https://github.com/MrGKanev/llm-txt-for-website)
 <!--END_SECTION:activity-->
