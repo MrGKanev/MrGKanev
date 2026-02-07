@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.1.0](https://github.com/Open-WP-Club/sku-auto-woocommerce/releases/tag/2.1.0) in [Open-WP-Club/sku-auto-woocommerce](https://github.com/Open-WP-Club/sku-auto-woocommerce)
-2. 🎉 Merged PR [#2](https://github.com/MrGKanev/Ecommerce-Glossary/pull/2) in [MrGKanev/Ecommerce-Glossary](https://github.com/MrGKanev/Ecommerce-Glossary)
-3. 💪 Opened PR [#2](https://github.com/MrGKanev/Ecommerce-Glossary/pull/2) in [MrGKanev/Ecommerce-Glossary](https://github.com/MrGKanev/Ecommerce-Glossary)
-4. 🎉 Merged PR [#1](https://github.com/MrGKanev/OGTR/pull/1) in [MrGKanev/OGTR](https://github.com/MrGKanev/OGTR)
-5. 💪 Opened PR [#1](https://github.com/MrGKanev/OGTR/pull/1) in [MrGKanev/OGTR](https://github.com/MrGKanev/OGTR)
+1. 🚀 Published release [1.4.4](https://github.com/Open-WP-Club/Priority-Processing-WooCommerce/releases/tag/1.4.4) in [Open-WP-Club/Priority-Processing-WooCommerce](https://github.com/Open-WP-Club/Priority-Processing-WooCommerce)
+2. 🚀 Published release [2.1.0](https://github.com/Open-WP-Club/sku-auto-woocommerce/releases/tag/2.1.0) in [Open-WP-Club/sku-auto-woocommerce](https://github.com/Open-WP-Club/sku-auto-woocommerce)
+3. 🎉 Merged PR [#2](https://github.com/MrGKanev/Ecommerce-Glossary/pull/2) in [MrGKanev/Ecommerce-Glossary](https://github.com/MrGKanev/Ecommerce-Glossary)
+4. 💪 Opened PR [#2](https://github.com/MrGKanev/Ecommerce-Glossary/pull/2) in [MrGKanev/Ecommerce-Glossary](https://github.com/MrGKanev/Ecommerce-Glossary)
+5. 🎉 Merged PR [#1](https://github.com/MrGKanev/OGTR/pull/1) in [MrGKanev/OGTR](https://github.com/MrGKanev/OGTR)
 <!--END_SECTION:activity-->
