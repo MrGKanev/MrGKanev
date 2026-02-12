@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.2.2](https://github.com/Open-WP-Club/sku-auto-woocommerce/releases/tag/2.2.2) in [Open-WP-Club/sku-auto-woocommerce](https://github.com/Open-WP-Club/sku-auto-woocommerce)
-2. 🚀 Published release [2.2.1](https://github.com/Open-WP-Club/sku-auto-woocommerce/releases/tag/2.2.1) in [Open-WP-Club/sku-auto-woocommerce](https://github.com/Open-WP-Club/sku-auto-woocommerce)
-3. 🚀 Published release [2.2.0](https://github.com/Open-WP-Club/sku-auto-woocommerce/releases/tag/2.2.0) in [Open-WP-Club/sku-auto-woocommerce](https://github.com/Open-WP-Club/sku-auto-woocommerce)
-4. 🚀 Published release [1.4.4](https://github.com/Open-WP-Club/Priority-Processing-WooCommerce/releases/tag/1.4.4) in [Open-WP-Club/Priority-Processing-WooCommerce](https://github.com/Open-WP-Club/Priority-Processing-WooCommerce)
-5. 🚀 Published release [2.1.0](https://github.com/Open-WP-Club/sku-auto-woocommerce/releases/tag/2.1.0) in [Open-WP-Club/sku-auto-woocommerce](https://github.com/Open-WP-Club/sku-auto-woocommerce)
+1. 🚀 Published release [1.1.0](https://github.com/Open-WP-Club/order-printing-woocommerce/releases/tag/1.1.0) in [Open-WP-Club/order-printing-woocommerce](https://github.com/Open-WP-Club/order-printing-woocommerce)
+2. 🚀 Published release [1.0.1](https://github.com/Open-WP-Club/order-printing-woocommerce/releases/tag/1.0.1) in [Open-WP-Club/order-printing-woocommerce](https://github.com/Open-WP-Club/order-printing-woocommerce)
+3. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/order-printing-woocommerce/releases/tag/1.0.0) in [Open-WP-Club/order-printing-woocommerce](https://github.com/Open-WP-Club/order-printing-woocommerce)
+4. ℹ️ Assigned PR [#25](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator/pull/25) in [MrGKanev/MySQL-MariaDB-Settings-Calculator](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator)
+5. 💪 Opened PR [#25](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator/pull/25) in [MrGKanev/MySQL-MariaDB-Settings-Calculator](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator)
 <!--END_SECTION:activity-->
