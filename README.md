@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.1.0](https://github.com/Open-WP-Club/order-printing-woocommerce/releases/tag/1.1.0) in [Open-WP-Club/order-printing-woocommerce](https://github.com/Open-WP-Club/order-printing-woocommerce)
-2. 🚀 Published release [1.0.1](https://github.com/Open-WP-Club/order-printing-woocommerce/releases/tag/1.0.1) in [Open-WP-Club/order-printing-woocommerce](https://github.com/Open-WP-Club/order-printing-woocommerce)
-3. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/order-printing-woocommerce/releases/tag/1.0.0) in [Open-WP-Club/order-printing-woocommerce](https://github.com/Open-WP-Club/order-printing-woocommerce)
-4. ℹ️ Assigned PR [#25](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator/pull/25) in [MrGKanev/MySQL-MariaDB-Settings-Calculator](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator)
-5. 💪 Opened PR [#25](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator/pull/25) in [MrGKanev/MySQL-MariaDB-Settings-Calculator](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator)
+1. 🚀 Published release [1.2.0](https://github.com/Open-WP-Club/order-printing-woocommerce/releases/tag/1.2.0) in [Open-WP-Club/order-printing-woocommerce](https://github.com/Open-WP-Club/order-printing-woocommerce)
+2. 🚀 Published release [1.1.5](https://github.com/Open-WP-Club/order-printing-woocommerce/releases/tag/1.1.5) in [Open-WP-Club/order-printing-woocommerce](https://github.com/Open-WP-Club/order-printing-woocommerce)
+3. 🚀 Published release [1.1.0](https://github.com/Open-WP-Club/order-printing-woocommerce/releases/tag/1.1.0) in [Open-WP-Club/order-printing-woocommerce](https://github.com/Open-WP-Club/order-printing-woocommerce)
+4. 🚀 Published release [1.0.1](https://github.com/Open-WP-Club/order-printing-woocommerce/releases/tag/1.0.1) in [Open-WP-Club/order-printing-woocommerce](https://github.com/Open-WP-Club/order-printing-woocommerce)
+5. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/order-printing-woocommerce/releases/tag/1.0.0) in [Open-WP-Club/order-printing-woocommerce](https://github.com/Open-WP-Club/order-printing-woocommerce)
 <!--END_SECTION:activity-->
