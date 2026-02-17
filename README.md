@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.2.0](https://github.com/Open-WP-Club/order-printing-woocommerce/releases/tag/1.2.0) in [Open-WP-Club/order-printing-woocommerce](https://github.com/Open-WP-Club/order-printing-woocommerce)
-2. 🚀 Published release [1.1.5](https://github.com/Open-WP-Club/order-printing-woocommerce/releases/tag/1.1.5) in [Open-WP-Club/order-printing-woocommerce](https://github.com/Open-WP-Club/order-printing-woocommerce)
-3. 🚀 Published release [1.1.0](https://github.com/Open-WP-Club/order-printing-woocommerce/releases/tag/1.1.0) in [Open-WP-Club/order-printing-woocommerce](https://github.com/Open-WP-Club/order-printing-woocommerce)
-4. 🚀 Published release [1.0.1](https://github.com/Open-WP-Club/order-printing-woocommerce/releases/tag/1.0.1) in [Open-WP-Club/order-printing-woocommerce](https://github.com/Open-WP-Club/order-printing-woocommerce)
-5. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/order-printing-woocommerce/releases/tag/1.0.0) in [Open-WP-Club/order-printing-woocommerce](https://github.com/Open-WP-Club/order-printing-woocommerce)
+1. 🎉 Merged PR [#4](https://github.com/MrGKanev/WordPress-2-nd-brain/pull/4) in [MrGKanev/WordPress-2-nd-brain](https://github.com/MrGKanev/WordPress-2-nd-brain)
+2. ℹ️ Assigned PR [#4](https://github.com/MrGKanev/WordPress-2-nd-brain/pull/4) in [MrGKanev/WordPress-2-nd-brain](https://github.com/MrGKanev/WordPress-2-nd-brain)
+3. 💪 Opened PR [#4](https://github.com/MrGKanev/WordPress-2-nd-brain/pull/4) in [MrGKanev/WordPress-2-nd-brain](https://github.com/MrGKanev/WordPress-2-nd-brain)
+4. 🚀 Published release [3.0.0](https://github.com/Open-WP-Club/team-manager-wordPress/releases/tag/3.0.0) in [Open-WP-Club/team-manager-wordPress](https://github.com/Open-WP-Club/team-manager-wordPress)
+5. 🚀 Published release [1.2.0](https://github.com/Open-WP-Club/order-printing-woocommerce/releases/tag/1.2.0) in [Open-WP-Club/order-printing-woocommerce](https://github.com/Open-WP-Club/order-printing-woocommerce)
 <!--END_SECTION:activity-->
