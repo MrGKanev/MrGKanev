@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/MrGKanev/WordPress-2-nd-brain/pull/4) in [MrGKanev/WordPress-2-nd-brain](https://github.com/MrGKanev/WordPress-2-nd-brain)
-2. ℹ️ Assigned PR [#4](https://github.com/MrGKanev/WordPress-2-nd-brain/pull/4) in [MrGKanev/WordPress-2-nd-brain](https://github.com/MrGKanev/WordPress-2-nd-brain)
-3. 💪 Opened PR [#4](https://github.com/MrGKanev/WordPress-2-nd-brain/pull/4) in [MrGKanev/WordPress-2-nd-brain](https://github.com/MrGKanev/WordPress-2-nd-brain)
-4. 🚀 Published release [3.0.0](https://github.com/Open-WP-Club/team-manager-wordPress/releases/tag/3.0.0) in [Open-WP-Club/team-manager-wordPress](https://github.com/Open-WP-Club/team-manager-wordPress)
-5. 🚀 Published release [1.2.0](https://github.com/Open-WP-Club/order-printing-woocommerce/releases/tag/1.2.0) in [Open-WP-Club/order-printing-woocommerce](https://github.com/Open-WP-Club/order-printing-woocommerce)
+1. 🎉 Merged PR [#25](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator/pull/25) in [MrGKanev/MySQL-MariaDB-Settings-Calculator](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator)
+2. 🎉 Merged PR [#4](https://github.com/MrGKanev/WordPress-2-nd-brain/pull/4) in [MrGKanev/WordPress-2-nd-brain](https://github.com/MrGKanev/WordPress-2-nd-brain)
+3. ℹ️ Assigned PR [#4](https://github.com/MrGKanev/WordPress-2-nd-brain/pull/4) in [MrGKanev/WordPress-2-nd-brain](https://github.com/MrGKanev/WordPress-2-nd-brain)
+4. 💪 Opened PR [#4](https://github.com/MrGKanev/WordPress-2-nd-brain/pull/4) in [MrGKanev/WordPress-2-nd-brain](https://github.com/MrGKanev/WordPress-2-nd-brain)
+5. 🚀 Published release [3.0.0](https://github.com/Open-WP-Club/team-manager-wordPress/releases/tag/3.0.0) in [Open-WP-Club/team-manager-wordPress](https://github.com/Open-WP-Club/team-manager-wordPress)
 <!--END_SECTION:activity-->
