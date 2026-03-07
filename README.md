@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator/pull/25) in [MrGKanev/MySQL-MariaDB-Settings-Calculator](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator)
-2. 🎉 Merged PR [#4](https://github.com/MrGKanev/WordPress-2-nd-brain/pull/4) in [MrGKanev/WordPress-2-nd-brain](https://github.com/MrGKanev/WordPress-2-nd-brain)
-3. ℹ️ Assigned PR [#4](https://github.com/MrGKanev/WordPress-2-nd-brain/pull/4) in [MrGKanev/WordPress-2-nd-brain](https://github.com/MrGKanev/WordPress-2-nd-brain)
-4. 💪 Opened PR [#4](https://github.com/MrGKanev/WordPress-2-nd-brain/pull/4) in [MrGKanev/WordPress-2-nd-brain](https://github.com/MrGKanev/WordPress-2-nd-brain)
-5. 🚀 Published release [3.0.0](https://github.com/Open-WP-Club/team-manager-wordPress/releases/tag/3.0.0) in [Open-WP-Club/team-manager-wordPress](https://github.com/Open-WP-Club/team-manager-wordPress)
+1. 🎉 Merged PR [#3](https://github.com/omnisetorg/Install/pull/3) in [omnisetorg/Install](https://github.com/omnisetorg/Install)
+2. 💪 Opened PR [#3](https://github.com/omnisetorg/Install/pull/3) in [omnisetorg/Install](https://github.com/omnisetorg/Install)
+3. ℹ️ Assigned PR [#3](https://github.com/omnisetorg/Install/pull/3) in [omnisetorg/Install](https://github.com/omnisetorg/Install)
+4. 🎉 Merged PR [#25](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator/pull/25) in [MrGKanev/MySQL-MariaDB-Settings-Calculator](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator)
+5. 🎉 Merged PR [#4](https://github.com/MrGKanev/WordPress-2-nd-brain/pull/4) in [MrGKanev/WordPress-2-nd-brain](https://github.com/MrGKanev/WordPress-2-nd-brain)
 <!--END_SECTION:activity-->
