@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/omnisetorg/Install/pull/3) in [omnisetorg/Install](https://github.com/omnisetorg/Install)
-2. 💪 Opened PR [#3](https://github.com/omnisetorg/Install/pull/3) in [omnisetorg/Install](https://github.com/omnisetorg/Install)
-3. ℹ️ Assigned PR [#3](https://github.com/omnisetorg/Install/pull/3) in [omnisetorg/Install](https://github.com/omnisetorg/Install)
-4. 🎉 Merged PR [#25](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator/pull/25) in [MrGKanev/MySQL-MariaDB-Settings-Calculator](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator)
-5. 🎉 Merged PR [#4](https://github.com/MrGKanev/WordPress-2-nd-brain/pull/4) in [MrGKanev/WordPress-2-nd-brain](https://github.com/MrGKanev/WordPress-2-nd-brain)
+1. 🎉 Merged PR [#4](https://github.com/Open-WP-Club/openwpclub.com/pull/4) in [Open-WP-Club/openwpclub.com](https://github.com/Open-WP-Club/openwpclub.com)
+2. 💪 Opened PR [#4](https://github.com/Open-WP-Club/openwpclub.com/pull/4) in [Open-WP-Club/openwpclub.com](https://github.com/Open-WP-Club/openwpclub.com)
+3. 🎉 Merged PR [#3](https://github.com/Open-WP-Club/openwpclub.com/pull/3) in [Open-WP-Club/openwpclub.com](https://github.com/Open-WP-Club/openwpclub.com)
+4. 💪 Opened PR [#3](https://github.com/Open-WP-Club/openwpclub.com/pull/3) in [Open-WP-Club/openwpclub.com](https://github.com/Open-WP-Club/openwpclub.com)
+5. 🎉 Merged PR [#1](https://github.com/MrGKanev/Editora/pull/1) in [MrGKanev/Editora](https://github.com/MrGKanev/Editora)
 <!--END_SECTION:activity-->
