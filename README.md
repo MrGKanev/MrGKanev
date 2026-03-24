@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.0.1](https://github.com/MrGKanev/Editora/releases/tag/0.0.1) in [MrGKanev/Editora](https://github.com/MrGKanev/Editora)
-2. 🚀 Published release [0.1.0](https://github.com/Open-WP-Club/FulFill-for-WooCommerce/releases/tag/0.1.0) in [Open-WP-Club/FulFill-for-WooCommerce](https://github.com/Open-WP-Club/FulFill-for-WooCommerce)
-3. 🚀 Published release [0.0.8](https://github.com/Open-WP-Club/FulFill-for-WooCommerce/releases/tag/0.0.8) in [Open-WP-Club/FulFill-for-WooCommerce](https://github.com/Open-WP-Club/FulFill-for-WooCommerce)
-4. 🚀 Published release [0.0.7](https://github.com/Open-WP-Club/FulFill-for-WooCommerce/releases/tag/0.0.7) in [Open-WP-Club/FulFill-for-WooCommerce](https://github.com/Open-WP-Club/FulFill-for-WooCommerce)
-5. 🚀 Published release [0.0.6](https://github.com/Open-WP-Club/FulFill-for-WooCommerce/releases/tag/0.0.6) in [Open-WP-Club/FulFill-for-WooCommerce](https://github.com/Open-WP-Club/FulFill-for-WooCommerce)
+1. 🚀 Published release [0.0.4](https://github.com/MrGKanev/Editora/releases/tag/0.0.4) in [MrGKanev/Editora](https://github.com/MrGKanev/Editora)
+2. 🚀 Published release [0.0.3](https://github.com/MrGKanev/Editora/releases/tag/0.0.3) in [MrGKanev/Editora](https://github.com/MrGKanev/Editora)
+3. 🎉 Merged PR [#3](https://github.com/MrGKanev/Editora/pull/3) in [MrGKanev/Editora](https://github.com/MrGKanev/Editora)
+4. 💪 Opened PR [#3](https://github.com/MrGKanev/Editora/pull/3) in [MrGKanev/Editora](https://github.com/MrGKanev/Editora)
+5. 🚀 Published release [0.0.2](https://github.com/MrGKanev/Editora/releases/tag/0.0.2) in [MrGKanev/Editora](https://github.com/MrGKanev/Editora)
 <!--END_SECTION:activity-->
