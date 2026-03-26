@@ -18,9 +18,9 @@
 ##### 🧑‍💻 Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.0.4](https://github.com/MrGKanev/Editora/releases/tag/0.0.4) in [MrGKanev/Editora](https://github.com/MrGKanev/Editora)
-2. 🚀 Published release [0.0.3](https://github.com/MrGKanev/Editora/releases/tag/0.0.3) in [MrGKanev/Editora](https://github.com/MrGKanev/Editora)
-3. 🎉 Merged PR [#3](https://github.com/MrGKanev/Editora/pull/3) in [MrGKanev/Editora](https://github.com/MrGKanev/Editora)
-4. 💪 Opened PR [#3](https://github.com/MrGKanev/Editora/pull/3) in [MrGKanev/Editora](https://github.com/MrGKanev/Editora)
-5. 🚀 Published release [0.0.2](https://github.com/MrGKanev/Editora/releases/tag/0.0.2) in [MrGKanev/Editora](https://github.com/MrGKanev/Editora)
+1. 🎉 Merged PR [#5](https://github.com/MrGKanev/e-commerce-tester/pull/5) in [MrGKanev/e-commerce-tester](https://github.com/MrGKanev/e-commerce-tester)
+2. 💪 Opened PR [#5](https://github.com/MrGKanev/e-commerce-tester/pull/5) in [MrGKanev/e-commerce-tester](https://github.com/MrGKanev/e-commerce-tester)
+3. 🎉 Merged PR [#4](https://github.com/MrGKanev/e-commerce-tester/pull/4) in [MrGKanev/e-commerce-tester](https://github.com/MrGKanev/e-commerce-tester)
+4. 💪 Opened PR [#4](https://github.com/MrGKanev/e-commerce-tester/pull/4) in [MrGKanev/e-commerce-tester](https://github.com/MrGKanev/e-commerce-tester)
+5. 🎉 Merged PR [#3](https://github.com/MrGKanev/e-commerce-tester/pull/3) in [MrGKanev/e-commerce-tester](https://github.com/MrGKanev/e-commerce-tester)
 <!--END_SECTION:activity-->
