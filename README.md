@@ -1,21 +1,30 @@
-### 👋 Hi, I'm Gabo - [Website](https://gkanev.com) | [Twitter/X](https://twitter.com/mrgkanev) | [LinkedIn](https://www.linkedin.com/in/mrgkanev)
+# Hi, I'm Gabo — builder, researcher & open source enthusiast
 
-#### 🔭 I’m currently working on
-- [AntiProxies](https://antiproxies.com/) - *Beta in progress* 🚀 -  An easier way to protect your website and e-commerce solution
-- [OpenWPClub](https://openwpclub.com/) - *Alpha in progress* 🚀 - 
-- [IEEE Student Branch of Uni Ruse](https://github.com/IEEE-Student-Branch-of-Uni-Ruse) - breaking science and IT at the same time ... on purpose ...
-- [Finishing my Ph.D. degree 🤔](https://scholar.google.com/citations?user=En7GPEsAAAAJ&hl=en) -> will open source everything I write here as well (if possible)
+[🌐 Website](https://gkanev.com) · [🐦 X/Twitter](https://twitter.com/mrgkanev) · [💼 LinkedIn](https://www.linkedin.com/in/mrgkanev) · [📚 Google Scholar](https://scholar.google.com/citations?user=En7GPEsAAAAJ&hl=en)
 
-### 📖 Blog posts
+---
+
+### 🔭 Current projects
+
+- [AntiProxies](https://antiproxies.com/) `Beta` — Website & e-commerce protection
+- [OpenWPClub](https://openwpclub.com/) `Active` — Open-source WordPress tools & resources
+- [IEEE Student Branch · Uni Ruse](https://github.com/IEEE-Student-Branch-of-Uni-Ruse) `Active` — Science & IT education
+
+---
+
+### 📖 Latest blog posts
+
 <!-- BLOG-POST-LIST:START -->
 - [Why Rise of Cultures Finally Lost Me](https://gkanev.com/posts/rise-of-cultures-rant/)
-- [The AI Didn&#39;t Read Your Document. It Pretended To.](https://gkanev.com/posts/the-ai-didnt-read-your-document-it-pretended-to/)
+- [The AI Didn't Read Your Document. It Pretended To.](https://gkanev.com/posts/the-ai-didnt-read-your-document-it-pretended-to/)
 - [What if We Just… Made Billionaires Fix Their Companies to Avoid Taxes?](https://gkanev.com/posts/what-if-we-just-made-billionaires-fix-their-companies-to-avoid-taxes/)
 - [AI-Powered Cyberattack: When Bots Start Hacking Other Bots](https://gkanev.com/posts/ai-powered-cyberattack-when-bots-start-hacking-other-bots/)
 - [SOC 2: Lessons Learned from My Duck-ups](https://gkanev.com/posts/soc-2-lessons-learned-from-my-duck-ups/)
 <!-- BLOG-POST-LIST:END -->
 
-##### 🧑‍💻 Recent Github Activity
+---
+
+### ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#609](https://github.com/steipete/CodexBar/issues/609) in [steipete/CodexBar](https://github.com/steipete/CodexBar)
