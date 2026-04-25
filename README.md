@@ -16,7 +16,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Why Rise of Cultures Finally Lost Me](https://gkanev.com/posts/rise-of-cultures-rant/)
-- [The AI Didn't Read Your Document. It Pretended To.](https://gkanev.com/posts/the-ai-didnt-read-your-document-it-pretended-to/)
+- [The AI Didn&#39;t Read Your Document. It Pretended To.](https://gkanev.com/posts/the-ai-didnt-read-your-document-it-pretended-to/)
 - [What if We Just… Made Billionaires Fix Their Companies to Avoid Taxes?](https://gkanev.com/posts/what-if-we-just-made-billionaires-fix-their-companies-to-avoid-taxes/)
 - [AI-Powered Cyberattack: When Bots Start Hacking Other Bots](https://gkanev.com/posts/ai-powered-cyberattack-when-bots-start-hacking-other-bots/)
 - [SOC 2: Lessons Learned from My Duck-ups](https://gkanev.com/posts/soc-2-lessons-learned-from-my-duck-ups/)
