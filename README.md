@@ -27,9 +27,9 @@
 ### ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#609](https://github.com/steipete/CodexBar/issues/609) in [steipete/CodexBar](https://github.com/steipete/CodexBar)
-2. 🎉 Merged PR [#5](https://github.com/MrGKanev/e-commerce-tester/pull/5) in [MrGKanev/e-commerce-tester](https://github.com/MrGKanev/e-commerce-tester)
-3. 💪 Opened PR [#5](https://github.com/MrGKanev/e-commerce-tester/pull/5) in [MrGKanev/e-commerce-tester](https://github.com/MrGKanev/e-commerce-tester)
+1. 🚀 Published release [1.1.1](https://github.com/Open-WP-Club/product-health-check-woocommerce/releases/tag/1.1.1) in [Open-WP-Club/product-health-check-woocommerce](https://github.com/Open-WP-Club/product-health-check-woocommerce)
+2. 🚀 Published release [1.1.0](https://github.com/Open-WP-Club/product-health-check-woocommerce/releases/tag/1.1.0) in [Open-WP-Club/product-health-check-woocommerce](https://github.com/Open-WP-Club/product-health-check-woocommerce)
+3. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/product-health-check-woocommerce/releases/tag/1.0.0) in [Open-WP-Club/product-health-check-woocommerce](https://github.com/Open-WP-Club/product-health-check-woocommerce)
 4. 🎉 Merged PR [#4](https://github.com/MrGKanev/e-commerce-tester/pull/4) in [MrGKanev/e-commerce-tester](https://github.com/MrGKanev/e-commerce-tester)
 5. 💪 Opened PR [#4](https://github.com/MrGKanev/e-commerce-tester/pull/4) in [MrGKanev/e-commerce-tester](https://github.com/MrGKanev/e-commerce-tester)
 <!--END_SECTION:activity-->
