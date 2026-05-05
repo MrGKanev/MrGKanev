@@ -8,7 +8,7 @@
 
 - [AntiProxies](https://antiproxies.com/) `Beta` — Website & e-commerce protection
 - [OpenWPClub](https://openwpclub.com/) `Active` — Open-source WordPress tools & resources
-- [IEEE Student Branch · Uni Ruse](https://github.com/IEEE-Student-Branch-of-Uni-Ruse) `Active` — Science & IT education
+- [IEEE Student Branch · Uni Ruse](https://sb-ieee.uni-ruse.bg/) `Active` — Science & IT education
 
 ---
 
