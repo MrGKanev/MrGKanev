@@ -27,9 +27,9 @@
 ### ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.1.1](https://github.com/Open-WP-Club/product-health-check-woocommerce/releases/tag/1.1.1) in [Open-WP-Club/product-health-check-woocommerce](https://github.com/Open-WP-Club/product-health-check-woocommerce)
-2. 🚀 Published release [1.1.0](https://github.com/Open-WP-Club/product-health-check-woocommerce/releases/tag/1.1.0) in [Open-WP-Club/product-health-check-woocommerce](https://github.com/Open-WP-Club/product-health-check-woocommerce)
-3. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/product-health-check-woocommerce/releases/tag/1.0.0) in [Open-WP-Club/product-health-check-woocommerce](https://github.com/Open-WP-Club/product-health-check-woocommerce)
-4. 🎉 Merged PR [#4](https://github.com/MrGKanev/e-commerce-tester/pull/4) in [MrGKanev/e-commerce-tester](https://github.com/MrGKanev/e-commerce-tester)
+1. 🚀 Published release [0.2.6](https://github.com/MrGKanev/hetzner-opencontrol/releases/tag/0.2.6) in [MrGKanev/hetzner-opencontrol](https://github.com/MrGKanev/hetzner-opencontrol)
+2. 🚀 Published release [1.1.1](https://github.com/Open-WP-Club/product-health-check-woocommerce/releases/tag/1.1.1) in [Open-WP-Club/product-health-check-woocommerce](https://github.com/Open-WP-Club/product-health-check-woocommerce)
+3. 🚀 Published release [1.1.0](https://github.com/Open-WP-Club/product-health-check-woocommerce/releases/tag/1.1.0) in [Open-WP-Club/product-health-check-woocommerce](https://github.com/Open-WP-Club/product-health-check-woocommerce)
+4. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/product-health-check-woocommerce/releases/tag/1.0.0) in [Open-WP-Club/product-health-check-woocommerce](https://github.com/Open-WP-Club/product-health-check-woocommerce)
 5. 💪 Opened PR [#4](https://github.com/MrGKanev/e-commerce-tester/pull/4) in [MrGKanev/e-commerce-tester](https://github.com/MrGKanev/e-commerce-tester)
 <!--END_SECTION:activity-->
