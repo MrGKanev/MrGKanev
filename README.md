@@ -1,14 +1,12 @@
-# Hi, I'm Gabo — builder, researcher & open source enthusiast
+# Hi, I'm Gabo - builder, researcher & open source enthusiast
 
-[🌐 Website](https://gkanev.com) · [🐦 X/Twitter](https://twitter.com/mrgkanev) · [💼 LinkedIn](https://www.linkedin.com/in/mrgkanev) · [📚 Google Scholar](https://scholar.google.com/citations?user=En7GPEsAAAAJ&hl=en)
-
----
+[Website](https://gkanev.com) - [X/Twitter](https://twitter.com/mrgkanev) - [LinkedIn](https://www.linkedin.com/in/mrgkanev) - [Google Scholar](https://scholar.google.com/citations?user=En7GPEsAAAAJ&hl=en)
 
 ### 🔭 Current projects
 
-- [AntiProxies](https://antiproxies.com/) `Beta` — Website & e-commerce protection
-- [OpenWPClub](https://openwpclub.com/) `Active` — Open-source WordPress tools & resources
-- [IEEE Student Branch · Uni Ruse](https://sb-ieee.uni-ruse.bg/) `Active` — Science & IT education
+- [AntiProxies](https://antiproxies.com/) - `Beta` — Website & e-commerce protection
+- [OpenWPClub](https://openwpclub.com/) -  `Active` — Open-source WordPress organization providing free tools, apps and tutorials.
+- [IEEE Student Branch · Uni Ruse](https://sb-ieee.uni-ruse.bg/) - `Active` - The student branch of a not-for-profit organization, IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.
 
 ### 📖 Latest blog posts
 
