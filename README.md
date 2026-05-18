@@ -10,8 +10,6 @@
 - [OpenWPClub](https://openwpclub.com/) `Active` — Open-source WordPress tools & resources
 - [IEEE Student Branch · Uni Ruse](https://sb-ieee.uni-ruse.bg/) `Active` — Science & IT education
 
----
-
 ### 📖 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -21,8 +19,6 @@
 - [AI-Powered Cyberattack: When Bots Start Hacking Other Bots](https://gkanev.com/posts/ai-powered-cyberattack-when-bots-start-hacking-other-bots/)
 - [SOC 2: Lessons Learned from My Duck-ups](https://gkanev.com/posts/soc-2-lessons-learned-from-my-duck-ups/)
 <!-- BLOG-POST-LIST:END -->
-
----
 
 ### ⚡ Recent GitHub activity
 
