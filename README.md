@@ -21,9 +21,9 @@
 ### ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#49](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator/pull/49) in [MrGKanev/MySQL-MariaDB-Settings-Calculator](https://github.com/MrGKanev/MySQL-MariaDB-Settings-Calculator)
-2. 🚀 Published release [0.2.6](https://github.com/MrGKanev/hetzner-opencontrol/releases/tag/0.2.6) in [MrGKanev/hetzner-opencontrol](https://github.com/MrGKanev/hetzner-opencontrol)
-3. 🚀 Published release [1.1.1](https://github.com/Open-WP-Club/product-health-check-woocommerce/releases/tag/1.1.1) in [Open-WP-Club/product-health-check-woocommerce](https://github.com/Open-WP-Club/product-health-check-woocommerce)
-4. 🚀 Published release [1.1.0](https://github.com/Open-WP-Club/product-health-check-woocommerce/releases/tag/1.1.0) in [Open-WP-Club/product-health-check-woocommerce](https://github.com/Open-WP-Club/product-health-check-woocommerce)
-5. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/product-health-check-woocommerce/releases/tag/1.0.0) in [Open-WP-Club/product-health-check-woocommerce](https://github.com/Open-WP-Club/product-health-check-woocommerce)
+1. 🚀 Published release [1.2.3](https://github.com/Open-WP-Club/taxonomy-showcase-WooCommerce/releases/tag/1.2.3) in [Open-WP-Club/taxonomy-showcase-WooCommerce](https://github.com/Open-WP-Club/taxonomy-showcase-WooCommerce)
+2. 🚀 Published release [1.2.2](https://github.com/Open-WP-Club/taxonomy-showcase-WooCommerce/releases/tag/1.2.2) in [Open-WP-Club/taxonomy-showcase-WooCommerce](https://github.com/Open-WP-Club/taxonomy-showcase-WooCommerce)
+3. 🚀 Published release [1.2.1](https://github.com/Open-WP-Club/taxonomy-showcase-WooCommerce/releases/tag/1.2.1) in [Open-WP-Club/taxonomy-showcase-WooCommerce](https://github.com/Open-WP-Club/taxonomy-showcase-WooCommerce)
+4. 🚀 Published release [1.2.0](https://github.com/Open-WP-Club/taxonomy-showcase-WooCommerce/releases/tag/1.2.0) in [Open-WP-Club/taxonomy-showcase-WooCommerce](https://github.com/Open-WP-Club/taxonomy-showcase-WooCommerce)
+5. 🚀 Published release [1.4.0](https://github.com/MrGKanev/Shopify-ops/releases/tag/1.4.0) in [MrGKanev/Shopify-ops](https://github.com/MrGKanev/Shopify-ops)
 <!--END_SECTION:activity-->
