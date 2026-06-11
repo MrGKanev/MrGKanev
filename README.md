@@ -11,11 +11,11 @@
 ### 📖 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I Built Shopify Ops](https://gkanev.com/posts/why-i-built-shopify-ops/)
 - [Why Rise of Cultures Finally Lost Me](https://gkanev.com/posts/rise-of-cultures-rant/)
 - [What if We Just… Made Billionaires Fix Their Companies to Avoid Taxes?](https://gkanev.com/posts/what-if-we-just-made-billionaires-fix-their-companies-to-avoid-taxes/)
 - [AI-Powered Cyberattack: When Bots Start Hacking Other Bots](https://gkanev.com/posts/ai-powered-cyberattack-when-bots-start-hacking-other-bots/)
 - [SOC 2: Lessons Learned from My Duck-ups](https://gkanev.com/posts/soc-2-lessons-learned-from-my-duck-ups/)
-- [Debunking the Myths: What SEO Professionals Need to Know About AI and LLMs](https://gkanev.com/posts/debunking-the-myths-what-seo-professionals-need-to-know-about-ai-and-llms/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Recent GitHub activity
