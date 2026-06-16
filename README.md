@@ -21,9 +21,9 @@
 ### ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.5.0](https://github.com/MrGKanev/Shopify-ops/releases/tag/1.5.0) in [MrGKanev/Shopify-ops](https://github.com/MrGKanev/Shopify-ops)
-2. 💪 Opened PR [#18](https://github.com/flywp/config/pull/18) in [flywp/config](https://github.com/flywp/config)
-3. 🚀 Published release [1.2.3](https://github.com/Open-WP-Club/taxonomy-showcase-WooCommerce/releases/tag/1.2.3) in [Open-WP-Club/taxonomy-showcase-WooCommerce](https://github.com/Open-WP-Club/taxonomy-showcase-WooCommerce)
-4. 🚀 Published release [1.2.2](https://github.com/Open-WP-Club/taxonomy-showcase-WooCommerce/releases/tag/1.2.2) in [Open-WP-Club/taxonomy-showcase-WooCommerce](https://github.com/Open-WP-Club/taxonomy-showcase-WooCommerce)
-5. 🚀 Published release [1.2.1](https://github.com/Open-WP-Club/taxonomy-showcase-WooCommerce/releases/tag/1.2.1) in [Open-WP-Club/taxonomy-showcase-WooCommerce](https://github.com/Open-WP-Club/taxonomy-showcase-WooCommerce)
+1. 🚀 Published release [1.5.0](https://github.com/Open-WP-Club/Priority-Processing-WooCommerce/releases/tag/1.5.0) in [Open-WP-Club/Priority-Processing-WooCommerce](https://github.com/Open-WP-Club/Priority-Processing-WooCommerce)
+2. 🚀 Published release [1.5.0](https://github.com/MrGKanev/Shopify-ops/releases/tag/1.5.0) in [MrGKanev/Shopify-ops](https://github.com/MrGKanev/Shopify-ops)
+3. 💪 Opened PR [#18](https://github.com/flywp/config/pull/18) in [flywp/config](https://github.com/flywp/config)
+4. 🚀 Published release [1.2.3](https://github.com/Open-WP-Club/taxonomy-showcase-WooCommerce/releases/tag/1.2.3) in [Open-WP-Club/taxonomy-showcase-WooCommerce](https://github.com/Open-WP-Club/taxonomy-showcase-WooCommerce)
+5. 🚀 Published release [1.2.2](https://github.com/Open-WP-Club/taxonomy-showcase-WooCommerce/releases/tag/1.2.2) in [Open-WP-Club/taxonomy-showcase-WooCommerce](https://github.com/Open-WP-Club/taxonomy-showcase-WooCommerce)
 <!--END_SECTION:activity-->
