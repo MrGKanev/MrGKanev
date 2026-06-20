@@ -21,9 +21,9 @@
 ### ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.6.0](https://github.com/Open-WP-Club/Priority-Processing-WooCommerce/releases/tag/1.6.0) in [Open-WP-Club/Priority-Processing-WooCommerce](https://github.com/Open-WP-Club/Priority-Processing-WooCommerce)
-2. 🗣 Commented on [#1](https://github.com/midt-bg/sigma/pull/1#issuecomment-4720812781) in [midt-bg/sigma](https://github.com/midt-bg/sigma)
-3. 🗣 Commented on [#1](https://github.com/midt-bg/sigma/pull/1#issuecomment-4720118889) in [midt-bg/sigma](https://github.com/midt-bg/sigma)
-4. 💪 Opened PR [#1](https://github.com/midt-bg/sigma/pull/1) in [midt-bg/sigma](https://github.com/midt-bg/sigma)
-5. 🚀 Published release [1.5.0](https://github.com/Open-WP-Club/Priority-Processing-WooCommerce/releases/tag/1.5.0) in [Open-WP-Club/Priority-Processing-WooCommerce](https://github.com/Open-WP-Club/Priority-Processing-WooCommerce)
+1. 🗣 Commented on [#1](https://github.com/midt-bg/sigma/pull/1#issuecomment-4752587179) in [midt-bg/sigma](https://github.com/midt-bg/sigma)
+2. 🚀 Published release [1.6.0](https://github.com/Open-WP-Club/Priority-Processing-WooCommerce/releases/tag/1.6.0) in [Open-WP-Club/Priority-Processing-WooCommerce](https://github.com/Open-WP-Club/Priority-Processing-WooCommerce)
+3. 🗣 Commented on [#1](https://github.com/midt-bg/sigma/pull/1#issuecomment-4720812781) in [midt-bg/sigma](https://github.com/midt-bg/sigma)
+4. 🗣 Commented on [#1](https://github.com/midt-bg/sigma/pull/1#issuecomment-4720118889) in [midt-bg/sigma](https://github.com/midt-bg/sigma)
+5. 💪 Opened PR [#1](https://github.com/midt-bg/sigma/pull/1) in [midt-bg/sigma](https://github.com/midt-bg/sigma)
 <!--END_SECTION:activity-->
