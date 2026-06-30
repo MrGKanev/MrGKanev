@@ -21,9 +21,9 @@
 ### ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/midt-bg/sigma/pull/1) in [midt-bg/sigma](https://github.com/midt-bg/sigma)
-2. 🗣 Commented on [#1](https://github.com/midt-bg/sigma/pull/1#issuecomment-4770551381) in [midt-bg/sigma](https://github.com/midt-bg/sigma)
-3. 🗣 Commented on [#1](https://github.com/midt-bg/sigma/pull/1#issuecomment-4752587179) in [midt-bg/sigma](https://github.com/midt-bg/sigma)
-4. 🚀 Published release [1.6.0](https://github.com/Open-WP-Club/Priority-Processing-WooCommerce/releases/tag/1.6.0) in [Open-WP-Club/Priority-Processing-WooCommerce](https://github.com/Open-WP-Club/Priority-Processing-WooCommerce)
-5. 🗣 Commented on [#1](https://github.com/midt-bg/sigma/pull/1#issuecomment-4720812781) in [midt-bg/sigma](https://github.com/midt-bg/sigma)
+1. 🚀 Published release [1.0](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup/releases/tag/1.0) in [MrGKanev/TensorFlow-GPU-Docker-Setup](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup)
+2. 🚀 Published release [0.2.6](https://github.com/MrGKanev/astro-linkedin-sync/releases/tag/0.2.6) in [MrGKanev/astro-linkedin-sync](https://github.com/MrGKanev/astro-linkedin-sync)
+3. 🚀 Published release [1.8.0](https://github.com/MrGKanev/Shopify-ops/releases/tag/1.8.0) in [MrGKanev/Shopify-ops](https://github.com/MrGKanev/Shopify-ops)
+4. 🎉 Merged PR [#1](https://github.com/midt-bg/sigma/pull/1) in [midt-bg/sigma](https://github.com/midt-bg/sigma)
+5. 🗣 Commented on [#1](https://github.com/midt-bg/sigma/pull/1#issuecomment-4770551381) in [midt-bg/sigma](https://github.com/midt-bg/sigma)
 <!--END_SECTION:activity-->
