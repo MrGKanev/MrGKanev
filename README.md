@@ -21,9 +21,9 @@
 ### ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.1.0](https://github.com/Open-WP-Club/User-Self-Delete/releases/tag/2.1.0) in [Open-WP-Club/User-Self-Delete](https://github.com/Open-WP-Club/User-Self-Delete)
-2. 🚀 Published release [1.7.0](https://github.com/Open-WP-Club/Priority-Processing-WooCommerce/releases/tag/1.7.0) in [Open-WP-Club/Priority-Processing-WooCommerce](https://github.com/Open-WP-Club/Priority-Processing-WooCommerce)
-3. 🚀 Published release [1.3.0](https://github.com/Open-WP-Club/order-printing-woocommerce/releases/tag/1.3.0) in [Open-WP-Club/order-printing-woocommerce](https://github.com/Open-WP-Club/order-printing-woocommerce)
-4. 🚀 Published release [1.0](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup/releases/tag/1.0) in [MrGKanev/TensorFlow-GPU-Docker-Setup](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup)
-5. 🚀 Published release [0.2.6](https://github.com/MrGKanev/astro-linkedin-sync/releases/tag/0.2.6) in [MrGKanev/astro-linkedin-sync](https://github.com/MrGKanev/astro-linkedin-sync)
+1. 💪 Opened PR [#5](https://github.com/MrGKanev/WordPress-2-nd-brain/pull/5) in [MrGKanev/WordPress-2-nd-brain](https://github.com/MrGKanev/WordPress-2-nd-brain)
+2. 🚀 Published release [2.1.0](https://github.com/Open-WP-Club/User-Self-Delete/releases/tag/2.1.0) in [Open-WP-Club/User-Self-Delete](https://github.com/Open-WP-Club/User-Self-Delete)
+3. 🚀 Published release [1.7.0](https://github.com/Open-WP-Club/Priority-Processing-WooCommerce/releases/tag/1.7.0) in [Open-WP-Club/Priority-Processing-WooCommerce](https://github.com/Open-WP-Club/Priority-Processing-WooCommerce)
+4. 🚀 Published release [1.3.0](https://github.com/Open-WP-Club/order-printing-woocommerce/releases/tag/1.3.0) in [Open-WP-Club/order-printing-woocommerce](https://github.com/Open-WP-Club/order-printing-woocommerce)
+5. 🚀 Published release [1.0](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup/releases/tag/1.0) in [MrGKanev/TensorFlow-GPU-Docker-Setup](https://github.com/MrGKanev/TensorFlow-GPU-Docker-Setup)
 <!--END_SECTION:activity-->
