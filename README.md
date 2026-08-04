@@ -21,9 +21,9 @@
 ### ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.9.0](https://github.com/MrGKanev/Shopify-ops/releases/tag/1.9.0) in [MrGKanev/Shopify-ops](https://github.com/MrGKanev/Shopify-ops)
-2. 💪 Opened PR [#5](https://github.com/MrGKanev/WordPress-2-nd-brain/pull/5) in [MrGKanev/WordPress-2-nd-brain](https://github.com/MrGKanev/WordPress-2-nd-brain)
-3. 🚀 Published release [2.1.0](https://github.com/Open-WP-Club/User-Self-Delete/releases/tag/2.1.0) in [Open-WP-Club/User-Self-Delete](https://github.com/Open-WP-Club/User-Self-Delete)
-4. 🚀 Published release [1.7.0](https://github.com/Open-WP-Club/Priority-Processing-WooCommerce/releases/tag/1.7.0) in [Open-WP-Club/Priority-Processing-WooCommerce](https://github.com/Open-WP-Club/Priority-Processing-WooCommerce)
-5. 🚀 Published release [1.3.0](https://github.com/Open-WP-Club/order-printing-woocommerce/releases/tag/1.3.0) in [Open-WP-Club/order-printing-woocommerce](https://github.com/Open-WP-Club/order-printing-woocommerce)
+1. 🚀 Published release [Release 1.0.3](https://github.com/Open-WP-Club/StoreOS/releases/tag/1.0.3) in [Open-WP-Club/StoreOS](https://github.com/Open-WP-Club/StoreOS)
+2. 🚀 Published release [Release 1.0.1](https://github.com/Open-WP-Club/StoreOS/releases/tag/1.0.1) in [Open-WP-Club/StoreOS](https://github.com/Open-WP-Club/StoreOS)
+3. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/StoreOS/releases/tag/1.0.0) in [Open-WP-Club/StoreOS](https://github.com/Open-WP-Club/StoreOS)
+4. 🚀 Published release [1.5.2](https://github.com/Open-WP-Club/google-scholar-wp/releases/tag/1.5.2) in [Open-WP-Club/google-scholar-wp](https://github.com/Open-WP-Club/google-scholar-wp)
+5. 🚀 Published release [1.5.0](https://github.com/Open-WP-Club/google-scholar-wp/releases/tag/1.5.0) in [Open-WP-Club/google-scholar-wp](https://github.com/Open-WP-Club/google-scholar-wp)
 <!--END_SECTION:activity-->
