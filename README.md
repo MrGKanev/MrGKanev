@@ -21,9 +21,9 @@
 ### ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Open-WP-Club/multi-store-sync-for-woocommerce/pull/1) in [Open-WP-Club/multi-store-sync-for-woocommerce](https://github.com/Open-WP-Club/multi-store-sync-for-woocommerce)
-2. ℹ️ Assigned PR [#1](https://github.com/Open-WP-Club/multi-store-sync-for-woocommerce/pull/1) in [Open-WP-Club/multi-store-sync-for-woocommerce](https://github.com/Open-WP-Club/multi-store-sync-for-woocommerce)
-3. 💪 Opened PR [#1](https://github.com/Open-WP-Club/multi-store-sync-for-woocommerce/pull/1) in [Open-WP-Club/multi-store-sync-for-woocommerce](https://github.com/Open-WP-Club/multi-store-sync-for-woocommerce)
-4. 🚀 Published release [1.6.0](https://github.com/Open-WP-Club/google-scholar-wp/releases/tag/1.6.0) in [Open-WP-Club/google-scholar-wp](https://github.com/Open-WP-Club/google-scholar-wp)
-5. 🚀 Published release [1.2.1](https://github.com/Open-WP-Club/payment-method-highlighter-for-wooCommerce/releases/tag/1.2.1) in [Open-WP-Club/payment-method-highlighter-for-wooCommerce](https://github.com/Open-WP-Club/payment-method-highlighter-for-wooCommerce)
+1. 🎉 Merged PR [#1](https://github.com/local-control-panel/images/pull/1) in [local-control-panel/images](https://github.com/local-control-panel/images)
+2. 💪 Opened PR [#1](https://github.com/local-control-panel/images/pull/1) in [local-control-panel/images](https://github.com/local-control-panel/images)
+3. 🎉 Merged PR [#1](https://github.com/Open-WP-Club/multi-store-sync-for-woocommerce/pull/1) in [Open-WP-Club/multi-store-sync-for-woocommerce](https://github.com/Open-WP-Club/multi-store-sync-for-woocommerce)
+4. ℹ️ Assigned PR [#1](https://github.com/Open-WP-Club/multi-store-sync-for-woocommerce/pull/1) in [Open-WP-Club/multi-store-sync-for-woocommerce](https://github.com/Open-WP-Club/multi-store-sync-for-woocommerce)
+5. 💪 Opened PR [#1](https://github.com/Open-WP-Club/multi-store-sync-for-woocommerce/pull/1) in [Open-WP-Club/multi-store-sync-for-woocommerce](https://github.com/Open-WP-Club/multi-store-sync-for-woocommerce)
 <!--END_SECTION:activity-->
