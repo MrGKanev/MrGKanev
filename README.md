@@ -21,9 +21,9 @@
 ### ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/local-control-panel/images/pull/1) in [local-control-panel/images](https://github.com/local-control-panel/images)
-2. 💪 Opened PR [#1](https://github.com/local-control-panel/images/pull/1) in [local-control-panel/images](https://github.com/local-control-panel/images)
-3. 🎉 Merged PR [#1](https://github.com/Open-WP-Club/multi-store-sync-for-woocommerce/pull/1) in [Open-WP-Club/multi-store-sync-for-woocommerce](https://github.com/Open-WP-Club/multi-store-sync-for-woocommerce)
-4. ℹ️ Assigned PR [#1](https://github.com/Open-WP-Club/multi-store-sync-for-woocommerce/pull/1) in [Open-WP-Club/multi-store-sync-for-woocommerce](https://github.com/Open-WP-Club/multi-store-sync-for-woocommerce)
-5. 💪 Opened PR [#1](https://github.com/Open-WP-Club/multi-store-sync-for-woocommerce/pull/1) in [Open-WP-Club/multi-store-sync-for-woocommerce](https://github.com/Open-WP-Club/multi-store-sync-for-woocommerce)
+1. 💪 Opened PR [#3](https://github.com/local-control-panel/images/pull/3) in [local-control-panel/images](https://github.com/local-control-panel/images)
+2. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/local-pickup-woocommerce/releases/tag/1.0.0) in [Open-WP-Club/local-pickup-woocommerce](https://github.com/Open-WP-Club/local-pickup-woocommerce)
+3. 🎉 Merged PR [#2](https://github.com/MrGKanev/FormFlow/pull/2) in [MrGKanev/FormFlow](https://github.com/MrGKanev/FormFlow)
+4. 💪 Opened PR [#2](https://github.com/MrGKanev/FormFlow/pull/2) in [MrGKanev/FormFlow](https://github.com/MrGKanev/FormFlow)
+5. 🎉 Merged PR [#1](https://github.com/MrGKanev/FormFlow/pull/1) in [MrGKanev/FormFlow](https://github.com/MrGKanev/FormFlow)
 <!--END_SECTION:activity-->
