@@ -21,9 +21,9 @@
 ### ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.4.1](https://github.com/Open-WP-Club/plugin-hub/releases/tag/1.4.1) in [Open-WP-Club/plugin-hub](https://github.com/Open-WP-Club/plugin-hub)
-2. 🚀 Published release [1.4.0](https://github.com/Open-WP-Club/plugin-hub/releases/tag/1.4.0) in [Open-WP-Club/plugin-hub](https://github.com/Open-WP-Club/plugin-hub)
-3. 💪 Opened PR [#3](https://github.com/local-control-panel/images/pull/3) in [local-control-panel/images](https://github.com/local-control-panel/images)
-4. 🚀 Published release [1.0.0](https://github.com/Open-WP-Club/local-pickup-woocommerce/releases/tag/1.0.0) in [Open-WP-Club/local-pickup-woocommerce](https://github.com/Open-WP-Club/local-pickup-woocommerce)
-5. 🎉 Merged PR [#2](https://github.com/MrGKanev/FormFlow/pull/2) in [MrGKanev/FormFlow](https://github.com/MrGKanev/FormFlow)
+1. ❌ Closed PR [#3](https://github.com/local-control-panel/images/pull/3) in [local-control-panel/images](https://github.com/local-control-panel/images)
+2. 🗣 Commented on [#3](https://github.com/local-control-panel/images/pull/3#issuecomment-5483971222) in [local-control-panel/images](https://github.com/local-control-panel/images)
+3. ❌ Closed PR [#2](https://github.com/local-control-panel/images/pull/2) in [local-control-panel/images](https://github.com/local-control-panel/images)
+4. 🎉 Merged PR [#4](https://github.com/local-control-panel/images/pull/4) in [local-control-panel/images](https://github.com/local-control-panel/images)
+5. 💪 Opened PR [#4](https://github.com/local-control-panel/images/pull/4) in [local-control-panel/images](https://github.com/local-control-panel/images)
 <!--END_SECTION:activity-->
