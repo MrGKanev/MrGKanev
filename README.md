@@ -21,9 +21,9 @@
 ### ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/local-control-panel/images/pull/3) in [local-control-panel/images](https://github.com/local-control-panel/images)
-2. 🗣 Commented on [#3](https://github.com/local-control-panel/images/pull/3#issuecomment-5483971222) in [local-control-panel/images](https://github.com/local-control-panel/images)
-3. ❌ Closed PR [#2](https://github.com/local-control-panel/images/pull/2) in [local-control-panel/images](https://github.com/local-control-panel/images)
-4. 🎉 Merged PR [#4](https://github.com/local-control-panel/images/pull/4) in [local-control-panel/images](https://github.com/local-control-panel/images)
-5. 💪 Opened PR [#4](https://github.com/local-control-panel/images/pull/4) in [local-control-panel/images](https://github.com/local-control-panel/images)
+1. 🚀 Published release [1.5.7](https://github.com/Open-WP-Club/spam-user-detective-wp/releases/tag/1.5.7) in [Open-WP-Club/spam-user-detective-wp](https://github.com/Open-WP-Club/spam-user-detective-wp)
+2. 🚀 Published release [Client Fluent Submissions 1.1.5](https://github.com/Open-WP-Club/better-viewer-fluent-forms/releases/tag/1.1.5) in [Open-WP-Club/better-viewer-fluent-forms](https://github.com/Open-WP-Club/better-viewer-fluent-forms)
+3. 🚀 Published release [1.1.1](https://github.com/Open-WP-Club/better-viewer-fluent-forms/releases/tag/1.1.1) in [Open-WP-Club/better-viewer-fluent-forms](https://github.com/Open-WP-Club/better-viewer-fluent-forms)
+4. 🚀 Published release [1.1.0](https://github.com/Open-WP-Club/better-viewer-fluent-forms/releases/tag/1.1.0) in [Open-WP-Club/better-viewer-fluent-forms](https://github.com/Open-WP-Club/better-viewer-fluent-forms)
+5. 🚀 Published release [1.0.1](https://github.com/Open-WP-Club/better-viewer-fluent-forms/releases/tag/1.0.1) in [Open-WP-Club/better-viewer-fluent-forms](https://github.com/Open-WP-Club/better-viewer-fluent-forms)
 <!--END_SECTION:activity-->
