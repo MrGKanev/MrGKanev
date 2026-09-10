@@ -21,8 +21,8 @@
 ### ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#1](https://github.com/MrGKanev/Shopify-ops/pull/1) in [MrGKanev/Shopify-ops](https://github.com/MrGKanev/Shopify-ops)
-2. 🚀 Published release [2.2.0](https://github.com/MrGKanev/Shopify-ops/releases/tag/2.2.0) in [MrGKanev/Shopify-ops](https://github.com/MrGKanev/Shopify-ops)
+1. 🚀 Published release [1.1.7](https://github.com/Open-WP-Club/better-viewer-fluent-forms/releases/tag/1.1.7) in [Open-WP-Club/better-viewer-fluent-forms](https://github.com/Open-WP-Club/better-viewer-fluent-forms)
+2. 🚀 Published release [v1.0.0](https://github.com/mgknetcom/scopus-laravel/releases/tag/v1.0.0) in [mgknetcom/scopus-laravel](https://github.com/mgknetcom/scopus-laravel)
 3. 🚀 Published release [1.1.6](https://github.com/Open-WP-Club/better-viewer-fluent-forms/releases/tag/1.1.6) in [Open-WP-Club/better-viewer-fluent-forms](https://github.com/Open-WP-Club/better-viewer-fluent-forms)
 4. 💪 Opened PR [#1](https://github.com/MrGKanev/Shopify-ops/pull/1) in [MrGKanev/Shopify-ops](https://github.com/MrGKanev/Shopify-ops)
 5. 🚀 Published release [1.5.7](https://github.com/Open-WP-Club/spam-user-detective-wp/releases/tag/1.5.7) in [Open-WP-Club/spam-user-detective-wp](https://github.com/Open-WP-Club/spam-user-detective-wp)
