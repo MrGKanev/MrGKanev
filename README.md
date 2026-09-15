@@ -21,7 +21,7 @@
 ### ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.4.3](https://github.com/Open-WP-Club/plugin-hub/releases/tag/1.4.3) in [Open-WP-Club/plugin-hub](https://github.com/Open-WP-Club/plugin-hub)
+1. 🗣 Commented on [#13](https://github.com/Open-WP-Club/google-scholar-wp/pull/13#issuecomment-5662455650) in [Open-WP-Club/google-scholar-wp](https://github.com/Open-WP-Club/google-scholar-wp)
 2. 🚀 Published release [1.1.7](https://github.com/Open-WP-Club/better-viewer-fluent-forms/releases/tag/1.1.7) in [Open-WP-Club/better-viewer-fluent-forms](https://github.com/Open-WP-Club/better-viewer-fluent-forms)
 3. 🚀 Published release [v1.0.0](https://github.com/mgknetcom/scopus-laravel/releases/tag/v1.0.0) in [mgknetcom/scopus-laravel](https://github.com/mgknetcom/scopus-laravel)
 4. 💪 Opened PR [#1](https://github.com/MrGKanev/Shopify-ops/pull/1) in [MrGKanev/Shopify-ops](https://github.com/MrGKanev/Shopify-ops)
