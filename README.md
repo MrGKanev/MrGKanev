@@ -21,9 +21,9 @@
 ### ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/Open-WP-Club/google-scholar-wp/pull/13#issuecomment-5662455650) in [Open-WP-Club/google-scholar-wp](https://github.com/Open-WP-Club/google-scholar-wp)
-2. 🚀 Published release [1.1.7](https://github.com/Open-WP-Club/better-viewer-fluent-forms/releases/tag/1.1.7) in [Open-WP-Club/better-viewer-fluent-forms](https://github.com/Open-WP-Club/better-viewer-fluent-forms)
-3. 🚀 Published release [v1.0.0](https://github.com/mgknetcom/scopus-laravel/releases/tag/v1.0.0) in [mgknetcom/scopus-laravel](https://github.com/mgknetcom/scopus-laravel)
-4. 💪 Opened PR [#1](https://github.com/MrGKanev/Shopify-ops/pull/1) in [MrGKanev/Shopify-ops](https://github.com/MrGKanev/Shopify-ops)
-5. 🚀 Published release [1.5.7](https://github.com/Open-WP-Club/spam-user-detective-wp/releases/tag/1.5.7) in [Open-WP-Club/spam-user-detective-wp](https://github.com/Open-WP-Club/spam-user-detective-wp)
+1. 🚀 Published release [1.1.2](https://github.com/Open-WP-Club/local-pickup-woocommerce/releases/tag/1.1.2) in [Open-WP-Club/local-pickup-woocommerce](https://github.com/Open-WP-Club/local-pickup-woocommerce)
+2. 🚀 Published release [1.1.1](https://github.com/Open-WP-Club/local-pickup-woocommerce/releases/tag/1.1.1) in [Open-WP-Club/local-pickup-woocommerce](https://github.com/Open-WP-Club/local-pickup-woocommerce)
+3. 🚀 Published release [1.1.0](https://github.com/Open-WP-Club/local-pickup-woocommerce/releases/tag/1.1.0) in [Open-WP-Club/local-pickup-woocommerce](https://github.com/Open-WP-Club/local-pickup-woocommerce)
+4. 🚀 Published release [1.6.3](https://github.com/Anvilo-Inc/wp-ashby-jobs/releases/tag/1.6.3) in [Anvilo-Inc/wp-ashby-jobs](https://github.com/Anvilo-Inc/wp-ashby-jobs)
+5. 🎉 Merged PR [#1](https://github.com/MrGKanev/Shopify-ops/pull/1) in [MrGKanev/Shopify-ops](https://github.com/MrGKanev/Shopify-ops)
 <!--END_SECTION:activity-->
