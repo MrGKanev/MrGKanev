@@ -21,9 +21,9 @@
 ### ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.1.2](https://github.com/Open-WP-Club/local-pickup-woocommerce/releases/tag/1.1.2) in [Open-WP-Club/local-pickup-woocommerce](https://github.com/Open-WP-Club/local-pickup-woocommerce)
-2. 🚀 Published release [1.1.1](https://github.com/Open-WP-Club/local-pickup-woocommerce/releases/tag/1.1.1) in [Open-WP-Club/local-pickup-woocommerce](https://github.com/Open-WP-Club/local-pickup-woocommerce)
-3. 🚀 Published release [1.1.0](https://github.com/Open-WP-Club/local-pickup-woocommerce/releases/tag/1.1.0) in [Open-WP-Club/local-pickup-woocommerce](https://github.com/Open-WP-Club/local-pickup-woocommerce)
-4. 🚀 Published release [1.6.3](https://github.com/Anvilo-Inc/wp-ashby-jobs/releases/tag/1.6.3) in [Anvilo-Inc/wp-ashby-jobs](https://github.com/Anvilo-Inc/wp-ashby-jobs)
-5. 🎉 Merged PR [#1](https://github.com/MrGKanev/Shopify-ops/pull/1) in [MrGKanev/Shopify-ops](https://github.com/MrGKanev/Shopify-ops)
+1. 🎉 Merged PR [#5](https://github.com/MrGKanev/WordPress-2-nd-brain/pull/5) in [MrGKanev/WordPress-2-nd-brain](https://github.com/MrGKanev/WordPress-2-nd-brain)
+2. 🚀 Published release [1.1.2](https://github.com/Open-WP-Club/local-pickup-woocommerce/releases/tag/1.1.2) in [Open-WP-Club/local-pickup-woocommerce](https://github.com/Open-WP-Club/local-pickup-woocommerce)
+3. 🚀 Published release [1.1.1](https://github.com/Open-WP-Club/local-pickup-woocommerce/releases/tag/1.1.1) in [Open-WP-Club/local-pickup-woocommerce](https://github.com/Open-WP-Club/local-pickup-woocommerce)
+4. 🚀 Published release [1.1.0](https://github.com/Open-WP-Club/local-pickup-woocommerce/releases/tag/1.1.0) in [Open-WP-Club/local-pickup-woocommerce](https://github.com/Open-WP-Club/local-pickup-woocommerce)
+5. 🚀 Published release [1.6.3](https://github.com/Anvilo-Inc/wp-ashby-jobs/releases/tag/1.6.3) in [Anvilo-Inc/wp-ashby-jobs](https://github.com/Anvilo-Inc/wp-ashby-jobs)
 <!--END_SECTION:activity-->
