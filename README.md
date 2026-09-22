@@ -21,9 +21,9 @@
 ### ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/MrGKanev/WordPress-2-nd-brain/pull/5) in [MrGKanev/WordPress-2-nd-brain](https://github.com/MrGKanev/WordPress-2-nd-brain)
-2. 🚀 Published release [1.1.2](https://github.com/Open-WP-Club/local-pickup-woocommerce/releases/tag/1.1.2) in [Open-WP-Club/local-pickup-woocommerce](https://github.com/Open-WP-Club/local-pickup-woocommerce)
-3. 🚀 Published release [1.1.1](https://github.com/Open-WP-Club/local-pickup-woocommerce/releases/tag/1.1.1) in [Open-WP-Club/local-pickup-woocommerce](https://github.com/Open-WP-Club/local-pickup-woocommerce)
-4. 🚀 Published release [1.1.0](https://github.com/Open-WP-Club/local-pickup-woocommerce/releases/tag/1.1.0) in [Open-WP-Club/local-pickup-woocommerce](https://github.com/Open-WP-Club/local-pickup-woocommerce)
-5. 🚀 Published release [1.6.3](https://github.com/Anvilo-Inc/wp-ashby-jobs/releases/tag/1.6.3) in [Anvilo-Inc/wp-ashby-jobs](https://github.com/Anvilo-Inc/wp-ashby-jobs)
+1. ℹ️ Assigned PR [#1](https://github.com/MrGKanev/univercity-personal-research/pull/1) in [MrGKanev/univercity-personal-research](https://github.com/MrGKanev/univercity-personal-research)
+2. 💪 Opened PR [#1](https://github.com/MrGKanev/univercity-personal-research/pull/1) in [MrGKanev/univercity-personal-research](https://github.com/MrGKanev/univercity-personal-research)
+3. 🚀 Published release [0.3.0](https://github.com/MrGKanev/astro-books-bridge/releases/tag/0.3.0) in [MrGKanev/astro-books-bridge](https://github.com/MrGKanev/astro-books-bridge)
+4. 🚀 Published release [0.0.7](https://github.com/MrGKanev/Editora/releases/tag/0.0.7) in [MrGKanev/Editora](https://github.com/MrGKanev/Editora)
+5. 🗣 Commented on [#1](https://github.com/MrGKanev/astro-inference/issues/1#issuecomment-5747991155) in [MrGKanev/astro-inference](https://github.com/MrGKanev/astro-inference)
 <!--END_SECTION:activity-->
