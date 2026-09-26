@@ -21,9 +21,9 @@
 ### ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#1](https://github.com/MrGKanev/univercity-personal-research/pull/1) in [MrGKanev/univercity-personal-research](https://github.com/MrGKanev/univercity-personal-research)
-2. 💪 Opened PR [#1](https://github.com/MrGKanev/univercity-personal-research/pull/1) in [MrGKanev/univercity-personal-research](https://github.com/MrGKanev/univercity-personal-research)
-3. 🚀 Published release [0.3.0](https://github.com/MrGKanev/astro-books-bridge/releases/tag/0.3.0) in [MrGKanev/astro-books-bridge](https://github.com/MrGKanev/astro-books-bridge)
-4. 🚀 Published release [0.0.7](https://github.com/MrGKanev/Editora/releases/tag/0.0.7) in [MrGKanev/Editora](https://github.com/MrGKanev/Editora)
-5. 🗣 Commented on [#1](https://github.com/MrGKanev/astro-inference/issues/1#issuecomment-5747991155) in [MrGKanev/astro-inference](https://github.com/MrGKanev/astro-inference)
+1. 🚀 Published release [0.4.1](https://github.com/MrGKanev/astro-research-publications/releases/tag/0.4.1) in [MrGKanev/astro-research-publications](https://github.com/MrGKanev/astro-research-publications)
+2. 🚀 Published release [0.4.0](https://github.com/MrGKanev/astro-research-publications/releases/tag/0.4.0) in [MrGKanev/astro-research-publications](https://github.com/MrGKanev/astro-research-publications)
+3. 🚀 Published release [0.3.6](https://github.com/MrGKanev/astro-research-publications/releases/tag/0.3.6) in [MrGKanev/astro-research-publications](https://github.com/MrGKanev/astro-research-publications)
+4. 🚀 Published release [1.7.0](https://github.com/Open-WP-Club/google-scholar-wp/releases/tag/1.7.0) in [Open-WP-Club/google-scholar-wp](https://github.com/Open-WP-Club/google-scholar-wp)
+5. 🎉 Merged PR [#14](https://github.com/Open-WP-Club/google-scholar-wp/pull/14) in [Open-WP-Club/google-scholar-wp](https://github.com/Open-WP-Club/google-scholar-wp)
 <!--END_SECTION:activity-->
