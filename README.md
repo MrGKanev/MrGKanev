@@ -21,9 +21,9 @@
 ### ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.4.1](https://github.com/MrGKanev/astro-research-publications/releases/tag/0.4.1) in [MrGKanev/astro-research-publications](https://github.com/MrGKanev/astro-research-publications)
-2. 🚀 Published release [0.4.0](https://github.com/MrGKanev/astro-research-publications/releases/tag/0.4.0) in [MrGKanev/astro-research-publications](https://github.com/MrGKanev/astro-research-publications)
-3. 🚀 Published release [0.3.6](https://github.com/MrGKanev/astro-research-publications/releases/tag/0.3.6) in [MrGKanev/astro-research-publications](https://github.com/MrGKanev/astro-research-publications)
-4. 🚀 Published release [1.7.0](https://github.com/Open-WP-Club/google-scholar-wp/releases/tag/1.7.0) in [Open-WP-Club/google-scholar-wp](https://github.com/Open-WP-Club/google-scholar-wp)
-5. 🎉 Merged PR [#14](https://github.com/Open-WP-Club/google-scholar-wp/pull/14) in [Open-WP-Club/google-scholar-wp](https://github.com/Open-WP-Club/google-scholar-wp)
+1. 💪 Opened PR [#16](https://github.com/MrGKanev/Shopify-ops/pull/16) in [MrGKanev/Shopify-ops](https://github.com/MrGKanev/Shopify-ops)
+2. 🎉 Merged PR [#18](https://github.com/local-control-panel/operations-engine/pull/18) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
+3. 💪 Opened PR [#18](https://github.com/local-control-panel/operations-engine/pull/18) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
+4. 🎉 Merged PR [#7](https://github.com/local-control-panel/images/pull/7) in [local-control-panel/images](https://github.com/local-control-panel/images)
+5. 🎉 Merged PR [#17](https://github.com/local-control-panel/operations-engine/pull/17) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
 <!--END_SECTION:activity-->
