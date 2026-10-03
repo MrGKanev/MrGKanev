@@ -21,9 +21,9 @@
 ### ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/MrGKanev/Shopify-ops/pull/16) in [MrGKanev/Shopify-ops](https://github.com/MrGKanev/Shopify-ops)
-2. 🎉 Merged PR [#18](https://github.com/local-control-panel/operations-engine/pull/18) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
-3. 💪 Opened PR [#18](https://github.com/local-control-panel/operations-engine/pull/18) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
-4. 🎉 Merged PR [#7](https://github.com/local-control-panel/images/pull/7) in [local-control-panel/images](https://github.com/local-control-panel/images)
-5. 🎉 Merged PR [#17](https://github.com/local-control-panel/operations-engine/pull/17) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
+1. 🎉 Merged PR [#24](https://github.com/local-control-panel/operations-engine/pull/24) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
+2. 💪 Opened PR [#24](https://github.com/local-control-panel/operations-engine/pull/24) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
+3. 🎉 Merged PR [#23](https://github.com/local-control-panel/operations-engine/pull/23) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
+4. 💪 Opened PR [#23](https://github.com/local-control-panel/operations-engine/pull/23) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
+5. 🎉 Merged PR [#22](https://github.com/local-control-panel/operations-engine/pull/22) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
 <!--END_SECTION:activity-->
