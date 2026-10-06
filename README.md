@@ -21,9 +21,9 @@
 ### ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/local-control-panel/operations-engine/pull/24) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
-2. 💪 Opened PR [#24](https://github.com/local-control-panel/operations-engine/pull/24) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
-3. 🎉 Merged PR [#23](https://github.com/local-control-panel/operations-engine/pull/23) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
-4. 💪 Opened PR [#23](https://github.com/local-control-panel/operations-engine/pull/23) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
-5. 🎉 Merged PR [#22](https://github.com/local-control-panel/operations-engine/pull/22) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
+1. 🎉 Merged PR [#6](https://github.com/MrGKanev/WordPress-2-nd-brain/pull/6) in [MrGKanev/WordPress-2-nd-brain](https://github.com/MrGKanev/WordPress-2-nd-brain)
+2. 🎉 Merged PR [#32](https://github.com/local-control-panel/operations-engine/pull/32) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
+3. 🚀 Published release [1.2.0](https://github.com/Open-WP-Club/local-pickup-woocommerce/releases/tag/1.2.0) in [Open-WP-Club/local-pickup-woocommerce](https://github.com/Open-WP-Club/local-pickup-woocommerce)
+4. 🚀 Published release [1.1.6](https://github.com/Open-WP-Club/local-pickup-woocommerce/releases/tag/1.1.6) in [Open-WP-Club/local-pickup-woocommerce](https://github.com/Open-WP-Club/local-pickup-woocommerce)
+5. 🚀 Published release [1.1.5](https://github.com/Open-WP-Club/local-pickup-woocommerce/releases/tag/1.1.5) in [Open-WP-Club/local-pickup-woocommerce](https://github.com/Open-WP-Club/local-pickup-woocommerce)
 <!--END_SECTION:activity-->
