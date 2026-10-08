@@ -11,11 +11,11 @@
 ### 📖 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Everyone is vibe coding their own software, and the future is already fragmented](https://gkanev.com/posts/vibe-coding-your-own-software-fragmented-future/)
 - [Cloudflare&#39;s trust is the vulnerability](https://gkanev.com/posts/cloudflare-trust-is-the-vulnerability/)
 - [Why I Built Shopify Ops](https://gkanev.com/posts/why-i-built-shopify-ops/)
 - [Why Rise of Cultures Finally Lost Me](https://gkanev.com/posts/rise-of-cultures-rant/)
 - [What if We Just… Made Billionaires Fix Their Companies to Avoid Taxes?](https://gkanev.com/posts/what-if-we-just-made-billionaires-fix-their-companies-to-avoid-taxes/)
-- [AI-Powered Cyberattack: When Bots Start Hacking Other Bots](https://gkanev.com/posts/ai-powered-cyberattack-when-bots-start-hacking-other-bots/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Recent GitHub activity
