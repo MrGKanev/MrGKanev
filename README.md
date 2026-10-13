@@ -21,9 +21,9 @@
 ### ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#72](https://github.com/local-control-panel/operations-engine/pull/72) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
-2. 💪 Opened PR [#72](https://github.com/local-control-panel/operations-engine/pull/72) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
-3. 💪 Opened PR [#6](https://github.com/local-control-panel/agents/pull/6) in [local-control-panel/agents](https://github.com/local-control-panel/agents)
-4. 💪 Opened PR [#5](https://github.com/local-control-panel/agents/pull/5) in [local-control-panel/agents](https://github.com/local-control-panel/agents)
-5. 🎉 Merged PR [#71](https://github.com/local-control-panel/operations-engine/pull/71) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
+1. 🎉 Merged PR [#35](https://github.com/local-control-panel/translate/pull/35) in [local-control-panel/translate](https://github.com/local-control-panel/translate)
+2. 🎉 Merged PR [#31](https://github.com/local-control-panel/translate/pull/31) in [local-control-panel/translate](https://github.com/local-control-panel/translate)
+3. 🎉 Merged PR [#41](https://github.com/local-control-panel/translate/pull/41) in [local-control-panel/translate](https://github.com/local-control-panel/translate)
+4. 💪 Opened PR [#91](https://github.com/local-control-panel/operations-engine/pull/91) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
+5. 🎉 Merged PR [#91](https://github.com/local-control-panel/operations-engine/pull/91) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
 <!--END_SECTION:activity-->
