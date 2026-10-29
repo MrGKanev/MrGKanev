@@ -21,9 +21,9 @@
 ### ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#110](https://github.com/local-control-panel/operations-engine/pull/110) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
-2. 💪 Opened PR [#110](https://github.com/local-control-panel/operations-engine/pull/110) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
-3. 🎉 Merged PR [#109](https://github.com/local-control-panel/operations-engine/pull/109) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
-4. 🎉 Merged PR [#81](https://github.com/local-control-panel/translate/pull/81) in [local-control-panel/translate](https://github.com/local-control-panel/translate)
-5. 💪 Opened PR [#81](https://github.com/local-control-panel/translate/pull/81) in [local-control-panel/translate](https://github.com/local-control-panel/translate)
+1. 🚀 Published release [1.9.1](https://github.com/Open-WP-Club/Priority-Processing-WooCommerce/releases/tag/1.9.1) in [Open-WP-Club/Priority-Processing-WooCommerce](https://github.com/Open-WP-Club/Priority-Processing-WooCommerce)
+2. 🚀 Published release [1.9.0](https://github.com/Open-WP-Club/Priority-Processing-WooCommerce/releases/tag/1.9.0) in [Open-WP-Club/Priority-Processing-WooCommerce](https://github.com/Open-WP-Club/Priority-Processing-WooCommerce)
+3. 🚀 Published release [1.8.2](https://github.com/Open-WP-Club/Priority-Processing-WooCommerce/releases/tag/1.8.2) in [Open-WP-Club/Priority-Processing-WooCommerce](https://github.com/Open-WP-Club/Priority-Processing-WooCommerce)
+4. 🚀 Published release [1.8.0](https://github.com/Open-WP-Club/plugin-hub/releases/tag/1.8.0) in [Open-WP-Club/plugin-hub](https://github.com/Open-WP-Club/plugin-hub)
+5. 💪 Opened PR [#115](https://github.com/local-control-panel/operations-engine/pull/115) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
 <!--END_SECTION:activity-->
