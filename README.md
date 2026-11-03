@@ -21,9 +21,9 @@
 ### ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.9.1](https://github.com/Open-WP-Club/Priority-Processing-WooCommerce/releases/tag/1.9.1) in [Open-WP-Club/Priority-Processing-WooCommerce](https://github.com/Open-WP-Club/Priority-Processing-WooCommerce)
-2. 🚀 Published release [1.9.0](https://github.com/Open-WP-Club/Priority-Processing-WooCommerce/releases/tag/1.9.0) in [Open-WP-Club/Priority-Processing-WooCommerce](https://github.com/Open-WP-Club/Priority-Processing-WooCommerce)
-3. 🚀 Published release [1.8.2](https://github.com/Open-WP-Club/Priority-Processing-WooCommerce/releases/tag/1.8.2) in [Open-WP-Club/Priority-Processing-WooCommerce](https://github.com/Open-WP-Club/Priority-Processing-WooCommerce)
-4. 🚀 Published release [1.8.0](https://github.com/Open-WP-Club/plugin-hub/releases/tag/1.8.0) in [Open-WP-Club/plugin-hub](https://github.com/Open-WP-Club/plugin-hub)
-5. 💪 Opened PR [#115](https://github.com/local-control-panel/operations-engine/pull/115) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
+1. 💪 Opened PR [#30](https://github.com/local-control-panel/images/pull/30) in [local-control-panel/images](https://github.com/local-control-panel/images)
+2. 💪 Opened PR [#129](https://github.com/local-control-panel/operations-engine/pull/129) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
+3. 🎉 Merged PR [#29](https://github.com/local-control-panel/images/pull/29) in [local-control-panel/images](https://github.com/local-control-panel/images)
+4. 💪 Opened PR [#29](https://github.com/local-control-panel/images/pull/29) in [local-control-panel/images](https://github.com/local-control-panel/images)
+5. 🎉 Merged PR [#128](https://github.com/local-control-panel/operations-engine/pull/128) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
 <!--END_SECTION:activity-->
