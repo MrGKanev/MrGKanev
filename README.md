@@ -21,9 +21,9 @@
 ### ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/local-control-panel/images/pull/30) in [local-control-panel/images](https://github.com/local-control-panel/images)
-2. 💪 Opened PR [#129](https://github.com/local-control-panel/operations-engine/pull/129) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
-3. 🎉 Merged PR [#29](https://github.com/local-control-panel/images/pull/29) in [local-control-panel/images](https://github.com/local-control-panel/images)
-4. 💪 Opened PR [#29](https://github.com/local-control-panel/images/pull/29) in [local-control-panel/images](https://github.com/local-control-panel/images)
-5. 🎉 Merged PR [#128](https://github.com/local-control-panel/operations-engine/pull/128) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
+1. 🎉 Merged PR [#130](https://github.com/local-control-panel/operations-engine/pull/130) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
+2. 💪 Opened PR [#130](https://github.com/local-control-panel/operations-engine/pull/130) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
+3. 🗣 Commented on [#8](https://github.com/Open-WP-Club/multi-store-sync-for-woocommerce/pull/8#issuecomment-6655056671) in [Open-WP-Club/multi-store-sync-for-woocommerce](https://github.com/Open-WP-Club/multi-store-sync-for-woocommerce)
+4. 🗣 Commented on [#8](https://github.com/Open-WP-Club/multi-store-sync-for-woocommerce/pull/8#issuecomment-6654866564) in [Open-WP-Club/multi-store-sync-for-woocommerce](https://github.com/Open-WP-Club/multi-store-sync-for-woocommerce)
+5. 💪 Opened PR [#30](https://github.com/local-control-panel/images/pull/30) in [local-control-panel/images](https://github.com/local-control-panel/images)
 <!--END_SECTION:activity-->
