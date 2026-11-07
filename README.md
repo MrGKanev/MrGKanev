@@ -21,9 +21,9 @@
 ### ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#130](https://github.com/local-control-panel/operations-engine/pull/130) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
-2. 💪 Opened PR [#130](https://github.com/local-control-panel/operations-engine/pull/130) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
-3. 🗣 Commented on [#8](https://github.com/Open-WP-Club/multi-store-sync-for-woocommerce/pull/8#issuecomment-6655056671) in [Open-WP-Club/multi-store-sync-for-woocommerce](https://github.com/Open-WP-Club/multi-store-sync-for-woocommerce)
-4. 🗣 Commented on [#8](https://github.com/Open-WP-Club/multi-store-sync-for-woocommerce/pull/8#issuecomment-6654866564) in [Open-WP-Club/multi-store-sync-for-woocommerce](https://github.com/Open-WP-Club/multi-store-sync-for-woocommerce)
-5. 💪 Opened PR [#30](https://github.com/local-control-panel/images/pull/30) in [local-control-panel/images](https://github.com/local-control-panel/images)
+1. 🗣 Commented on [#8](https://github.com/Open-WP-Club/multi-store-sync-for-woocommerce/pull/8#issuecomment-6695111301) in [Open-WP-Club/multi-store-sync-for-woocommerce](https://github.com/Open-WP-Club/multi-store-sync-for-woocommerce)
+2. 🗣 Commented on [#8](https://github.com/Open-WP-Club/multi-store-sync-for-woocommerce/pull/8#issuecomment-6694021992) in [Open-WP-Club/multi-store-sync-for-woocommerce](https://github.com/Open-WP-Club/multi-store-sync-for-woocommerce)
+3. 🎉 Merged PR [#131](https://github.com/local-control-panel/operations-engine/pull/131) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
+4. 💪 Opened PR [#131](https://github.com/local-control-panel/operations-engine/pull/131) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
+5. 🎉 Merged PR [#130](https://github.com/local-control-panel/operations-engine/pull/130) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
 <!--END_SECTION:activity-->
