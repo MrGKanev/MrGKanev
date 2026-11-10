@@ -21,9 +21,9 @@
 ### ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/Open-WP-Club/multi-store-sync-for-woocommerce/pull/8#issuecomment-6695111301) in [Open-WP-Club/multi-store-sync-for-woocommerce](https://github.com/Open-WP-Club/multi-store-sync-for-woocommerce)
-2. 🗣 Commented on [#8](https://github.com/Open-WP-Club/multi-store-sync-for-woocommerce/pull/8#issuecomment-6694021992) in [Open-WP-Club/multi-store-sync-for-woocommerce](https://github.com/Open-WP-Club/multi-store-sync-for-woocommerce)
-3. 🎉 Merged PR [#131](https://github.com/local-control-panel/operations-engine/pull/131) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
-4. 💪 Opened PR [#131](https://github.com/local-control-panel/operations-engine/pull/131) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
-5. 🎉 Merged PR [#130](https://github.com/local-control-panel/operations-engine/pull/130) in [local-control-panel/operations-engine](https://github.com/local-control-panel/operations-engine)
+1. 🎉 Merged PR [#149](https://github.com/orbden/operations-engine/pull/149) in [orbden/operations-engine](https://github.com/orbden/operations-engine)
+2. 🎉 Merged PR [#105](https://github.com/orbden/translate/pull/105) in [orbden/translate](https://github.com/orbden/translate)
+3. 💪 Opened PR [#105](https://github.com/orbden/translate/pull/105) in [orbden/translate](https://github.com/orbden/translate)
+4. 💪 Opened PR [#149](https://github.com/orbden/operations-engine/pull/149) in [orbden/operations-engine](https://github.com/orbden/operations-engine)
+5. 🎉 Merged PR [#148](https://github.com/orbden/operations-engine/pull/148) in [orbden/operations-engine](https://github.com/orbden/operations-engine)
 <!--END_SECTION:activity-->
