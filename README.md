@@ -21,9 +21,9 @@
 ### ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#132](https://github.com/orbden/translate/pull/132) in [orbden/translate](https://github.com/orbden/translate)
-2. 💪 Opened PR [#132](https://github.com/orbden/translate/pull/132) in [orbden/translate](https://github.com/orbden/translate)
-3. 🎉 Merged PR [#169](https://github.com/orbden/operations-engine/pull/169) in [orbden/operations-engine](https://github.com/orbden/operations-engine)
-4. 💪 Opened PR [#169](https://github.com/orbden/operations-engine/pull/169) in [orbden/operations-engine](https://github.com/orbden/operations-engine)
-5. 🎉 Merged PR [#131](https://github.com/orbden/translate/pull/131) in [orbden/translate](https://github.com/orbden/translate)
+1. 🎉 Merged PR [#184](https://github.com/orbden/operations-engine/pull/184) in [orbden/operations-engine](https://github.com/orbden/operations-engine)
+2. 💪 Opened PR [#184](https://github.com/orbden/operations-engine/pull/184) in [orbden/operations-engine](https://github.com/orbden/operations-engine)
+3. 🎉 Merged PR [#21](https://github.com/orbden/agents/pull/21) in [orbden/agents](https://github.com/orbden/agents)
+4. 🎉 Merged PR [#40](https://github.com/orbden/images/pull/40) in [orbden/images](https://github.com/orbden/images)
+5. 💪 Opened PR [#21](https://github.com/orbden/agents/pull/21) in [orbden/agents](https://github.com/orbden/agents)
 <!--END_SECTION:activity-->
