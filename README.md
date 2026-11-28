@@ -21,9 +21,9 @@
 ### ⚡ Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#231](https://github.com/orbden/operations-engine/pull/231#issuecomment-7192180190) in [orbden/operations-engine](https://github.com/orbden/operations-engine)
-2. 🎉 Merged PR [#230](https://github.com/orbden/operations-engine/pull/230) in [orbden/operations-engine](https://github.com/orbden/operations-engine)
-3. 🎉 Merged PR [#147](https://github.com/orbden/translate/pull/147) in [orbden/translate](https://github.com/orbden/translate)
-4. 💪 Opened PR [#147](https://github.com/orbden/translate/pull/147) in [orbden/translate](https://github.com/orbden/translate)
-5. 💪 Opened PR [#231](https://github.com/orbden/operations-engine/pull/231) in [orbden/operations-engine](https://github.com/orbden/operations-engine)
+1. 🎉 Merged PR [#151](https://github.com/orbden/translate/pull/151) in [orbden/translate](https://github.com/orbden/translate)
+2. 💪 Opened PR [#151](https://github.com/orbden/translate/pull/151) in [orbden/translate](https://github.com/orbden/translate)
+3. 💪 Opened PR [#250](https://github.com/orbden/operations-engine/pull/250) in [orbden/operations-engine](https://github.com/orbden/operations-engine)
+4. 🎉 Merged PR [#249](https://github.com/orbden/operations-engine/pull/249) in [orbden/operations-engine](https://github.com/orbden/operations-engine)
+5. 🎉 Merged PR [#150](https://github.com/orbden/translate/pull/150) in [orbden/translate](https://github.com/orbden/translate)
 <!--END_SECTION:activity-->
